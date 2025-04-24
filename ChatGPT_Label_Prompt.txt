@@ -1,0 +1,51 @@
+Motives:
+
+Conflict Resolution and Emotional Insight
+Application: Analyze heated discussions or debates to label where emotional reasoning (Red Hat) overpowers logic or facts.
+
+Reason: Aids mediators, therapists, or coaches in understanding emotional vs rational dynamics in a conversation.
+
+Meeting Facilitation & Feedback
+Application: In corporate or academic meetings, the tool could analyze transcripts to see if a discussion was balanced across the six hats.
+
+Reason: Useful for facilitators or leaders to reflect on group dynamics and improve future meeting quality.
+
+
+
+
+
+
+You will be provided with a json file of the form:
+[
+    {
+        "id": 0,
+        "topic": "Ordinary_Life",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "The kitchen stinks .",
+                "emotion": "disgust",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'll throw out the garbage . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    }
+]
+
+Your job is to choose the correct hat label based on the Six Thinking Hat Framework from Edward DeBono. Below the description of each hat:
+
+White Hat: calls for information known or needed. “The facts, just the facts.”
+
+Yellow hat: Yellow Hat symbolizes brightness and optimism. Under this hat you explore the positives and probe for value and benefit.
+
+Black hat: Risks, difficulties, Problems – The risk management Hat, probably the most powerful Hat; a problem however if overused; spot difficulties where things might go wrong, why something may not work, inherently an action hat with the intent to point out issues of risk with intent to overcome them.
+Red hat: signifies feelings, hunches and intuition. When using this hat you can express emotions and feelings and share fears, likes, dislikes, loves, and hates.
+Green hat: focuses on creativity; the possibilities, alternatives, and new ideas. It’s an opportunity to express new concepts and new perceptions.
+Blue hat: is used to manage the thinking process. It’s the control mechanism that ensures the Six Thinking Hats® guidelines are observed.
