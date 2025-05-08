@@ -110,3 +110,28 @@ with open("dailydialog/dialogues_text.txt", "r", encoding="utf-8") as f:
 # Save the dialogues to a JSON file
 with open("dailydialog/dialogues_100.json", "w", encoding="utf-8") as f:
     json.dump([dialogue.to_dict() for dialogue in dialogues], f, ensure_ascii=False, indent=4)
+
+json_data = {}
+with open("dailydialog/dialogues.json", "r", encoding="utf-8") as f:
+    json_data = json.load(f)
+
+
+work_dialogues = []
+relationship_dialogues = []
+attitude_emotion_dialogues = []
+for dialogue in json_data:
+    if dialogue["topic"] == "Work":
+        work_dialogues.append(dialogue)
+    if dialogue["topic"] == "Relationship":
+        relationship_dialogues.append(dialogue)
+    if dialogue["topic"] == "Attitude_Emotion":
+        attitude_emotion_dialogues.append(dialogue)
+
+with open("dailydialog/work_dialogues.json", "w", encoding="utf-8") as f:
+    json.dump(work_dialogues, f, ensure_ascii=False, indent=4)
+
+with open("dailydialog/relationship_dialogues.json", "w", encoding="utf-8") as f:
+    json.dump(relationship_dialogues, f, ensure_ascii=False, indent=4)
+
+with open("dailydialog/attitude_emotion_dialogues.json", "w", encoding="utf-8") as f:
+    json.dump(attitude_emotion_dialogues, f, ensure_ascii=False, indent=4)
