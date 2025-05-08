@@ -1,0 +1,5 @@
+venv
+Yellow Hat
+__pycache__
+*.pyc
+*.pyo
