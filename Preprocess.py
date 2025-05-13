@@ -107,10 +107,6 @@ with open("dailydialog/dialogues_text.txt", "r", encoding="utf-8") as f:
         dialogue_id += 1
 
 
-# Save the dialogues to a JSON file
-with open("dailydialog/dialogues_100.json", "w", encoding="utf-8") as f:
-    json.dump([dialogue.to_dict() for dialogue in dialogues], f, ensure_ascii=False, indent=4)
-
 json_data = {}
 with open("dailydialog/dialogues.json", "r", encoding="utf-8") as f:
     json_data = json.load(f)
@@ -127,11 +123,46 @@ for dialogue in json_data:
     if dialogue["topic"] == "Attitude_Emotion":
         attitude_emotion_dialogues.append(dialogue)
 
-with open("dailydialog/work_dialogues.json", "w", encoding="utf-8") as f:
-    json.dump(work_dialogues, f, ensure_ascii=False, indent=4)
+# Save extracted dialogues to json file
+try:
+    with open("dailydialog/work_dialogues.json", "x", encoding="utf-8") as f:
+        json.dump(work_dialogues, f, ensure_ascii=False, indent=4)
+except FileExistsError:
+    print("File already exists. Skipping creation of work_dialogues.json")
 
-with open("dailydialog/relationship_dialogues.json", "w", encoding="utf-8") as f:
-    json.dump(relationship_dialogues, f, ensure_ascii=False, indent=4)
+try:
+    with open("dailydialog/relationship_dialogues.json", "x", encoding="utf-8") as f:
+        json.dump(relationship_dialogues, f, ensure_ascii=False, indent=4)
+except FileExistsError:
+    print("File already exists. Skipping creation of relationship_dialogues.json")
 
-with open("dailydialog/attitude_emotion_dialogues.json", "w", encoding="utf-8") as f:
-    json.dump(attitude_emotion_dialogues, f, ensure_ascii=False, indent=4)
+try:
+    with open("dailydialog/attitude_emotion_dialogues.json", "x", encoding="utf-8") as f:
+        json.dump(attitude_emotion_dialogues, f, ensure_ascii=False, indent=4)
+except FileExistsError:
+    print("File already exists. Skipping creation of attitude_emotion_dialogues.json")
+
+# Subset the data for hand-labelling
+try:
+    with open("dailydialog/50_work_dialogues.json", "x", encoding="utf-8") as f:
+        json.dump(work_dialogues[0:50], f, ensure_ascii=False, indent=4)
+except FileExistsError:
+    print("File already exists. Skipping creation of 50_work_dialogues.json")
+
+try:
+    with open("dailydialog/50_relationship_dialogues.json", "x", encoding="utf-8") as f:
+        json.dump(relationship_dialogues[0:50], f, ensure_ascii=False, indent=4)
+except FileExistsError:
+    print("File already exists. Skipping creation of 50_relationship_dialogues.json")
+
+try:
+    with open("dailydialog/1_50_emotion&attitude_dialogues.json", "x", encoding="utf-8") as f:
+        json.dump(attitude_emotion_dialogues[0:50], f, ensure_ascii=False, indent=4)
+except FileExistsError:
+    print("File already exists. Skipping creation of 1_50_emotion&attitude_dialogues.json")
+
+try:
+    with open("dailydialog/2_50_emotion&attitude_dialogues.json", "x", encoding="utf-8") as f:
+        json.dump(attitude_emotion_dialogues[51:101], f, ensure_ascii=False, indent=4)
+except FileExistsError:
+    print("File already exists. Skipping creation of 2_50_emotion&attitude_dialogues.json")

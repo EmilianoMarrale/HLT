@@ -1,0 +1,2535 @@
+[
+    {
+        "id": 10434,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Everything's gone wrong .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I know , it's not as I had planned .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "What are we going to do now ?",
+                "emotion": "sadness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I'll speak to Bob , he'll be able to help us . __eou__",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10435,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Okay , so we're agreed on 900 .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm happy with that price .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Let's shake on it .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Okay , let's shake on it . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10436,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Did you take the job ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "No .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Why not ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "It involves a lot of travel . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10437,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello ! Is this Mr . Chang ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes . Who is speaking ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "This is Kelly speaking . I am calling from London . How are you , Mr . Chang ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Oh , Kelly , I couldn't recognize your voice . Well , I'm fine .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Mr . Chang , I just want to tell you that we are leaving London for Beijing by flight CP 645 on Saturday morning . Could you meet us at the airport , please ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Excuse me , I couldn't quite hear you . This line is crossed . Can you speak louder , please ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "I will say it again ... Do you hear me now ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Much better . I will definitely go to the airport to meet you .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "Thank you very much . Goodbye .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "Goodbye . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10439,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Look , Bob hasn't made any progress on that project .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I see what you mean .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "We should have a word with him .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Let me handle it . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10441,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hi Bob , I won't be in work tomorrow .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Why , what's the problem ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I have a dentist appointment .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Okay . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10460,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What kind of personality do you think you have ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I am very active and energetic . I approach things enthusiastically and I don't like leaving them half done .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Do you think you are introverted or extroverted ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I am quite outgoing , I think . I enjoy mixing and doing things with other people .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "What do you think is the most important thing for you to be happy ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I maintain that the most important thing is having good friends . A person can't live all by himself . A friend in need is a friend indeed . So the more really close friends I have , the happier I am .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Do you have any friend you would call really close ones ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Yes , I would call three of my former classmates really close friends . We often get together and talk with each other . Whenever I counter difficulties , they are always ready to give me a hand .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "What kind of people would you like to work with ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "People who are honest , dedicated to their work and have integrity .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "What kind of people you find hard to work with ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 11,
+                "utterance": "Slacker and those who violate working principles . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10461,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Bob , What are you thinking about ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm thinking about that idea we talked about .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Do you think it'll work ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I'm not sure . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10463,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Can you work over tonight ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Sorry , I'm supposed to be with my son .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Okay , I'll ask Bob to cover it .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Thanks . I appreciate it . __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10464,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I thought about what you said .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "And what did you decide ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I decided that you're right .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I'm glad you saw the reason . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10465,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello , Bob . Can you give me an update of the situation ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Mary's is handling it .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Is everything under control ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Of course . Mary is our most experienced member . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10466,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Is it okay to have a day off next week ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Why ? What's the problem ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I need to go to the dentist .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Okay , I'll get Bob to cover you . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10467,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm going to let Bob know about the merger .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It makes no sense to tell him about that .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Why ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Because he'll tell Mary and that will cause us problems . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10468,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm tired .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Okay , let's call it a day . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10469,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Sorry , Mary , I can't make it in time for dinner .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Okay , Bob , when will I see you ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Maybe I will be around later .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Okay , I'll see you later . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10470,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Bob was late for work this morning .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Has he been late before ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Yes , once last week .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Thanks for letting me know . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10471,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Maybe you should have told me first ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Why ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Because we're partners .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I realize that but I needed to make a decision . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10472,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "May I help you ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes , I'm looking for Bob .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "He's in a meeting with Phil .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "No problem , I can wait . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10473,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What is this for ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It's the key for the safety deposit box .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Okay , thanks .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "You're welcome , glad to be of assistance . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10474,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "We're having trouble with Bob .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What's the problem ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "He's been late for work twice .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Okay , I'll speak to him . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10475,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "John , do you have a minute ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Oh , hi , Leo . Sure , what ’ s up ?",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Well , I ’ Ve been meaning to talk to you about the situation in the office .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "But I ’ m not in there very often . It ’ s so noisy that I can ’ t work .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "That ’ s exactly what I ’ m getting at . We ’ re supposed to be able to do our preparation and marking in that office , but have you noticed ? Jack constantly has students coming in to get help with his course . A lot people are going in and out .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Has anybody spoken to him about it ?",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "No , not yet , but someone ’ s going to have to .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "We really can ’ t ask him to stop having students come in for help , can we ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "No , of course not . But I ’ m not able to do my work and neither are you .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "How about recommending him to use the storage room down the hall ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "Oh , that would be too small .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 11,
+                "utterance": "With the cabinets taken out , it might be bigger than it looks .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 12,
+                "utterance": "Come to think of it , you may be on to something . Let ’ s go have a look .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 13,
+                "utterance": "Let's rock n ' roll . __eou__",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10476,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mrs . Phoebe , here are your ordered goods . Please inspect the goods now .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "All right . Let me have a check . Can you tell me how can you inspect your exported goods ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Our quality control department is in charge of the inspection , which is directly under general manager . It is essential to attach the importance to the quality of goods . It is the basement for the future cooperation .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "That is good . And here I give you a piece of advice . You should have used stronger cardboard boxes for such a heavy item . Besides , it's better to secure the cartons with metal straps . What's more , the order number wasn't anywhere on some of the boxes .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I realize that now . I will do that after a while .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Thank you . Can I open the packages to check the color and style ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Of course , let me help you .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "The color and style are consistent with the sample . Great !",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "You know , we are superior to other clothes companies .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "Yes , that's for sure . There is nothing wrong with the quality . I think you'd better pack them first in plastic bags , than in cartons .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "OK . We will manage it later . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10477,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello , Green Trading Company . What can I do for you ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm Mr . Stephen's secretary . He has an appointment with Mr . Green today .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Yes , it will be at three o ' clock this afternoon .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I'm afraid we have to reschedule it .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Didn't we make that appointment a long time ago ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I'm very sorry . But Mr . Stephen must leave for Hong Kong right away .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "How about Friday afternoon ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "That will be fine . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10478,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Kim , have you made contact with Mr . Lee ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Not yet , Mr . Wang . But I'm working on it .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "What seems to be the problem ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I just keep getting a busy signal .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Maybe his phone is out of order . Anyway , keep working on it . I really need an answer about the contract I sent him .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "All right , I'll let you know when I get through . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10479,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Linda , it's really late . Let's call it a day .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Good idea . We can finish this project the first thing tomorrow morning .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Sure thing . Do you want me to give you a ride home ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "That ’ s great . Thanks for the ride . I really appreciate 1 it . You know my car is still in the shop .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Don't mention it . It ’ s my pleasure .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "It's very nice of you . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10480,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mrs . Lee , I ’ Ve stayed here for almost a week . And I really must leave tomorrow .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Please feel free to stay as long as you want . You know you ’ re always welcome here .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Thank you . You ’ Ve been so nice to me .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Is there anything else I can do for you before your leave ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "No , thanks . You ’ Ve done a lot for me already . Thank you for everything .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Don ’ t mention it . I ’ Ve really enjoyed your company . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10481,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Oh , this is Monica",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "OK . Commodity inspection is really an important part of our trade contract .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Yes . Let's first define the inspection right .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Following the rules of world business , the exporters have the right to inspect the goods before the delivery , while the importers have the right to re-inspect the goods after their arrival .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Would you tell me how the inspection is conducted before shipment and by which agency ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Inspection is to be done by the China Commodity Inspection and Testing Bureau . Usually inspection is conducted within five days before each shipment .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "And can you tell me about the re-inspection ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Yes . The re-inspection should be made within seven days upon the arrival , and if any discrepancy is found , the claim must be raised within one month .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "I see . How do they make testing and analysis of this item ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "They always use the standard and method laid down in the contract .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "What if the results from the two inspections do not coincide with each other ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 11,
+                "utterance": "A seminar of technical specialists including the surveyors from both sides will be held to clarify which result is correct . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10482,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I've been working hard for a whole year . I really need a break .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That's true . You need to take some time off to relax .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "You said it . I'm looking forward to my annual vacation .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "When are you going to take your vacation ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Later this month . I can't wait !",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I really envy you . You know I'm not taking my vacation until December . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10483,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Your PC is so amazing . Are you doing trade on internet ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Thank you for your compliment . I bought this PC with my first-month salary . I am getting to know the on-line trade .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I'm wondering if you often trade with others on the internet .",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yes , I often do business through internet now .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Oh , really ? Is it a good way ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Yes , very gorgeous . Sometimes , I can deal with my business without stepping out of our house .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "What advantages does it have ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Firstly , it is convenient . And secondly , it has low cost , because you know you only need to pay the fee of internet service .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "I agree with you . It will cost too much when going abroad to join the exhibition .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "The most important is that it is very convenient . You know you can browse the website and send E-mails to your customers at any time . Even you can have e-contract with your regular customers .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "So cool , if we do business through other ways , it will cost a lot of time .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 11,
+                "utterance": "Sure , but every coin has two sides . Doing business through the internet is not as safe as doing business through traditional ways .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 12,
+                "utterance": "Will you give me some suggestion ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 13,
+                "utterance": "Of course , such as Alabama , which is a famous website .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 14,
+                "utterance": "Thank you . Maybe I will do business through internet in the future . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10484,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mr . Wang , have you enjoyed your stay here ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Of course , I ’ Ve enjoyed it very much . I ’ Ve met my old friends and made some new friends .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "We ’ Ve all enjoyed being with you . When will you come back ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Sometime next year .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I ’ m looking forward to seeing you again . Take care .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "The same to you . Keep in touch . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10485,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I heard you were promoted to general manager of IBM ’ s China Head quarters .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That ’ s true . I got the news yesterday .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "You did a good job for the company . So , this is your first day in the new position . How do you feel ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Not bad . I ’ m confident . And I like challenges .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I believe you are cut out for this position .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Thank you . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10486,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello , Fred . What are you doing ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm doing the business online .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Can you tell me the concept of e-commerce ? Now , many people mentioned the word , ' e-commerce ' , in front of me .",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "E-commerce , or Electronic Commerce is the practice of purchasing and selling products or services over the Internet .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "What kinds of channels can you use in e-commerce ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "We can complete a trade by email , electronic data interchange and smart cards , and so on .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "What are the benefits of e-commerce ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Firstly , it can overcome the geographic limitation . And secondly , e-commerce can lower the internal costs . And thirdly , people like us , can also open stores on Internet .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "How things have changed now ! __eou__",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10487,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Your silk garments have aroused much interest in our country ever since our first order was put on the market . We have no doubt we can do better this year if you appoint us your sales agent .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "We appreciate your intention , but the amount of your orders last year was moderate .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "That's true . However at the Fair last March , people were so interested in Chinese garments that the demand this year will surely increase .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Do you think it will help if we appoint a local agent ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I'm sure it will , if we are appointed your agent . Your garments are attractive , and we , a well-established importer with multiple sales channels , can boost the sales .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Well , we'll consider your proposal . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10488,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I know that you are interested in our washers .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes , we are thinking of placing an order . However we would like to know what kinds of machines are available for export and in addition your sales terms , including mode of payment , discount and possible date of delivery .",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "We supply washers of all types and sizes . We have years of experience in the manufacture of washers .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "We have read about this in your sales literature . Could you give us some idea of your prices ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Our prices compare favorably with those offered by other manufactures either in Europe or anywhere else . Here are our latest price lists . You will see that our prices are very attractive .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Do you take special orders ? That is , do you make machines according to the specific requirements from clients ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Sure , we do .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "How long does it usually take you to make delivery ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "As a rule , we deliver all our orders within three months after receipt of relevant L / C . It takes longer , of course , for special orders . In no case would it take longer than six months .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "Good . One more thing , we'd like you to quote us on CIF basis .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "Okay . No problem . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10489,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mr . Smith , I would like to get right to the point here . First , we need to talk about how much each company will pay .",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Well , we want to have the largest share . Our company is much larger than yours , and we have been in business longer .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Let's look at that another way . The major point is the value that we add , not who has been in business longer , or is bigger .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "What are you thinking about ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "We do not want to place ourselves in an inferior position . We are a good , small company---that's why you are interested .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Then , what would make you feel more comfortable ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "If you take a 75 % position in the venture , we would take a back seat to you . __eou__",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10490,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "This is our best product .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "How long will it take to make five hundred ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "They'll be done before the end of the week .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Good . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10491,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Have you got any specific proposal about the terms of payment ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I wonder if we can make payment for this order by documentary collection .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I'm sorry to say the only term of payment we can accept is 100 % irrevocable letter of credit payable against shipping documents .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "But our order this time is very large . To open an L / C for such a large amount at a bank is costly . Can you be a bit more flexible and bend the rule a little ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I'm afraid not . We insist on a letter of credit , because as seller , we also have the problem of funds being tied up .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "To be frank , a letter of credit would increase the cost of my import . When I open a letter of credit with a bank , I have to pay a deposit . That will tie up my money and add to my cost .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Consult your bank and see if they will reduce the required deposit to a minimum . __eou__",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10615,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Sir , I am very glad to tell that we have successfully registered the trademark for our new product . It is the time to think of some effective promoting strategies . We are beginning to get more attention from overseas .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Well done , Fred . Do you know something useful for our promotion for our I-series ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "OK , Let me see . I suppose we must strengthen our promotion , because our brand is still new to some consumers . Maybe we should start our advertising program with our local and overseas distributors simultaneously , because they stand on a better position for selecting the best ways to advertise in market places . Besides , the advertisement fund can encourage them to spend more attention on advertising our products .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "That is a good idea to start with . I also think the mass media is also a good approach for advertising .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Yes , the mass media has wider influence . One of my classmates works in an advertisement company . I can get help and inspiration from him . And we can also try some less expensive approaches of advertising , such as on-line sales . Personally , I prefer to the on-line sales , for it is cheaper , faster and wider . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10616,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mr . Chen , I have a Marry from realty world on line one .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I don't have time to talk to her now .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "OK , I'll take a message .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Thank you . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10617,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mr . Wilson . We very regret the mistakes in goods . I am very sorry and we are responsible for the mistake .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "We have no choice but to hold you responsible for the loss we sustained .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "The first problem is supposed to be solved after the investigation . About the second problem , I admit it's our fault , so we will exchange all merchandise that falls short of our sample .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Well . I hope there won't be such things .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I can assure you that such a thing today will never happen again in future delivery . We have made the plan to improve the package of our exported goods . __eou__",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10618,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "How about overtime work ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Overtime work is very common in companies . I can work overtime if it's necessary , but I don ’ t think we will work overtime everyday .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Do you like regular work ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "No , I don ’ t like regular work . I am interested in different projects with new opportunities and new challenges , but I can do regular work if the company needs me to do so . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10619,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Good morning . This is Apple Corporation . May I speak to Ballam ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Speaking .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I ’ m calling to offer you the position of computer engineer .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "May I ask how much I can get every month ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Your starting salary is 3 , 000 yuan a month , but if you work well we will put you on our regular staff after six months time and your salary will be raised to 5,000 yuan a month .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I thought the starting salary is too low .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "What is the lowest salary you may consider ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "I hope to make 4,000 yuan a month for supporting my family .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "That ’ s all right . We will pay you 4 , 000 yuan a month for supporting your family . Would you like to start on next Monday ?",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "No problem . Thank you for hiring me , I am very proud to be employed by your company and I will come in at eight o ’ clock sharp Monday . __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10620,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm Mary Kell . May I ask your name ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "My name is Zhuang Lingy . How are you , Miss Kelly ?",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I'm glad to meet you , Mr . Zhuang . Sit down , please .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Thank you . Miss Kelly .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "What are your qualifications for being a clerk typist ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I can type 120 words a minute and I take shorthand at 80 words a minute .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Would you be willing to take a typing and shorthand test ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Yes , I would . ( After testing )",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "Your typing and stenography are pretty good . Would you be interested in applying for the job ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "Yes , I'd like to give it a try .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "All right . You need to have an interview with our manager , Mr . McBride . Let ’ s go to his office . __eou__",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10621,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What's wrong with you ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm trying to send the instruction book by E-mail , but I failed many , many times . And there is something wrong with the net maybe . It's so slow .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Well , maybe the net is slow now . Try it again .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I am used to editing with Word 2003 , and there are many pictures in the book .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "It's beyond question . You can save it the same as a document .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I merely know how to send the direct letter . But I am not familiar with the attachment .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "It's the same as usual . The only difference lies in that you need to paste the book as an attachment .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Can I mail the book if it is a large file ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "There are limitations to the capacity of an E-mail . Commonly it's no more than 4 MB .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "What if it exceeds the capacity ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "You can divide it into several documents to mail . Or you can download the mentioned software from the warning . __eou__",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10622,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello , Westhaven Company .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Hello , may I speak to Mr . Richard ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "This is Michael Richard speaking . Who is calling ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Mr . Richard , this is Henry . I was interviewed by you last Tuesday .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "You gave me a deep impression then . Can I help you ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I ’ m just calling to follow up on the situation of the salesman position .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "We have made the decision to hire you .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Wonderful . Thank you very much . I have been dreaming to work with your company and I am finally granted the great opportunity . I won ’ t let you down and I hope you will contact me when you have any questions .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "I will , thank you for calling . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10623,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What post have you held before ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I have been a salesman .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "How many places have you worked altogether ? __eou__",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10624,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello , Could you please connect me to Mr . Cook's office ? It is on Line Three .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm afraid you've got the wrong extension number .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Oh . Then I don't know what his number is . Can you check it for me ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "OK . Hold on , please .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "OK . Thank you .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Mr.Cook is on Line Six . I'll put you through .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Thank you . You helped me a lot .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "You are welcome . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10625,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Well , Miss Liu , I've enjoyed talking with you . Thank you for your interest in this job .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It's my honor , Mr . Mike . By the way , how can I know whether I am accepted or not ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "We hope to make a decision in the next few days . We'll notify you of our decision by mail , is this convenient for you ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yes . Thank you very much . I am looking forward to hearing from you .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Good luck to you , good-bye .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Good-bye . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10626,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Can I talk to you for a moment , manager ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes , of course . What is it ?",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I've decided to leave .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Leave ? Why ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I've worked here for two years . And I want to do something different .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "What do you mean by something different ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "I want to live abroad and learn to speak a different language .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "I'm really sorry . But I understand .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "Thank you , manager . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 10627,
+        "topic": "Work",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I fired Mr . Li today .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That's terrible . __eou__",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    }
+]

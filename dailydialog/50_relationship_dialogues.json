@@ -1,0 +1,1653 @@
+[
+    {
+        "id": 4828,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Bob , what are you thinking about ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm looking forward to going to America .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "When do you go ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Next week . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4831,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What do you say to eating out , Maggie ?",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yeah , why not ? We haven't been out for dinner for quite a long time . A new French restaurant has just opened in our neighborhood . We can go there .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Do we need to book a table in advance ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "No need for that . It's not usually busy on weekdays .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "What time shall we go ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Why not now ? I'm hungry . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4832,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What a wonderful party ! I had a good time . How about you ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I enjoyed myself , too .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Shall I give you a ride home ?",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yes , if it's not too much of a trouble .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "It's no trouble at all because your house is on the way to my place .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "That's great . Let's go ! __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4833,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "How did you know ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It was a kind of sixth sense .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Does it happen often ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "No . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4835,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What's your favorite magazine ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Off hand , I'd say the Reader's Digests is my favorite .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "What kind of magazine is it ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "It's instructive and inspiring .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Really ? It is a weekly , isn't it ?",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "No , it's a semimonthly .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Does it enjoy popularity among the young generation ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Yes , it's so popular that it's sold out as soon as it reaches the bookstores .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "Oh , I think I should try to read one . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4836,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What's the weather forecast for today ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Cloudy in the morning , overcast in the afternoon .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Any rain ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "No , but I wouldn't be surprised if it rained tomorrow .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I wouldn't either . It's been looking like rain for several days . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4837,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Can you do push-ups ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Really ? I think that's impossible !",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "You mean 30 push-ups ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Yeah !",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "It's easy . If you do exercise everyday , you can make it , too . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4838,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "How was my singing ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Not bad at all . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4839,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Jenny , are you having a good time ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes , of course . This is a really wonderful party with interesting people and great food .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I ’ m glad you are enjoying yourself .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Thank you for the invitation .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "It ’ s my pleasure . Can I get you another glass of champagne ?",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Yes , I ’ d love another glass . You ’ re a wonderful host . Thank you for everything .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "It ’ s my pleasure having you here . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4840,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Say , what's your favorite sport ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Mmmm ... it's hard to say . I like golf a lot-but I guess I like tennis better .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Do you play much tennis ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yes , quite a bit . How about a game sometime ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Sorry . I'm strictly a spectator-football , baseball , basketball , golf ... I watch them all . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4841,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Let's go eat .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "0kay . Dinner's on me . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4842,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I lost all my lottery winnings playing the stock market .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Easy come , easy go . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4843,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Should I ask Sara to the party ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I would if I were you . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4844,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What do you think of the new mayor ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "No comment . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4845,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "When will you be able to come here ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I can't come until next week .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Okay , I'll have everything prepared for you when you get here .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Thanks , I'll see you around Wednesday then . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4846,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Michael Jackson's coming to town .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I Couldn't care less . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4847,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hi , Lucy . What are you going to do this weekend ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I have no idea yet . Do you have any suggestions ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Would you like to play tennis with me ?",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I'd like to .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Be sure to get to the sports hall at nine o'clock on Sunday morning .",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "OK , will do ! __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4848,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "How have you been ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Fine , thanks . How about you ? __eou__",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4849,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "You hurt Ben's feelings .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "So ? __eou__",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4850,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello , Jack here .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Hello , Jack . It's Mary . What are you doing in your office ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I am working . I often work late on Thursdays . I am busy this week .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Would you like to come and have dinner with us on Friday ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Tomorrow ? No , I'm afraid I wouldn't be able to . I'm going out of the town on business .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "What about Saturday ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Sorry , I never go out on Saturday evening . I always watch football on Saturday evening .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Will you come round next Tuesday ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "Next Tuesday ? Just a moment ! It will be the 21st of May . Oh , dear . Arm ... I promised my aunt I would be at her birthday party .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "What do you say to next Wednesday then ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 10,
+                "utterance": "Let me see . Yes , Mary . Let's make it next Wednesday .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 11,
+                "utterance": "Ok . Bye .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 12,
+                "utterance": "Bye . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4851,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mike , these flowers are just gorgeous .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I ’ m glad you like them . Happy birthday !",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I can ’ t thank you enough . I ’ m really touched . I don ’ t know what to say .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Forget it . It ’ s my pleasure . You mean a lot to me .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "You ’ re the best ! __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4852,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hello , let me introduce myself . I'm your new neighbor . My name is Andy .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Hi , Andy . I'm Judy . It's nice meeting you .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Nice meeting you , too .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Come over and visit when you have time .",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Thanks for the invitation . I will ! __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4853,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Jim , I heard you ’ Ve bought a new computer .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes . Look , it is on my desk .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Your office looks different with a computer . By the way , is it difficult to use a computer ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Not at all . It ’ s a piece of cake .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "A piece of cake ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Yes . It ’ s easy and convenient to use a computer . But it takes a long time to really master it . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4854,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Happy birthday , Aims !",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Thank you , Lisa .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Here is a present for you . I hope you like it .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Oh , great ! I love it ! You know I've been expecting this for a long time .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I'm very glad to hear that .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Come here ; let me introduce some friends to you . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4855,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I had an accident .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That's terrible ! __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4856,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I went bungee jumping yesterday .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That sounds like fun . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4857,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hi , Mary , long time no see .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I heard through the grapevine that your getting married .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Yes , next March .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Congratulations , I hope everything works out . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4858,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Have you eaten ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Not yet . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4859,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Well , it was nice meeting you .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes , I hope we meet again .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Sure , I'll give you a call .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Okay . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4860,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What are you going to do next year ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I want to go traveling .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Do you have any where in mind ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yes , I've been thinking about Florida . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4861,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Give me a call tomorrow .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Okay . __eou__",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4862,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm terribly nervous .",
+                "emotion": "fear",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Calm down ! __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4863,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm tired of this job .",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "So am I . __eou__",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4864,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Have you ever seen coco ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I've seen her on TV but not in the flesh .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I'm so familiar with her songs , but I don't know what kind of person she is in real life . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4865,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "My wife gave birth to our first child today .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Wow ! I'm so happy for you . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4866,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "My uncle passed away last night .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "My condolences . __eou__",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4867,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I've heard that you've made a new strange friend recently , Sophie .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes . He is an old man with a great sense of humour . Not only can he play the piano , he also draws pictures very well .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "So you can learn a lot from him .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yeah , he has no children , so he sometimes feel s very lonely . I often go to his house to play and talk with him . That makes him feel very happy . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4868,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Why do you go fishing so often ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It's fun . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4869,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Is sailing fun ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "You bet ! __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4870,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "How was your vacation in Paris ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It was exciting ! __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4871,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "My girlfriend dumped me .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Well , that's life . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4872,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm looking forward to summer vacation .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Me too . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4873,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "My uncle passed away last night .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "My condolences . __eou__",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4874,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "How's your girlfriend ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "We broke up . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4875,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "You were right . It's raining again .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I told you so . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4876,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "How much do you make a month ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Mind your own business . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4877,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I've brought some potato chips . Would you like some , Jack ?",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes . I'd like to swap some of my peanuts for your chips .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "That'll be fine . Thanks .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Do you have any ketchup ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I forgot to bring it , but maybe Mary has some . Let's go and ask her . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4878,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Beautiful weather , isn ’ t it ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes , it is . Are you here on business ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "No , I ’ m on a vacation to see the famous Three Gorges .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I ’ m going there for a tour , too . Is this your first trip to China ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Yes , it is .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Why don ’ t we go together ? I can show you around . I think you ’ ll have a better time .",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "I couldn ’ t agree more .",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Great , let ’ s go ! __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4879,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Jim , how was your weekend ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I went to the beach with my friends and had a barbecue there .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "That sounds like a lot of fun . Did you go swimming , too ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Sure . I think it ’ s a fantastic place to go .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I couldn ’ t agree more . That ’ s an ideal place for a vacation .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "It sure is .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "I can ’ t wait to go there myself . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4880,
+        "topic": "Relationship",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Tom , I've got good news for you .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What is it ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Haven't you heard that your novel has won The Nobel Prize ?",
+                "emotion": "happiness",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Really ? I can't believe it . It's like a dream come true . I never expected that I would win The Nobel Prize !",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "You did a good job . I'm extremely proud of you .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Thanks for the compliment .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "You certainly deserve it . Let's celebrate ! __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    }
+]

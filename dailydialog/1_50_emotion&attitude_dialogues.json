@@ -1,0 +1,2017 @@
+[
+    {
+        "id": 4164,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Stop running around in front of the TV , will you ? Why don't you just sit and watch ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": "red"
+            },
+            {
+                "turn": 1,
+                "utterance": "I've tried , but I can't stand the bald man talking so loudly in the program .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": "black"
+            },
+            {
+                "turn": 2,
+                "utterance": "Then stay away . No one is keeping you from doing that .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": "green"
+            },
+            {
+                "turn": 3,
+                "utterance": "Don't be so irritable . I just don't understand the program , that's all .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": "white"
+            },
+            {
+                "turn": 4,
+                "utterance": "All right , I will explain it to you later on . Now scram .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": "white"
+            },
+            {
+                "turn": 5,
+                "utterance": "Ok . I will wait until you have had your fun , if that's what you want .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": "white"
+            },
+            {
+                "turn": 6,
+                "utterance": "That's exactly what I want , thank you . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4165,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm so angry . I feel like killing someone .",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Calm down . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4167,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I was just about to go to bed when the telephone rang last night .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Who was it ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Kate . She said she was too excited to go to sleep .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "She never cares about others .",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "It ’ s true . Guess what we were talking about last night .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Her new boyfriend , right ?",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Yeah , how do you know about that ?",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "I was also interrupted by her last week because of such a thing . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4168,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Hey John . I have some great news .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What happened ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I got a job offer from Dell .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "That's great . I thought you said you didn't get the job .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I thought I did bad on the interview , but I guess I was wrong . I'm so happy right now .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I bet . That's great news . I'm very happy for you .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "Thanks . I feel like celebrating . Let's go have a beer . It's on me .",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Sounds good . __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4169,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I heard you're getting married , James . Congratulations !",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Thank you , Wendy . I hope you'll be able to make it to the wedding .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I'm looking forward to it . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4171,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I work so hard that I do not have the energy to exercise .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That is just an excuse.You can always find some time to exercise .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "But I work hard all the time for long hours . Often I have no time for lunch . Yet , I am still getting fatter .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Bill , you know that work is not the same as exercise as it is stressful but not relaxing.And skipping meals will not help you lose weight.In fact your body will only store fat if you miss meals .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I know you're right , but what can I do ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "How about going for a walk instead of sitting on the sofa reading the newspaper after dinner every night ?",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "But I'll miss the news.It ' s important in my business to keep up with events in China .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "I know , I know.Have you got a portable radio ? You can listen to the news and get healthy at the same time .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "That's a good idea ! __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4172,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "This man looks very handsome.Is he married ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Sure.He has already married , a father of two boys .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Oh , I can't believe it.He looks very young .",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "He took the picture when he was only 21 years old .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I see . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4173,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I got the job you recommended me for last week .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That's great ! Congratulations .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I really don't know how I can thank you enough .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Oh , it's my pleasure . After all , you are very qualified for the position .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Thank you very much indeed.You helped me rebuild my self-confidence .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Don't mention it.You ' re always been good.What do you say we go out to celebrate ?",
+                "emotion": "happiness",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "That would be great . __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4174,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "He has so many friends supporting him .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "And he himself is very diligent . Considering all these , I think he has the ball at his feet .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "But he has to stick to it and to it long enough . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4175,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "To be frank , I find philosophy rather boring .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "To tell you the truth , it's the most tedious course I'ever had .",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "How could you manage to pass the exam ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "It is still a mystery to me . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4176,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "You seem to be very hesitant about doing things .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I don't know why I cannot take a step forward .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "You are meeting trouble halfway , I guess .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Many things are troubling me . I don't know whether I should come and go .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "That's where the shoe pinches . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4177,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm afraid of the darkness .",
+                "emotion": "fear",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Don't worry . I'll drive you back .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Thank you . __eou__",
+                "emotion": "happiness",
+                "act": "commissive",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4178,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Do you keep any pets , such as cats , dogs ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "No , I'm scared of cats .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Oh , but why ?",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I feel they're dirty . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4179,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "My son has really taken it out of me . He never keeps out of mischief .",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "After all , he is a baby .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Yeah . Anyway he is driving me mad . __eou__",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4180,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "You didn't ring me last night . You said you would .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I'm sorry to have made you disappointed .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "That's all right . But why were you so rude to me at lunch .",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Was I ? Sorry , I didn ’ t mean to be . I do apologize .",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "And why are you yarning now ? Are you bored ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Forgive me darling . I'm very tired . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4181,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I hear little Bob has recovered .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That's a great relief . I was worried about him .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "The operation was very successful .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "His parents must feel very happy . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4182,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "The answer is zero ! What a let-down !",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I really want to take him over my knee .",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "No hard feelings . After all , he is a child .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "If you say so ! __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4183,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I like the design of the coat .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "But I like its color .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Anyway , it's my ideal coat . I'll take it .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I'll take one , too . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4184,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I prefer potatoes to eggplants .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I feel eggplants are more nutritious .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "But as a matter of fact , potatoes taste better .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Oh , that's how you see it . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4185,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "On balance , dress designing appeals to me most .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yes , it's to my liking , too .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Say , how would you like to be a dress designer ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "It's my dream . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4186,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I've had enough of that !",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Why , this is the most interesting film !",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I hate the hero.He ' s too cruel .",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "But it's only a film . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4187,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I am tired of everything in my life .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What ? How happy you life is ! I do envy you .",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "You don ’ t know that I have been over-protected by my mother these years . I am really about to leave the family and spread my wings .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Maybe you are right . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4188,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Has the train come yet ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "No , I ‘ Ve been waiting for ages .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "It ’ s so unreliable . I ’ Ve been late for my meetings all this week .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yes , me too . I think I ’ Ve lost some important clients recently because of this train !",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Yes , my customers have started to complain too !",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Oh look ! Here it comes now ! __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4189,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I seldom heard the quarreling of her children .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Why do you say that ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Because her children have been the age when they seem to quarrel all day long .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Oh , I see . She told me that she had learned very quickly how to pour oil on troubled waters , but not to pour oil on the flame .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "She is a clever mother . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4190,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I feel so uncomfortable .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Are you sick ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "No . The teacher is dragging the chalk over the blackboard . It set my teeth on edge .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "He ’ ll finish writing in a minute . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4191,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I don't think the lecture is very interesting .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "The lecturer is dull , too .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I feel he's like a talking machine .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I feel the same way . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4192,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I wish you would not be so selfish .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Selfishness is one human beings instincts . It is very difficult to get it out root and branch .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "But you should at least consider your son's future .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "His mother , not me , should do this . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4193,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Tom set the whole country by the ears with his discovery .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "He is really terrific !",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "He was very clever when he was a boy . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4194,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Peter is a bag lady now .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "That black sheep . It serves him right .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "He was so rich in the past . Maybe he ’ s regretting his past mistakes now .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "It ’ s too late . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4195,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mark is parade his knowledge again .",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yeah ! He ’ s very good at showing off his knowledge .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "A well-learned person never does that . __eou__",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4196,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Saying you want to kill yourself , you terrified me out of my wits .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "I was playing a joke on you .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "That ’ s too much .",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Dear , forgive me . I won ’ t do that again . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4197,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "The trouble is not that . It is that he may suddenly remember something I promised him a couple of weeks ago , out of a clear blue sky . Then he complains that I have gone back on my words .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Does he do that with his Dad ? I mean , does he complain things to his father ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "He never does , and in fact , he seldom communicates with him .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "But didn ’ t you say that his Dad takes him under his wings ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Yes , I did . He only takes side with him . He seldom asks what Dick is doing . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4198,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Our major is from a bigger city .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "He ’ s doing fine . A new broom sweeps clean .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "He brings with him some talented people from his former city .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I think we ’ ll benefit a lot . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4199,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mary is really a diligent girl .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What do you mean ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "She learns to speak Latin by osmosis within three months .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "She is really something . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4200,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What are you thinking about ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "About my boyfriend .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Again !",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "You are really a wet blanket . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4201,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "It ’ s over .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What is over ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Our relationship . I mean my friend and I ...",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Any reasons ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "The cause is another boy .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Oh , that ’ s too bad . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4202,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I'm busy year in and year out , but now I've done nothing .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "You've done a lot , my darling !",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I may have done a lot , but none is to my satisfaction .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "You're too strict with yourself .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Perhaps . I'm dead tired . __eou__",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4203,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "My son came home from three years in the navy .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It was a real red letter day for you .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Yeah . We rolled out the red carpet to welcome him home . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4204,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mr . Smith is really a thorough drag .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What is it ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "He's endless talking about stocks almost bores me to death .",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Don't you like to know anything about stocks ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I'm not at all keen on this subject . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4205,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Bob , put on your shoes , your feet are really smelly .",
+                "emotion": "no_emotion",
+                "act": "directive",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "No foot gives out scent .",
+                "emotion": "no_emotion",
+                "act": "commissive",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "But don't forget you are in a cafe .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Never mind , the odour of my feet will quicken their eating speed .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I simply can't bear your barbaric behavior .",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Don ’ t pretend you are a good God .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "You should feel shameful for your behavior .",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "I've never experienced such a kind of feeling .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "I'm really sick of you . __eou__",
+                "emotion": "disgust",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4206,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Your knowledge of English is really surprising .",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Oh , it's nothing to speak of .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "No , seriously . I'm impressed .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Thank you . I appreciate the compliment . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4207,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I spend all my time looking after my baby . I'm so tired .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Why don't you ask your husband to help you with it ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I've tried it , but he would have none of it . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4208,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "It really makes my blood boil when this sort of thing happens . I even want to wring his neck .",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Don't be so angry . It's passed anyway .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I can't forget it .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "You'd better cool yourself down first . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4209,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "David , I ’ m going to China .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Really ? How did you get the chance ?",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "You know . I took part in the Chinese contest . I was the best and they gave me this reward . I don ’ t have to pay for my trip .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Congratulations . How lucky you are !",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Thank you . I ’ m leaving tomorrow morning .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I ’ m sure you ’ ll enjoy the trip . China is such a beautiful country .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "I ’ m sure I will .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "Have a nice journey , Lily .",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "Thank you , David . __eou__",
+                "emotion": "happiness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4210,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Mike ! Look at the floor !",
+                "emotion": "surprise",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What's wrong with it ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "What's wrong with it ? It's filthy !",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Oh ...",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "It's filthy because you never wipe your shoes .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Sorry , love .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "What are you looking for now ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "My cigarettes .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 8,
+                "utterance": "Well , they ' re not here.They are in the dustbin .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 9,
+                "utterance": "In the dustbin ! Why didn't you tell me before ? __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4211,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "Oh !",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What fools we were !",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "To think of it ! All my old silver ! It meant so much to me .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "And my new car . To think that he simply drove off with everything in my car . That's what hurts me most .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "What's so terrible too , is the fools we've made of ourselves .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "I hardly dare call the police . They'll just laugh at us .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 6,
+                "utterance": "I'll never get over it . Oh , Harry , it was all so unnecessary . That man ! ! How could he do this to us after we'd put him up ?",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 7,
+                "utterance": "And his story didn't even hold together . I feel such an idiot . __eou__",
+                "emotion": "anger",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4212,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "What's up ? You look low .",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "It's my girlfriend . I guess she's playing the army game .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "How come ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I saw her dating with her ex-boyfriend again .",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "I understand that . But I think maybe it's not a date . You are taking the matter too much to heart .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Maybe . But it still gets on my nerves . __eou__",
+                "emotion": "sadness",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4213,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "I am confused by what he said .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Why do you say that ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "I don ’ t know what he wants to do . Does he want help me or just scold me ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Think a little . I think he means well at the bottom of his heart . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4214,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "You are saying he will be promoted to the general manager ?",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "Yeah .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "Are you sure ?",
+                "emotion": "surprise",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "Yes . I bet my bottom dollar that he will get promoted .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 4,
+                "utterance": "Just because he gets on well with everybody ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 5,
+                "utterance": "Partly , and he's also a hardworking man . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    },
+    {
+        "id": 4215,
+        "topic": "Attitude_Emotion",
+        "utterances": [
+            {
+                "turn": 0,
+                "utterance": "This small town has many serious problems .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 1,
+                "utterance": "What's the cause ?",
+                "emotion": "no_emotion",
+                "act": "question",
+                "hat": ""
+            },
+            {
+                "turn": 2,
+                "utterance": "The mayor and high official practice crony is mand a large number of guys who are good at nothing occupy many important positions .",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            },
+            {
+                "turn": 3,
+                "utterance": "I see why it lags behind other towns . __eou__",
+                "emotion": "no_emotion",
+                "act": "inform",
+                "hat": ""
+            }
+        ]
+    }
+]
