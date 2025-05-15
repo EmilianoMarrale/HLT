@@ -8,28 +8,28 @@
                 "utterance": "Finding an excuse is obviously down your alley . And trying to avoid taking care of the children is what you are good at .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 1,
                 "utterance": "Listen , Nancy . If I don't work hard , I will be laid off .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "You are passing the buck . I'll be hanged if I ask you to go to the park with us .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 3,
                 "utterance": "Come on , Nancy . Play it cool . I go with you and burn the middle night oil tonight . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -42,28 +42,28 @@
                 "utterance": "You seem to be in the seventh heaven . What's put you on ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Sarah and I could see eye to eye with each other .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 2,
                 "utterance": "Did she give up her decision to marry Dick ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "No , I encourage her to go her own way , but she's now having a change of heart . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             }
         ]
     },
@@ -76,28 +76,28 @@
                 "utterance": "Didn't Joe feel it a shame to live on his parents since he has graduated from college ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "He has no sense .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
-                "utterance": "If I were him , I wouldn'tbrazen it outby asking my parents for money .",
+                "utterance": "If I were him , I wouldn't brazen it out by asking my parents for money .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 3,
                 "utterance": "But Joe won't you . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -110,42 +110,42 @@
                 "utterance": "Tom , is Jenny crying ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Can you take he away from me ?",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "I ’ m just coming for that .",
                 "emotion": "no_emotion",
                 "act": "commissive",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 3,
                 "utterance": "She kept on bothering me .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 4,
                 "utterance": "She ’ s your sister.What she asked was only duck soup for you.Why can ’ t you be good to her ?",
                 "emotion": "anger",
                 "act": "question",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 5,
                 "utterance": "But I am her brother , not her servant . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -158,28 +158,28 @@
                 "utterance": "Look ! The girl is so beautiful and she is smiling at me . She is lovely .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 1,
                 "utterance": "I can't agree with you . She's pretty , but she always blows hot and cold .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "What makes you think so ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "She's my sister , you know . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             }
         ]
     },
@@ -192,28 +192,28 @@
                 "utterance": "He has a long head , I bet he will do well in his business .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "He does , he started five years ago and now ends up the richest among us .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "When we were students , he was no good in any subject .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "It seemed to be useless to study well when we were young if we examine his case . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             }
         ]
     },
@@ -226,28 +226,28 @@
                 "utterance": "Quite a few times , I had my back to the wall .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Really ? Generally they will turn out to be a good thing .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "That ’ s right .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "You ’ ll exert all your energy and get out of it . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             }
         ]
     },
@@ -260,21 +260,21 @@
                 "utterance": "My granny is such a kind-hearted person . She is willing to help .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 1,
                 "utterance": "She does have a heart of gold .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "You can say that again . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -287,21 +287,21 @@
                 "utterance": "Sam , we are hard up for the everyday expenses . When can you find a job .",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 1,
                 "utterance": "I'm looking for it , but you see , the market is hard up for jobs , too .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "You liar , I saw you again in the inn . I bet you don't want to work at all . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             }
         ]
     },
@@ -314,28 +314,28 @@
                 "utterance": "Your ring is very beautiful .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Thank you . It has been handed down in my family for three generations .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Oh , it is precious .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "It surely is . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -348,28 +348,28 @@
                 "utterance": "I have a bone to pick with you .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Okay . Let ’ s clear the air . What are you getting at ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "You always have a chip on your shoulder .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 3,
                 "utterance": "I ’ m sorry . But I don ’ t meant to get your goat . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -382,21 +382,21 @@
                 "utterance": "What do you think of his behaviour yesterday ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 1,
                 "utterance": "He's a sad dog . He came to the wedding in jeans !",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "I don't think so . He only had no common sense . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -409,21 +409,21 @@
                 "utterance": "I'm worried sick that she will leave me tomorrow .",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 1,
                 "utterance": "It's no use arguing the toss .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 2,
                 "utterance": "Maybe I'll have to face the music . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -436,28 +436,28 @@
                 "utterance": "It seems that nobody in your class likes Paul .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "The boy is good for nothing .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "As a teacher , I don ’ t know how to help him .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "He is hopeless . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -470,28 +470,28 @@
                 "utterance": "Don ’ t be worried . Please sit down and take it easy .",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 1,
                 "utterance": "How could I feel easy ? I ’ m really pissed .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 2,
                 "utterance": "But you should avoid finger-pointing when you haven ’ t got the real facts .",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 3,
                 "utterance": "Ok . I ’ ll try my best to calm down first . __eou__",
                 "emotion": "happiness",
                 "act": "commissive",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -504,21 +504,21 @@
                 "utterance": "My hair stood on end when I saw the bloody scene .",
                 "emotion": "fear",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "What scene ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "A kitten being run over by a truck . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -531,21 +531,21 @@
                 "utterance": "My father ’ s angry face always makes my blood run cold .",
                 "emotion": "fear",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "You mean that he is bad-tempered and often gets angry with you .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Not often . Just when I make mistakes . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             }
         ]
     },
@@ -558,28 +558,28 @@
                 "utterance": "That ’ s really a let-down .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Yeah . He really does let me down .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "But that should not be the reason for you to lose heart .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 3,
                 "utterance": "I ’ m at the end of tether . I run out of ideas . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             }
         ]
     },
@@ -592,28 +592,28 @@
                 "utterance": "I am so bored all day .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 1,
                 "utterance": "Why ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Jack borrowed a large sum of money from me and didn ’ t pay me back .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 3,
                 "utterance": "Don ’ t make a mountain out of molehill . I am sure he will do that on his payday . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             }
         ]
     },
@@ -626,35 +626,35 @@
                 "utterance": "Can you imagine a boat letting in the river ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 1,
                 "utterance": "That would be terrible .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Sure thing . I have an experience like that .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Oh , how were you saved finally ?",
                 "emotion": "surprise",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "I was in such a panic at that time . Fortunately another boat came along and I was saved from drowning . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -667,21 +667,21 @@
                 "utterance": "Our house is too small . We had better have a big one .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "How could we ever manage to buy a big house when we are always living beyond our means ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "Shut up . You should think how to make fortunes , not look for a squabble . __eou__",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             }
         ]
     },
@@ -694,28 +694,28 @@
                 "utterance": "It ’ s really terrible !",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "What are you talking about ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Don ’ t you see many parents are forcing there children ’ s hands to learn something they think important to their children . But the children are not interested in it at all .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 3,
                 "utterance": "You said it . Many parents just don ’ t understand know how to educate their children . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -728,28 +728,28 @@
                 "utterance": "What is wrong with your face ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "My brother did it .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Why ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "I laughed up my sleeves at him . He ’ s seen his girlfriend off at the airport and had lipstick on his face and did not know it . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             }
         ]
     },
@@ -762,35 +762,35 @@
                 "utterance": "He has come to life in the end .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Oh , thank God . We all felt frightened by the bad new about him .",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Yes . Fortunately , an ambulance passed in the nick of time , and we got him away to hospital .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Right . Unless , who know what will happen .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "Wish him to be healthy soon . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             }
         ]
     },
@@ -803,28 +803,28 @@
                 "utterance": "Why do you look so sad ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "I ’ m in pretty bad shape . I am having an allergy all the time .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "Why not go and see a doctor ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 3,
                 "utterance": "I never trust those stupid doctors . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             }
         ]
     },
@@ -837,42 +837,42 @@
                 "utterance": "What an attractive blouse , You look so pretty in this blue dress !",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 1,
                 "utterance": "Really ? Thank you . I bought it in Spring Street yesterday .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "It's very nice.It goes well with your skirt .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 3,
                 "utterance": "Thank you.It ' s very nice of you to say so .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "Not at all.This dress certainly shows your good taste .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 5,
                 "utterance": "That's quite a compliment coming from you . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -885,21 +885,21 @@
                 "utterance": "I ’ m itching for moving !",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "What ’ s the matter ? What annoy you ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "It ’ s so wet and dark , I ’ m just fed up . __eou__",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             }
         ]
     },
@@ -912,98 +912,98 @@
                 "utterance": "Hi .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Hi , Mary , Hi , Ken I hate to bring this up , but that new stereo , system you got ...",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 2,
                 "utterance": "Yeah ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "You were playing it very late last night .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "Yeah ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 5,
                 "utterance": "It kept me awake .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 6,
                 "utterance": "Oh , I'm sorry .",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 7,
                 "utterance": "It kept me awake a couple of hours .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 8,
                 "utterance": "I'm so sorry , I .. I didn't realize it was that loud .",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 9,
                 "utterance": "It was that loud , and it was pretty late , and check with Mary if you don't believe me .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 10,
                 "utterance": "It's true.It was a bit loud .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 11,
                 "utterance": "I'm very sorry . I didn't realize it . I promise I'll keep it down in the future .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 12,
                 "utterance": "Oh , it's no problem.It ' s OK.You know , it only happened once .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 13,
                 "utterance": "I am glad we've straightened everything out . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             }
         ]
     },
@@ -1016,42 +1016,42 @@
                 "utterance": "How do you do , Prof.Smith .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "How do you do , Ms . Yang.You speak very good English .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 2,
                 "utterance": "Thank you . I begin to like English even when I was a child .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Where did you learn it ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "At school , in China.This is my first time to be out of my own country .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 5,
                 "utterance": "It's amazing . __eou__",
                 "emotion": "surprise",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1064,28 +1064,28 @@
                 "utterance": "What's happening in your life ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Can you believe I'm going to America ?",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 2,
                 "utterance": "That sounds great .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Yes , I'm really excited . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             }
         ]
     },
@@ -1098,119 +1098,119 @@
                 "utterance": "You're late .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 1,
                 "utterance": "I know I'm late . I'm sorry . I tried to call you to tell you , but your phone seems to be disconnected .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "My phone ?",
                 "emotion": "surprise",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Yes . An automatic message says your phone is not in service .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "Really ? I had no idea . Let me check.Yes , it's dead . There's no dial tone .",
                 "emotion": "surprise",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 5,
                 "utterance": "So I couldn't get through . I knew I'd be late because my car wouldn't start.It was too cold I had to warm it up in the garage with a heater . That's why I'm late .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 6,
                 "utterance": "But this is terrible . I'm expecting important calls .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 7,
                 "utterance": "About what ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 8,
                 "utterance": "You know what.The theater guild is supposed to call me and discuss a contract for my play.They are supposed to call me this evening.If I don't have a phone . Oh , what can I do ?",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 9,
                 "utterance": "Well , the only thing you can do is tell the phone company and hope they fix it fast .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 10,
                 "utterance": "Do you have a cell phone ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 11,
                 "utterance": "No . I hate cell phones.But you could go to a neighbor's house and use their phone .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 12,
                 "utterance": "Can you drive me ? I will go to Ann's house . It isn't far . I can call the theater guild from there and give them her number.She will let us wait in her living room .",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 13,
                 "utterance": "Yes , of course I can drive you.So you don't want to get your phone fixed right away ?",
                 "emotion": "no_emotion",
                 "act": "commissive",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 14,
                 "utterance": "Yes , I do.At Ann's house I will call the phone company and have them check my line.If they can fix it right away without coming to my house , then we'll just return here.But if not , I need to wait at Ann's house to talk with the theater guild.It ' s very important to me .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 15,
                 "utterance": "Alright , let's go .",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 16,
                 "utterance": "Yes , let's go . __eou__",
                 "emotion": "no_emotion",
                 "act": "commissive",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1223,14 +1223,14 @@
                 "utterance": "Can I borrow some money from you ?",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "No way ! __eou__",
                 "emotion": "no_emotion",
                 "act": "commissive",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1243,63 +1243,63 @@
                 "utterance": "Hi ! Wang Mei.Come and have a look at my new dress .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Oh ! What a beautiful dress ! It fits you so well.You look so charming in the dress .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 2,
                 "utterance": "Thank you for saying so .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Where did you buy it ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "I bought it in a store near my school .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 5,
                 "utterance": "How much is it ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 6,
                 "utterance": "It's only thirty yuan .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 7,
                 "utterance": "It's so cheap . I'll buy one , too .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 8,
                 "utterance": "I'll go together with you . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1312,133 +1312,133 @@
                 "utterance": "Doris , I'm glad you're home . I'm terrified . I don't know what to do !",
                 "emotion": "fear",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 1,
                 "utterance": "What is it ? What happened ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "I think someone is stalking me .",
                 "emotion": "fear",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "No , it can't be . Really ? Who ?",
                 "emotion": "surprise",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "I don't know . I saw him the first time Tuesday . He was at the cafe . I noticed he was looking at me a lot . Not just the usual looking , but staring.He just kept staring at me . He didn't stop .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 5,
                 "utterance": "What did you do ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 6,
                 "utterance": "I didn't do anything . Finally , he left.But then I saw him again today . Outside the shoe store . Near the cafe . I went into a CD store and pretended I was looking at CD's . But then he came in too .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 7,
                 "utterance": "Did he leave when you left ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 8,
                 "utterance": "Yes . Then I noticed he was on the sidewalk behind me . He was following me .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 9,
                 "utterance": "What did you do ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 10,
                 "utterance": "He followed me all the way home !",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 11,
                 "utterance": "That's about five blocks . And around corners too.So he was definitely following you .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 12,
                 "utterance": "Yes , he was . I'm not imagining it.Finally , just when I got home , I turned around and looked at him.He was just standing there . He didn't smile . He just stood there . It was so obvious.What should I do ? I'm so scared . Can I call the police ?",
                 "emotion": "fear",
                 "act": "question",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 13,
                 "utterance": "Actually , I don't think you can call the police . Not yet at least.He hasn't done anything . And probably the police will just ignore it.But if anything happens again , then maybe you should call .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 14,
                 "utterance": "Why can't I call the police now ? He was definitely following me !",
                 "emotion": "fear",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 15,
                 "utterance": "Of course you can call the police if you want . That's not what I mean . I'm just saying that they probably won't do anything .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 16,
                 "utterance": "I suppose . What can they do ? I don't even know who he is .",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 17,
                 "utterance": "Listen , Carol . Don't let this bother you too much.Probably it's nothing . Just keep your eyes open when you go out.If you see him a third time , and if he follows you again , then I think we should go to the police.But for now , just try not to worry .",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 18,
                 "utterance": "Alright . And I won't go to that cafe for awhile . __eou__",
                 "emotion": "no_emotion",
                 "act": "commissive",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1451,98 +1451,98 @@
                 "utterance": "Ah ! No ! Damn it !",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "It's a blackout . Now I can't see Seinfeld .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "So what ? I just lost one hour's worth of work .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 3,
                 "utterance": "Really ? How could you do that ? Don't you save every couple minutes ?",
                 "emotion": "surprise",
                 "act": "question",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 4,
                 "utterance": "No , I didn't save this time.Damn it ! And I'm sick of writing this paper . Now I have to write it all over again too .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 5,
                 "utterance": "I've had that problem too many times . So I learned to save.When I'm writing something , I save every three sentences or so . I don't want to lose anything .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 6,
                 "utterance": "I hate computers . Sometimes I think they cause more trouble than they're worth .",
                 "emotion": "disgust",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 7,
                 "utterance": "What are we going to do now ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 8,
                 "utterance": "I don't know . I feel like going out .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 9,
                 "utterance": "I wonder how much of the city is down .",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 10,
                 "utterance": "It doesn't matter . I still can go out and buy a beer .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 11,
                 "utterance": "Maybe . But if there's a blackout , probably the pubs are closed.And besides , I know you have a political science exam tomorrow . I thought you had a lot of reading to do .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 12,
                 "utterance": "Yes , that's true . Damn ! I just lost half my paper , and now I can't even do my homework.This is a bad time for this to happen .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 13,
                 "utterance": "I have a flashlight in my closet . If you want to use that to read , you can . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             }
         ]
     },
@@ -1555,14 +1555,14 @@
                 "utterance": "I got a raise .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "I'm glad to hear that . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1575,14 +1575,14 @@
                 "utterance": "Congratulations ! Is it a boy or a girl ?",
                 "emotion": "happiness",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "It's a boy . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1595,14 +1595,14 @@
                 "utterance": "You're looking great .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 1,
                 "utterance": "You , too . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1615,14 +1615,14 @@
                 "utterance": "Congratulations ! You've just won a car !",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "It's too good to be true . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             }
         ]
     },
@@ -1635,28 +1635,28 @@
                 "utterance": "Bob , I'm really upset with you .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 1,
                 "utterance": "I'm sorry , I didn't mean to forget our wedding anniversary .",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "You forgot it last year as well .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 3,
                 "utterance": "I know , I'm sorry . __eou__",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             }
         ]
     },
@@ -1669,56 +1669,56 @@
                 "utterance": "Mary , be calm .",
                 "emotion": "no_emotion",
                 "act": "directive",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 1,
                 "utterance": "It is impossible . You cheated on me .",
                 "emotion": "anger",
                 "act": "commissive",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 2,
                 "utterance": "No , listen to me . I always regard you as my best friend . I admire you , and of course you've helped me so much . I should thank you .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Shut up !",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 4,
                 "utterance": "No , listen to me . Perhaps it's my fault that I treat everybody so well . Maybe in other people's eyes , I want you to be my girl-friend . but ... but ...",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 5,
                 "utterance": "But you have had lily already ? You should have told me about her , but you didn't .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 6,
                 "utterance": "OK ... OK ... Anyway . I will treat you as my best friend . I hope you can do the same .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 7,
                 "utterance": "Leave me ! Go away ! __eou__",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             }
         ]
     },
@@ -1731,56 +1731,56 @@
                 "utterance": "Is your lady beautiful ? Since I came here from the country , I've not seen her close . Tell me , is she beautiful ?",
                 "emotion": "happiness",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Thomas , if I could write with the beauty in her eyes , I was born to look in them and know myself .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 2,
                 "utterance": "And , her lips ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "Her lips ? The early morning rose would wither on the branch if it could feel envy .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 4,
                 "utterance": "And her voice like a lark's song ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 5,
                 "utterance": "Deeper , softer , none of your twittering larks . I would banish nightingales from her garden before they interrupted her song .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 6,
                 "utterance": "Oh , she sings too ?",
                 "emotion": "surprise",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 7,
                 "utterance": "Constantly . Without doubt , and plays the lute . She has a natural ear . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1793,28 +1793,28 @@
                 "utterance": "How could you have done that without asking me first ?",
                 "emotion": "anger",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "I didn't realize you felt so strongly about it .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Well , you should have thought .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 3,
                 "utterance": "I'm sorry . I'll ask next time . __eou__",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1827,84 +1827,84 @@
                 "utterance": "Hey , that's a really nice outfit you have on .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Thank you . I wasn't sure if it looked okay or not .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 2,
                 "utterance": "Oh , you look stunning . Your dress really goes well with your shoes .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 3,
                 "utterance": "I'm glad that you think so . I thought it might be a bit too revealing .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "No , not at all . It looks really classy on you . Where did you pick that up ?",
                 "emotion": "happiness",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 5,
                 "utterance": "I got it on sale down at the department store .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 6,
                 "utterance": "When did you go there ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 7,
                 "utterance": "I was just there a couple of days ago . You know , you should go down there too . They have a lot of stylish clothes on sale .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 8,
                 "utterance": "I might just do that . What style of clothes do they have ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 9,
                 "utterance": "Anything you want . They have both casual and formal styles .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 10,
                 "utterance": "I was hoping to get a few new ties for my collection .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 11,
                 "utterance": "That's a good idea . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1917,14 +1917,14 @@
                 "utterance": "You're my hero .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Aw , shucks , ma'am . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1937,35 +1937,35 @@
                 "utterance": "Hey , Cindy , I'm so sorry about yesterday . I shouldn't have yelled at you in front of everyone .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 1,
                 "utterance": "Don't worry about it .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "I don't know what happened to me . I just lost it .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 3,
                 "utterance": "I think you just need to get more sleep .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 4,
                 "utterance": "Yeah , you're right . Good night . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -1978,63 +1978,63 @@
                 "utterance": "I really hate to say this , but don't go away mad , just go away .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 1,
                 "utterance": "I knew this would happen some day .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "Then , why didn't you try to prevent it in the beginning ?",
                 "emotion": "anger",
                 "act": "question",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 3,
                 "utterance": "Well . It's not all my fault , Anna . You are responsible , too .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 4,
                 "utterance": "I don't want to argue anymore . Please get out of my life !",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 5,
                 "utterance": "I think we can still talk .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 6,
                 "utterance": "No way ! Please don't follow me around .",
                 "emotion": "anger",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             },
             {
                 "turn": 7,
                 "utterance": "Talk it easy , Anna . You really don't hate me . do you ?",
                 "emotion": "no_emotion",
                 "act": "question",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 8,
                 "utterance": "Yes , I do . Leave me alone ! __eou__",
                 "emotion": "disgust",
                 "act": "inform",
-                "hat": ""
+                "hat": "red"
             }
         ]
     },
@@ -2047,49 +2047,49 @@
                 "utterance": "I couldn't look at you , and say you aren't beautiful !",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "You are pretending !",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "black"
             },
             {
                 "turn": 2,
                 "utterance": "No , Miss Anna , you must let me say how lovely you are ! What's wrong with that ?",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 3,
                 "utterance": "It's wrong because---it isn't true .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "You know that everybody notices how beautiful you are , don't you ?",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 5,
                 "utterance": "Well , no-that is , I've heard Linda say they do , but ... Thank you . But please don't speak to me again .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 6,
                 "utterance": "Oh , Miss Anna ! That's too hard ! I won't be here long . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -2102,35 +2102,35 @@
                 "utterance": "Guess what I've brought for you .",
                 "emotion": "happiness",
                 "act": "directive",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Oh , a bouquet of flowers . It's very kind of you .",
                 "emotion": "surprise",
                 "act": "commissive",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "I hope you like it .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "yellow"
             },
             {
                 "turn": 3,
                 "utterance": "I love flowers , you know . Thank you very much .",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 4,
                 "utterance": "That's all right . __eou__",
                 "emotion": "happiness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     },
@@ -2143,28 +2143,28 @@
                 "utterance": "I'm sorry , but I can't find the book you lent me .",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 1,
                 "utterance": "Oh , that's all right .",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             },
             {
                 "turn": 2,
                 "utterance": "I must apologize . I'll buy you a new one tomorrow .",
                 "emotion": "sadness",
                 "act": "inform",
-                "hat": ""
+                "hat": "green"
             },
             {
                 "turn": 3,
                 "utterance": "No , please don't . I couldn't let you do that . __eou__",
                 "emotion": "no_emotion",
                 "act": "inform",
-                "hat": ""
+                "hat": "white"
             }
         ]
     }
