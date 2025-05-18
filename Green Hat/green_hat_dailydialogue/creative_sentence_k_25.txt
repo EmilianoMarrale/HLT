@@ -1,0 +1,298 @@
+Cluster 23	related	0.9028	 My mother-in-law used to do the same thing to us . If it wasn't disciplining them enough , then we were disciplining them too much . She also complained about the food we fed them , the schools we sent them too , and everything else under the sun . 
+Cluster 23	related	0.9087	 You know , about David and his new boss . 
+Cluster 16	subjects	0.9287	 News about current affairs , documentaries , music , movies , noncommercial ads and so on . 
+Cluster 14	elements	0.9131	 What is two hand touch and flag football ? 
+Cluster 14	elements	0.9194	 This party is going to have a DJ , food , and drinks . 
+Cluster 4	developmental	0.9238	 Yes , so I want to learn French to develop my career . 
+Cluster 19	investigations	0.9404	 It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological th 
+Cluster 16	subjects	0.9141	 Why was it founded by the Puritans ? Where were the atheistic educators ? 
+Cluster 5	hypothesis	0.9170	 Really ? Perhaps I should listen to classical music often . I heard that listening to classical music is helpful in reducing stress . 
+Cluster 23	related	0.9219	 How about mileage and gas ? 
+Cluster 23	related	0.9077	 It will be . And today is , too . I just talked to the airlines ... 
+Cluster 23	related	0.9297	The world changes , the family changes too . 
+Cluster 14	elements	0.9321	 What is the weather like in Washington at this time of this year ? 
+Cluster 23	related	0.9170	 oh , Iris , it ’ s about the job with the PR company . 
+Cluster 23	related	0.9199	Hurry up , Daniel , it's Barbie time . 
+Cluster 23	related	0.9097	 Maybe her uncle will . 
+Cluster 23	related	0.9336	 It was about a married couple . They had to live with the wife's mother , because they didn't have enough money to buy a house of their own . 
+Cluster 23	related	0.9062	 My brother did it . 
+Cluster 23	related	0.9053	 It may have something to do with the food I had last night 
+Cluster 23	related	0.9087	 Hug ! And this sweater from my aunt ? Isn ’ t it hideous ? 
+Cluster 23	related	0.9268	 It's something relative hackers . I often hear people talking about them , but I don't know much about them . 
+Cluster 23	related	0.8999	 Me too . I need something to read on the flight to new york . I can never sleep on planes . Sarah wants to pick up some children ’ s books for her daughter . 
+Cluster 23	related	0.9204	 And don ’ t forget Mary , Tom ’ s twin sister . It ’ s her birthday , too . 
+Cluster 23	related	0.9199	 That ’ s a big family . How old is your brother ? 
+Cluster 23	related	0.9380	 What about your sister ? 
+Cluster 14	elements	0.9062	What's the weather like ? 
+Cluster 23	related	0.9409	 Right , it was a chick flick , just like this one , so what's the difference ? Besides , this is the last week for the third movie in Destroyer series and I want to see that on a big screen . Action movies need to be seen in a theater on a big screen . 
+Cluster 23	related	0.9092	 This show is like a black Friends . 
+Cluster 14	elements	0.9287	 What ’ s the weather looking like today , Kenny ? 
+Cluster 16	subjects	0.9346	 Yeah , that ’ s perfect . What about the subjects for your minor ? 
+Cluster 23	related	0.9199	 Oh ... football . Football is cool . I usually try to catch the World Cup finals . 
+Cluster 23	related	0.9219	 I have to study for an exam too . Why don't we study together . We can encourage each other . 
+Cluster 14	elements	0.9175	 What's the weather like there today ? 
+Cluster 1	personality	0.9141	 Simple . We had personality clashes and there were too many cultural differences . 
+Cluster 23	related	0.8999	Did you hear about Joe ? She hasn't eaten for days . 
+Cluster 23	related	0.9209	 Come on , Mary , it's your brother , Jack . 
+Cluster 23	related	0.9009	 It's not much different from that heavy metal music you like so much . 
+Cluster 23	related	0.9390	 Our relationship . I mean my friend and I ... 
+Cluster 5	hypothesis	0.9126	 really ? Perhaps I should listen to classical music often . I heard that listening to classical music is helpful in reducing stress . 
+Cluster 23	related	0.9072	 Match is important ; well , the way of tying is also important . 
+Cluster 23	related	0.9141	 Like renewing my passport , going to the travel agency to buy my plane ticket and figuring out what to do with my apartment while I'm gone . 
+Cluster 14	elements	0.9487	 What about the weather in Boston ? 
+Cluster 23	related	0.9014	 Sorry , it ’ s from the Godfather . It ’ s when the , when the movie producer realizes Tom Higgins had emissary of Vito Corleone , it ’ s just before the horse ’ s head ends up in the bed with all the bloody sheets , you know , wakes up , and AAAL ! Never mind . 
+Cluster 23	related	0.9058	 Talking about a barbecue , didn't you say you are organizing one next week ? 
+Cluster 16	subjects	0.9048	 I see . What about transport ? How does Shanghai compare to London ? 
+Cluster 16	subjects	0.9233	 We're going to talk about Australia . Or your going to talk about Australia . So first of all how any people live in Australia ? 
+Cluster 16	subjects	0.9233	 You can ’ t compare apples and oranges . I believe that both topics are important and that we can ’ t ignore them , the mistreatment of animals can cause a great environmental imbalance . I believe that governments should prohibit activities like poaching . 
+Cluster 23	related	0.9219	 That is a big family . How old is your sister ? 
+Cluster 23	related	0.9336	 What about your brother ? 
+Cluster 16	subjects	0.9072	 What about restaurants and entertainment ? 
+Cluster 23	related	0.9082	 I came to see my uncle . He lives in the next block . 
+Cluster 23	related	0.9341	 That reminds me I should buy some new socks to go hiking this weekend . 
+Cluster 16	subjects	0.9272	 No . The Hills ? Who filed for divorce first ? 
+Cluster 16	subjects	0.9146	 We need to say something about the geography and climate of china . Is there any way to divide the country into sections ? 
+Cluster 23	related	0.9258	 What about your step-brother ’ s mother ? Does he keep in touch with her ? 
+Cluster 23	related	0.9233	How's your brother doing ? 
+Cluster 5	hypothesis	0.9043	 Really ? How do you know it was Santa ? 
+Cluster 23	related	0.9180	 Your cousin Fay is fifteen . Rosemary is older than Fay . She's seventeen . 
+Cluster 23	related	0.9434	 How about your family ? 
+Cluster 5	hypothesis	0.9043	 is that why my knees have felt sore after every time I've ridden my bike ? 
+Cluster 1	personality	0.9175	 I mean her personality . 
+Cluster 14	elements	0.9326	 That's one . Another is the lack of personal property . Everything you have , from toys to clothes , is used by your brothers and sisters . Especially clothes . Three quarters of my wardrobe are hand-me-downs . 
+Cluster 5	hypothesis	0.9146	 Actually , it suggest English . The main argument is that English is already being studied as a second language in most countries-china , India , mexico , Nigeria , Pakistan , and japan . So beginning again with a language like Esperanto would be wasteful . The second argument is that English is used in modern technology far more that any other language . Most emails are sent in English and the vast majority of website use English . 
+Cluster 14	elements	0.9487	 What about the weather in Boston ? 
+Cluster 1	personality	0.9043	 it that why you wear second-hand cloths as well ? Because they've got character ? 
+Cluster 16	subjects	0.9102	 You mean getting into university actually depends on your passing your A level subjects ? 
+Cluster 23	related	0.9072	 Don't worry . Family comes first . Come on , let's go . 
+Cluster 16	subjects	0.9102	 You mean getting into university actually depends on your passing your A level subjects ? 
+Cluster 1	personality	0.9072	 What's her personality like ? 
+Cluster 14	elements	0.9380	 Well , Jim . It is a combination of how much you eat , the type of food you eat , and when you eat your meals . 
+Cluster 14	elements	0.9463	 What about my SIEMENS ? 
+Cluster 23	related	0.9209	 What about me ? I ’ m your friend . 
+Cluster 23	related	0.9019	 Mysteries of the Pyramids . Didn't we watch this program last week ? 
+Cluster 23	related	0.9287	 My cousin Monk . Have you seen her lately ? 
+Cluster 23	related	0.9014	 It's going to rain . 
+Cluster 17	divergent	0.9097	 He's very nice , actually , but rather eccentric . 
+Cluster 12	openness	0.9668	 Be a little more open-minded , Stu ! Don't believe everything you read in your history books ! 
+Cluster 23	related	0.9053	 That's no news . Those two were high school sweethearts anyway . 
+Cluster 23	related	0.9331	 That movie's just a lot of noise , same as Simon . 
+Cluster 23	related	0.9019	Have you run into your cousin Jimmy lately ? 
+Cluster 23	related	0.9111	 Chill out . It's just Kenny from South Park . 
+Cluster 14	elements	0.9531	 I guess the first thing is the price , the second is the size , and of course the color will play a role too . But I have to be honest . It is our today ’ s responsibility to take care about our environment . Therefore , I will also pay attention to the fuel consumption of the car . You know , the rise in gasoline prices is huge . So I would rather to consider a smaller car with smaller engine . For which I can also save some tax . Last of the list , I also consider the safety . 
+Cluster 23	related	0.9048	 Oh , French dressing . 
+Cluster 23	related	0.9048	 Hmm . I have the same problem . When I leave work , it ’ s always rush hour.So the buses are always crowded . 
+Cluster 23	related	0.9072	 He's my brother . 
+Cluster 23	related	0.9214	 They're my family 
+Cluster 16	subjects	0.9346	 Yeah , that ’ s perfect . What about the subjects for your minor ? 
+Cluster 16	subjects	0.9072	 What about restaurants and entertainment ? 
+Cluster 14	elements	0.9360	 Oh , books , and music , how much we both love New York . Harmless , harmless , meaningless . Bouquets of sharpened pencils . Oh . 
+Cluster 23	related	0.9189	 It ’ s basically about a father who tried to marry off one of his five girls . 
+Cluster 23	related	0.9048	 My name is Phillip Hammer . I think we are related . Who is your dad ? 
+Cluster 23	related	0.9424	 That's my uncle . You're my cousin ! Hi cousin ! 
+Cluster 23	related	0.9170	 Of course I miss Grandma , too . I bet she ’ s gonna teach me how to play Mahjong ! Hey , Dad , are you going to buy me firecrackers this year ? We ’ re going to have the best fireworks ! I ’ m really looking forward to lighting them ! 
+Cluster 14	elements	0.9175	 Attractive scenery , pleasant climate , these make it charming . 
+Cluster 1	personality	0.9072	 The trust game was your favorite , huh ? My favorite part was the personality tests . I think to know more about what kind of personality type you are will tell you a lot about how you can fit into a team.Also , when you know the personality strengths of your colleagues , it helps you understand them better . 
+Cluster 23	related	0.9019	Don't you have too much to do with him . 
+Cluster 23	related	0.9111	Are these your triplets ? They ’ re beautiful ! I ’ Ve seen other babies who were nothing but skin and bones at their age . You know , they ’ re absolutely identical of you and John ! Are you planning on having any more ? 
+Cluster 17	divergent	0.9053	 She said it was because we had very different ideas about life . 
+Cluster 23	related	0.9150	I hear you're going to Tainan to visit your uncle . 
+Cluster 23	related	0.9229	 To a historic coffeehouse . It's got a little Mafia story to it . 
+Cluster 23	related	0.9102	 Just like you celebrate Christmas , we celebrate our lunar New Year's Day , the Spring Festival . It is a time for the family members and relatives to have a get-together . 
+Cluster 23	related	0.9189	 It ’ s basically about a father who tried to marry off one of his five girls . 
+Cluster 23	related	0.9355	 She ’ s my friend ’ s ten-year-old niece . I guess there won ’ t be another wedding in this family for a long time . 
+Cluster 23	related	0.9180	 That reminds me . My wedding anniversary is tomorrow . 
+Cluster 16	subjects	0.9194	 Then what about you ? How are you getting on with your boyfriend ? 
+Cluster 23	related	0.9067	 I am going to the beech . How about coming with me ? 
+Cluster 23	related	0.9043	 Oh , it's a disco . Let's dance . 
+Cluster 14	elements	0.9048	 What will the weather be like tomorrow ? 
+Cluster 23	related	0.9009	 Company ? I heard about you from Linda . She said you were an octopus ! 
+Cluster 12	openness	0.9263	 Open your heart Dick . Don ’ t shut us out . 
+Cluster 23	related	0.9097	 Oh , me too ! All the family getting together ... 
+Cluster 23	related	0.9028	 Nothing special . I had a get-together with some schoolmates at the high school , visited the Internet and read a couple of books which I had been longing for . How about yours ? 
+Cluster 23	related	0.9058	 I know your sister . She's very nice . 
+Cluster 23	related	0.9282	Tom's dating your sister . 
+Cluster 17	divergent	0.9321	 She said she wanted to go Dutch in dating . 
+Cluster 23	related	0.9141	 Well , I live in the southern hemisphere , so our summertime is your wintertime , and vice versa . We get some rain in every season , but most is in winter . In winter , it sometimes gets cold , but our winters are usually quite mild . Summers are warm , but not hot . Spring and autumn are both very short-sometimes just a few weeks each . The weather is very changeable then-just like spring in your city . 
+Cluster 23	related	0.9043	 What about your friend Zoe 
+Cluster 14	elements	0.9316	 Chips , finger foods , desserts , baked beans . Where're the pork and beef strips ? 
+Cluster 23	related	0.9292	 Ah ... hence the buns and condiments we bought . And this is Holly's potato salad . 
+Cluster 12	openness	0.9385	 Come on , Liz . Be open-minded ! Look at my eyes , they are puffy . And my eye bags , they are dark and loose and full of lines and circles . I really hope surgery can wipe out the tired feelings . 
+Cluster 23	related	0.8999	 I had to visit all my relatives . 
+Cluster 14	elements	0.9487	 What about the weather in Boston ? 
+Cluster 14	elements	0.9014	 Some routine job . Files , documents , faxes and so on . 
+Cluster 23	related	0.9355	 She ’ s my friend ’ s ten-year-old niece . I guess there won ’ t be another wedding in this family for a long time . 
+Cluster 23	related	0.9077	 It ’ s as plain as the nose on your face . They ’ re dating each other . 
+Cluster 23	related	0.9038	 she's my cousin . 
+Cluster 16	subjects	0.9082	 You are full of boasts . I can examine you by question and answer . What is Hollywood ? Where is it ? What is the function of it ? 
+Cluster 23	related	0.9155	 Pretty good . Listen ... have you heard about the new Thai restaurant over on University Avenue ? 
+Cluster 23	related	0.9009	 It's said that the father's will caused the dissension among the two brothers . 
+Cluster 23	related	0.9434	Tell me about your brother and sister , Sue . 
+Cluster 1	personality	0.9170	 I mean her personality . 
+Cluster 23	related	0.9331	 That movie's just a lot of noise , same as Simon . 
+Cluster 23	related	0.9170	 For me ? The football games of course , I love football games . 
+Cluster 12	openness	0.9331	 Supervisor . Open the door . 
+Cluster 23	related	0.9326	 The Godfather and The Godfather II , of course . They were both directed by Francis Ford Coppola . 
+Cluster 4	developmental	0.9199	 We must keep developing our economy and unite with other developing countries to fight against it . 
+Cluster 23	related	0.9033	 Nothing special . I had a get-together with some schoolmates at the high school , visited the Internet and read a couple of books which I had been longing for . How about yours ? 
+Cluster 16	subjects	0.8999	 What about America ? Have you ever been to the United States ? 
+Cluster 17	divergent	0.9180	 Of course it does . It ' s like a modern tale of Romeo and Juliet . You can see a couple who are in love but can ' t be together because they are so different . And in the fact that immortality and super human strengthen this really sexy and there you have it ! Plus the cast is hip , young people that make the movie even more enticing . 
+Cluster 23	related	0.9116	 I appreciate it . It is related to company image . 
+Cluster 23	related	0.9102	 Now . you can see why it's called the Lantern Festival . 
+Cluster 23	related	0.9404	 Is uncle Bill your brother ? 
+Cluster 23	related	0.9058	 So his two daughters are my cousins ? 
+Cluster 23	related	0.9014	 I came to see my aunt . 
+Cluster 16	subjects	0.9248	 What about in China ? What'd you do to celebrate your birthday ? 
+Cluster 16	subjects	0.9233	 You can ’ t compare apples and oranges . I believe that both topics are important and that we can ’ t ignore them , the mistreatment of animals can cause a great environmental imbalance . I believe that governments should prohibit activities like poaching . 
+Cluster 23	related	0.9087	 Didn't I tell you ? We're moving to Florida ? 
+Cluster 14	elements	0.9380	 Well , Jim . It is a combination of how much you eat , the type of food you eat , and when you eat your meals . 
+Cluster 17	divergent	0.9058	 Are you sure ? We could go Dutch . 
+Cluster 14	elements	0.9326	 That's one . Another is the lack of personal property . Everything you have , from toys to clothes , is used by your brothers and sisters . Especially clothes . Three quarters of my wardrobe are hand-me-downs . 
+Cluster 16	subjects	0.9229	 A lecture on how to make stir-fried ginger beef , not the boxing you like . 
+Cluster 23	related	0.9292	 You , too . Where did you get your new hat ? 
+Cluster 19	investigations	0.9448	 It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological thriller with some frightening scenes , but I hope audience won ’ t be too scared to go to the movie theatres ! 
+Cluster 14	elements	0.9380	 Well , Jim . It is a combination of how much you eat , the type of food you eat , and when you eat your meals . 
+Cluster 23	related	0.9072	 Then go climbing with me , Daddy . Mountain climbing can build your muscles like Popeyes . 
+Cluster 23	related	0.9097	 Same here . Hey , did you know Susan is going to get married . She invited me to her wedding and she wants you to attend also . 
+Cluster 23	related	0.9106	 We can buy something for Mom and Dad here , and then go buy Uncle Teddy's gift on State Street . 
+Cluster 12	openness	0.9072	 Well , let ’ s have a look . Open wide . Hmm ... this doesn ’ t look good . Well , it looks like you have a cavity and your crown is loose . We ’ ll need to put in a filling before it gets any worse , and the crown probably needs to be refitted . I ’ m going to order some x-rays . 
+Cluster 23	related	0.9092	 Twice a year ? How long has your sister lived in Boston ? 
+Cluster 23	related	0.9062	 I was calling about your son . 
+Cluster 16	subjects	0.9204	 What's the house rent ? When is the rent due ? And how much security deposit do you require ? 
+Cluster 1	personality	0.9004	 What kind of personality do you think you have ? 
+Cluster 23	related	0.9087	 Then it's for Dad , isn't it ? It's so unfair ! 
+Cluster 23	related	0.9146	 Don't be a smarty-pants . It's for Grandma Wang . 
+Cluster 1	personality	0.9004	 What kind of personality do you think you have ? 
+Cluster 23	related	0.9058	 Sporting goods ? Is that bike Tim wanted on sale ? 
+Cluster 14	elements	0.9175	 Well , I ... I guess the weather . And the people . They were all very friendly to me . 
+Cluster 5	hypothesis	0.8999	 Am I correct in thinking that you are here for your annual physical ? 
+Cluster 17	divergent	0.9126	 Yes . Let's go Dutch . 
+Cluster 12	openness	0.9272	 Well , open your mouth and let me have a look . It is nothing serious . You haven't got a fever . But you should take the medicine and need have more rest recently . When you feel well , you could take more exercises , or play sports like basketball , running , and swimming . And eating healthy food , having more fruits and vegetable and drinking milk are good for your heath . 
+Cluster 23	related	0.9414	 Oh , it's for my brother . The little boy over there . He is getting a carsickness . 
+Cluster 23	related	0.9595	 Similar to a Promissory Note , yes . I can deal with that for you right here . The difference between a Promissory Note and a Bill of Exchange is that this product is transferable and can bind one party to pay a third party that was not involved in its creation . 
+Cluster 13	validation	0.9229	 Of course I did . As recognition for a job well done . Once a month I invite the most productive employee to dinner . 
+Cluster 14	elements	0.9019	 Well , make sure to put out the pepper and salt shakers . I don ’ t know if your brother is coming tonight so set an extra place mat just in case . 
+Cluster 23	related	0.9136	 The Chinese rice pudding . Your father loves it , too . You wanna try ? 
+Cluster 12	openness	0.9185	 I like people who are open and friendly . Those people are usually more active and fun to be with . I like spending time with my friends . We go to bars together or play sports together . 
+Cluster 14	elements	0.9541	 First , it was how to design survey sheets according to the subjects , because we had to prevent the questions from being too influential and we must make sure that every question was balanced and equitable . Secondly , it was how to get information through telephone covering in the fastest and most effectively way , because the person doing the survey usually doesn ’ t have the patience to wait for long feedback . So the way we put up questions must be clear and direct and only by this means can we get accurate data . 
+Cluster 23	related	0.9072	 Me ? Cook our dinners ? Hah ! You will be cooking , dear . You will cook . 
+Cluster 23	related	0.9106	 Make it work , Geoff . You would say that , wouldn ’ t you , he is your cousin.what a jerk , make me hire your stupid , useless , cousin . 
+Cluster 12	openness	0.9277	 A friendly one . I think an open , friendly , honest relationship should exist . An employee should feel she ( he ) can go to her ( his ) boss anytime with any kind of question . 
+Cluster 23	related	0.9185	 I want to adopt a cat , and it can be Barbie's boyfriend too . 
+Cluster 14	elements	0.9336	 Square ... turn right ... traffic lights ... And then ? 
+Cluster 23	related	0.9087	 That girl was my cousin . 
+Cluster 19	investigations	0.9019	 We ’ re going to have to do an investigation . 
+Cluster 23	related	0.9297	 About the same . But I'm looking for a job , so I have to answer the phone often . 
+Cluster 19	investigations	0.9111	 We'll do an investigation and get to the bottom of this . 
+Cluster 3	correlations	0.9155	 Tell me about Corollas . 
+Cluster 5	hypothesis	0.9326	 Is that so ? So far we haven't had any complaint of this kind . Our mushrooms have enjoyed a good reputation for their superior quality for years . We are really at a loss to understand why your lot was found moldy and wormeaten . Have you any evidence ? 
+Cluster 14	elements	0.9546	 The company introduction , our mission , vision , various policies , insurances , pension plan , company ID , batch , telephone , e-mail set-up and training . 
+Cluster 23	related	0.9194	 Well , we have a tradition in my family ... 
+Cluster 23	related	0.9233	 No , ties . And there's a tie store . Let's go ! 
+Cluster 16	subjects	0.9102	 What about the insurance and housing policies ? 
+Cluster 14	elements	0.9258	 How about the microphone and speakers ? 
+Cluster 23	related	0.9004	Print shop . Seam speaking . 
+Cluster 14	elements	0.9087	 You mean on product availability , reliability and price ? 
+Cluster 23	related	0.9370	 It's all about credit rating and salary . If your credit rating and your salary are high enough , we can offer you the platinum card . 
+Cluster 23	related	0.9009	 It's just around the comer . 
+Cluster 16	subjects	0.9131	 Why did you stay an extra night in Boston ? What happened ? 
+Cluster 17	divergent	0.9238	 What about the divided skirt ? 
+Cluster 23	related	0.8999	 Just as what I said in my welcome speech , Mr . Ross's visit to our company is meaningful for both our two companies . Thank you very much for your visiting . We will miss you all the time . 
+Cluster 23	related	0.9473	 One is a small-size Nike in red and the other is a big one in black . The two are tied together . 
+Cluster 5	hypothesis	0.9004	 Why ? Wouldn't a red wine go well with sushi ? 
+Cluster 23	related	0.9321	 What about your step-brother's mother ? Does he keep in touch with her ? 
+Cluster 23	related	0.9253	 Hooray ! I can play football with daddy . Mom and sister can play badminton . 
+Cluster 23	related	0.8999	 Dad . Here comes another bus . 
+Cluster 14	elements	0.9443	 How about the price and the bank mortgage ? 
+Cluster 13	validation	0.9077	 You ought to point out how valuable you are , and tell her those people who have the same situation also get the salary raise . 
+Cluster 23	related	0.9004	 Tie it in with the pay-per-view services , and perhaps it could be a money-maker . 
+Cluster 14	elements	0.9019	 Well , make sure to put out the pepper and salt shakers . I don ’ t know if your brother is coming tonight so set an extra place mat just in case . 
+Cluster 14	elements	0.9189	 No problem . First , it's comfortable and cozy . Second , it has a lovely view of the city . Third , it has all kinds of electric appliances that we need , such as refrigerator , electric stove , heating apparatus , washing machine and dishwasher . Forth is the most important , the electricity is free of charge . Finally , it's located in the center of the city and the transportation is convenient . 
+Cluster 14	elements	0.9473	 OK ... and what about the buffet and the cake ? Did your mom call the caterer ? 
+Cluster 23	related	0.9092	 Our cousin went into labor and had her baby last week . 
+Cluster 23	related	0.9175	 Thanks . But don't forget that they have a vet appointment this Saturday . 
+Cluster 19	investigations	0.9038	 All right , we'll do an investigation . 
+Cluster 23	related	0.9214	 It's our wedding anniversary , honey . How can you forget about it ? 
+Cluster 14	elements	0.9028	 Look out . Catch the ball . You should dunk besides the three-point line . 
+Cluster 23	related	0.9097	 Twice a year ? How long has your sister lived in Boston ? 
+Cluster 23	related	0.9072	 Oh , I almost forgot . It's my mum's birthday Saturday . I need to get her some more Chanel . Could you get me the 1.7 ounce bottle of Chanel cologne ? 
+Cluster 5	hypothesis	0.9224	 Do you think so ? I ’ m not so sure . Anyway , tell me your plans for an Australian holiday . How long do you think we should spend there ? 
+Cluster 19	investigations	0.9292	 I understand . For now , though , you could just give us an estimated price.We aren't going to sign a contract yet . We are just investigating . I only need to know that your company is capable of producing the products.And then , I only need a very rough idea of how much it might cost . 
+Cluster 23	related	0.9321	 while you ’ re cleaning the cooker , I ’ ll wipe the worktop . That was a great meat , by the way . 
+Cluster 5	hypothesis	0.9077	 Do you mean that it is a trend for men to trim their eyebrows ? 
+Cluster 14	elements	0.9336	 How about some chicken , ground beef , and some steak . 
+Cluster 23	related	0.9341	 That reminds me I should buy some new socks to go hiking this weekend . 
+Cluster 23	related	0.9224	 Cash . Oh , I almost forgot . I need a lid , too . 
+Cluster 23	related	0.9204	 Pleasure . I'm visiting my relatives . 
+Cluster 23	related	0.9043	 Then how about the wine ? Is white wine OK ? 
+Cluster 12	openness	0.9072	 Well , let ’ s have a look . Open wide . Hmm ... this doesn ’ t look good . Well , it looks like you have a cavity and your crown is loose . We ’ ll need to put in a filling before it gets any worse , and the crown probably needs to be refitted . I ’ m going to order some x-rays . 
+Cluster 23	related	0.9160	 Is your great uncle Rick going to be there ? He is really funny . 
+Cluster 23	related	0.9111	 You mean your sister ? 
+Cluster 23	related	0.9097	 I know how you feel . I had a similar problem with a landlord a few years ago . Fortunately , the one we have now is very nice . 
+Cluster 14	elements	0.9546	 The company introduction , our mission , vision , various policies , insurances , pension plan , company ID , batch , telephone , e-mail set-up and training . 
+Cluster 17	divergent	0.9219	 Don't be silly . Let's go Dutch . 
+Cluster 23	related	0.9023	 Because he takes after you , he's got into trouble again . 
+Cluster 23	related	0.9185	 Because we're partners . 
+Cluster 14	elements	0.9219	 How about some chicken , ground beef , and some steak ? 
+Cluster 23	related	0.9121	 I have a relative working as a manager in your manufacturing department . Her name is Lilling . She told me a lot about your company and I became quite interested . I believe I can have a promising career with the development of this company . 
+Cluster 23	related	0.9009	 Let's go to another place where my friend is working , let me pay here . 
+Cluster 23	related	0.9092	 That looks great . Just one more thing-you need some high heels with those jeans . Do you want a pair with a plain pattern or ones with a leopard print on them ? 
+Cluster 8	intrinsic	0.9126	 What about this one ? It's natural ingredients . 
+Cluster 23	related	0.9194	 Like renewing my passport , going to the travel agency to buy my plane ticket and figuring out what to do with my apartment while I ’ m gone . 
+Cluster 17	divergent	0.9214	 Correct ! Another contrast is the rules for the general and the king . It seems the general or marshal in xiangqi is much too incompetent . They are required to stay in the palace , waiting to be checked and fleeing for life under the cover of the guards . Look at the king in chess , he is much more capable . 
+Cluster 17	divergent	0.9028	 Yes . There will be one at the end of this month . For many people , a Hawaiian vacation promises languid days filled with sunbathing and poolside cocktails . For others , it ’ s all about non-stop action in one of the world's most extreme natural playgrounds . Whether you are in search of quiet relaxation or unbridled stimulation , Hawaii gives you the best of both . 
+Cluster 16	subjects	0.9287	 News about current affairs , documentaries , music , movies , noncommercial ads and so on . 
+Cluster 23	related	0.9028	 It's a football game the school team plays at home . The dance and reunions are usually that night , too . 
+Cluster 23	related	0.9326	 Since it is , I need a haircut with shampoo . 
+Cluster 23	related	0.9253	 No problem . We also need bread , so I'll go to the baker's . I'll get some vol au vents for Victor's birthday bash on Friday . We'll need balloons for that too . 
+Cluster 23	related	0.9312	 Actually , it is my mother ’ s wedding . My parents divorced many years ago . Now she is ready to establish a new family . It is a special occasion . I've got to be there , right ? 
+Cluster 14	elements	0.9272	 Hiring , firing , training , insurances , benefits , retirement plans , salary , vacation . 
+Cluster 23	related	0.9111	 I need to stay in the area because of my family . 
+Cluster 23	related	0.9014	 Sure . What about the cloth over there ? It's in fashion . 
+Cluster 23	related	0.9048	 Oh , French dressing . 
+Cluster 5	hypothesis	0.9028	Is it true that one of our competitors is planning to launch their tracking service next month ? 
+Cluster 23	related	0.9102	 The same is true for ' My Hero ' . Winners of the contest used to star in the TV series ' The Frog Prince ' . 
+Cluster 23	related	0.9092	 Twice a year ? How long has your sister lived in Boston ? 
+Cluster 23	related	0.9331	 So this is a family business . 
+Cluster 14	elements	0.9121	 Then here we have a series of deductions . First off are the federal ones . FICA stands for Federal Insurance Contribution Act , or something like that . It's your federal income tax . And then there's Social Security and Medicare , which are both federal programs to help you out after you retire or if you were unable to work . 
+Cluster 18	discoveries	0.9341	 Well , it's about this woman who got murdered because she discovered some company secrets about the cosmetics company she worked for . But then she got reincarnated as a cat . 
+Cluster 23	related	0.9102	 I know . Stay with me . She then decided to get her revenge by revealing the company secret and killing the boss . First , though , she had to discover her true cat nature . At the end she had a big fight with Sharon Stone , who was the real danger in the company . She had actually murdered the boss , who was her husband , and then tried to frame Batwoman for the murder , so everyone thought Batwoman was evil . 
+Cluster 23	related	0.9219	 It's this cold weather we're having . 
+Cluster 14	elements	0.9082	 What's the weather going to be like ? I may want to go too . 
+Cluster 23	related	0.9087	 Oh , yes , speaking of fruit , bring me some grape juice , too . 
+Cluster 14	elements	0.9512	 Perrier , Jim Beam , apples , and grape juice . It will all be there shortly , sir . 
+Cluster 16	subjects	0.9355	 What subjects did you like most at university ? 
+Cluster 23	related	0.9194	 Yes , I need to go home to have a family reunion . 
+Cluster 23	related	0.9434	 How about your family ? 
+Cluster 23	related	0.9360	 Well , they consider some distinct but related problems , such as seeking for a target market or locating the promising customer . An exporter needs to know about the social characteristics of people he is dealing with . 
+Cluster 4	developmental	0.9170	 I mean he's a student developing all round . 
+Cluster 23	related	0.9058	 Maybe it's because Susan's parents are both painters . 
+Cluster 5	hypothesis	0.9155	 Let's see ... You are importing fifty containers of textiles from China . They should be able to place your order before the end of next week . It will take 2 days for shipping to the port city of Ningpo . The freight will take 3 weeks on the open ocean , and will arrive in Los Angeles approximately a month from today . Domestic shipping will be your responsibility , you can make arrangements with the pier in Los Angeles . 
+Cluster 14	elements	0.9336	 Square ... turn right ... traffic lights ... And then ? 
+Cluster 1	personality	0.9072	 What's her personality like ? 
+Cluster 16	subjects	0.9102	 What about the insurance and housing policies ? 
+Cluster 14	elements	0.8999	 I have it on highest authority that this traditional secret recipe has been handed down in the Granger family for generations . I ’ m sure you can keep a secret.Buttermilk , cacao beans , sugar and Haggis . 
+Cluster 14	elements	0.9189	 No problem . First , it's comfortable and cozy . Second , it has a lovely view of the city . Third , it has all kinds of electric appliances that we need , such as refrigerator , electric stove , heating apparatus , washing machine and dishwasher . Forth is the most important , the electricity is free of charge . Finally , it's located in the center of the city and the transportation is convenient . 
+Cluster 23	related	0.8999	 Dad . Here comes another bus . 
+Cluster 23	related	0.9116	 I appreciate it . It is related to company image . 
+Cluster 23	related	0.9028	 That looks great . Just one more thing---you need some high heels with those jeans . Do you want a pair with a plain pattern or ones with a leopard print on them ? 
+Cluster 5	hypothesis	0.9092	 You mean , kung fu may not be so powerful as it is imagined ? To some extent your idea holds water . Kung fu was originally intended for self-defense , but with time it became something more than defense skills . Now we are apt to treat it as an art . 
+Cluster 14	elements	0.9429	 Let ’ s start with the basics , bread . Bread is an important ingredient here . You need to remember one thing - choose the bread according to the following criteria , freshness , crumb and color . If you want a closed sandwich I recommend you first toast your bread in a toaster or oven , or grill it slightly until it gets a light brown color . 
+Cluster 14	elements	0.9150	 Now that our bread is ready , let ’ s talk about the ingredients ! Of course , each person ’ s palate is different , but I ’ m going to give you a few tips that you ’ ll be able to use when turning any sandwich into the perfect sandwich . I would strongly recommend you put fresh vegetables in your sandwich . 
+Cluster 14	elements	0.9023	 Do not undervalue them as they play a big role in forming the taste and will make the sandwich more refreshing and light . The best choices here are evident — cucumbers , tomatoes , onions , sweet pepper or chilli , lettuce and , of course , herbs — you can ’ t go wrong with them . As for aubergines , mushrooms and asparagus , I would recommend you first grill them slightly with a little touch of olive oil . 
+Cluster 16	subjects	0.9580	 Stop , stop ... We are talking about our son's attendance for classes and his study . Maybe we could give him a little bit money to pay to go to school . 
+Cluster 23	related	0.9043	 Oh , it's a real Chinese meal . When in Rome , do as the Romans do . I'd take the chopsticks . 
+Cluster 23	related	0.9209	 He is the guy I was telling you about . 
+Cluster 16	subjects	0.8999	 In which subject did you get the highest marks ? 
+Cluster 19	investigations	0.9243	 The first problem is supposed to be solved after the investigation . About the second problem , I admit it's our fault , so we will exchange all merchandise that falls short of our sample . 
+Cluster 23	related	0.9126	 Say , I like racquetball , too . 
+Cluster 23	related	0.9248	 While you ’ re cleaning the cooker , I ’ ll wipe the worktop . That was a great meal , by the way . 
+Cluster 16	subjects	0.9580	 Stop , stop ... We are talking about our son's attendance for classes and his study . Maybe we could give him a little bit money to pay to go to school . 
+Cluster 23	related	0.9219	 It's this cold weather we're having . 
+Cluster 23	related	0.9375	Merry Christmas , sweetie . How's your brother enjoying Taiwan ? 
+Cluster 23	related	0.9092	 So that's the Family Reunification . 
+Cluster 23	related	0.9160	 Don't forget about the dessert . 
+Cluster 23	related	0.9321	 Actually , it is my mother ’ s wedding . My parents divorced many years ago . Now she is ready to establish a new family . It is a special occasion . I ’ Ve got to be there , right ? 
+Cluster 16	subjects	0.9014	 So it's the subjective criteria like team building and colleague support that you find hard ? 
+Cluster 17	divergent	0.9072	 It's like this . There are only one or two ships sailing a month from New York to Osaka , while sailings from Hong Kong are quite frequent . If shipment were effected from Hong Kong , we could receive the goods much earlier . 
+Cluster 5	hypothesis	0.9092	 Why are there so many yellow things ? Is yellow the lucky color in China ? 
