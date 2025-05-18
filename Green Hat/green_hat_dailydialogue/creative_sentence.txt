@@ -1,0 +1,1592 @@
+Label 95	positively	0.9419	 I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling ! 
+Label 89	predictions	0.9146	 It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ? 
+Label 81	related	0.9033	 My mother-in-law used to do the same thing to us . If it wasn't disciplining them enough , then we were disciplining them too much . She also complained about the food we fed them , the schools we sent them too , and everything else under the sun . 
+Label 42	toward	0.9175	 Honey , a typhoon is coming . 
+Label 31	individual	0.9097	Hey , Ted . What are you up to this Friday ? 
+Label 31	individual	0.9028	 It's us . 
+Label 70	self	0.8999	 Take good care of yourself . 
+Label 16	individuals	0.9424	 You know , about David and his new boss . 
+Label 95	positively	0.9092	 Good . I will have hot chocolate . 
+Label 85	research	0.9443	 I think you should reconsider and do some more research about tattoos . Also , find out where the nearest tattoo parlor is and make sure they used sterilized needles , and that the place is hygienic . 
+Label 75	subjects	0.9287	 News about current affairs , documentaries , music , movies , noncommercial ads and so on . 
+Label 99	elements	0.9131	 What is two hand touch and flag football ? 
+Label 99	elements	0.9194	 This party is going to have a DJ , food , and drinks . 
+Label 14	scores	0.9316	Could you talk to me for a few minutes about my grades ? 
+Label 30	developmental	0.9238	 Yes , so I want to learn French to develop my career . 
+Label 6	because	0.9131	 Because you seem to have lost your vigilance . You should be on the watch out . 
+Label 32	problem	0.9165	 About 70 , I think . This newspaper article talks about the problems of an aging population . It ’ s a problem that will soon affect most of the world . 
+Label 9	motivation	0.9238	 Why are you choosing to leave a foreign country ? Many people are reluctant to leave the superior living environment abroad . 
+Label 96	investigators	0.9609	 It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological th 
+Label 95	positively	0.9282	 oh , really . That is great news . What does he look like ? 
+Label 32	problem	0.9062	 This is really a sad story . Did they trace back your luggage ? 
+Label 62	complexity	0.9204	 That ’ s a little complicated . You ’ ll get to know it when you are acquainted with the U . S . history later on . Religion was and is a part of American people ’ s life . Guess what ? Even Harvard University , which is a highly academic institution , is in a sense the product of religion . 
+Label 78	hypotheses	0.9326	 Why was it founded by the Puritans ? Where were the atheistic educators ? 
+Label 49	hypothesis	0.9170	 Really ? Perhaps I should listen to classical music often . I heard that listening to classical music is helpful in reducing stress . 
+Label 42	toward	0.9214	 It's just around the corner . 
+Label 6	because	0.9341	 Because Myra was cheating on exams , and she spoke back rudely . 
+Label 31	individual	0.9224	 His life is hanging by a thread , and he is under an emergency treatment . 
+Label 40	cannot	0.9023	 Sorry , I can't . I am busy . 
+Label 16	individuals	0.9409	 It's Ellie and her friends . 
+Label 31	individual	0.8999	 Manchester United . What about you ? 
+Label 70	self	0.9258	 Look after yourself . Bye . 
+Label 40	cannot	0.9419	 Ho , no ! 
+Label 15	solving	0.9258	 We need to solve the problem of air pollution before we destroy the atmosphere . There ’ s lots of clean , modern technology , but companies in developed countries say it ’ s expensive . Developing countries put more emphasis on economic development than on environment protection . 
+Label 72	variables	0.9614	 How about mileage and gas ? 
+Label 13	thinking	0.9077	 I'm just thinking about that , but the trouble is , I don't know who is well in the know . 
+Label 81	related	0.9082	 It will be . And today is , too . I just talked to the airlines ... 
+Label 81	related	0.9297	The world changes , the family changes too . 
+Label 46	extrinsic	0.9434	 Really ? That's a straws in the wind . 
+Label 40	cannot	0.9121	 No way ! They want publicity for themselves , so that they get invited to make more films , go to lots of cocktail parties , and even make albums ! They have such an easy life . They don ’ t even pay for drinks when they go to a cocktail party . 
+Label 99	elements	0.9321	 What is the weather like in Washington at this time of this year ? 
+Label 94	barren	0.9404	 I feel it's rather dry here . 
+Label 34	artistic	0.9165	 I love this art exhibition ! 
+Label 31	individual	0.9126	 You shall go easy on her . she is new here . 
+Label 40	cannot	0.9380	 You can't be serious . How dare you not tell me you were going to marry her ? 
+Label 31	individual	0.9204	 He has the flu . 
+Label 31	individual	0.9609	 Tell him I was asking about him . 
+Label 31	individual	0.9097	 I'm fine , thanks , how about yourself ? 
+Label 85	research	0.9434	 I am heading for the library . I've got a research project to do.How about you ? 
+Label 32	problem	0.9009	 There ’ s problem with my bank statement . There ’ s a mistake on it . I also need to withdraw some money some the ATM . 
+Label 31	individual	0.9038	 I was just concerned about Sam . He hasn't been himself lately . 
+Label 81	related	0.9170	 oh , Iris , it ’ s about the job with the PR company . 
+Label 81	related	0.9199	Hurry up , Daniel , it's Barbie time . 
+Label 42	toward	0.9458	 He's diving for the gold . 
+Label 60	rated	0.9482	 Can't you stay for a little bit longer , it's only 8 . 
+Label 32	problem	0.9067	 The problem is that I just have no one to turn to right now . 
+Label 81	related	0.9092	 Maybe her uncle will . 
+Label 70	self	0.9272	 Well , I guess no one can help me but myself . For the moment , I just need someone to talk to , so that I can relieve my stress . 
+Label 32	problem	0.9165	 About 70 , I think . This newspaper article talks about the problems of an aging population . It ’ s a problem that will soon affect most of the world . 
+Label 6	because	0.9004	 Because the houses look so nice at Christmas time . 
+Label 40	cannot	0.9121	 I can't now because I have to buy a present for my mother . 
+Label 60	rated	0.9155	 Awful . It was a complete waste of time . 
+Label 92	these	0.9438	 It was about a married couple . They had to live with the wife's mother , because they didn't have enough money to buy a house of their own . 
+Label 60	rated	0.9092	 Pretty good , thanks . I'm going to see my uncle . 
+Label 47	selective	0.9058	 I try and look at the programmes that are on to decide which particular ones interest me , rather than you turning it on a seven o'clock and you leaving it on until half-past eleven when the programmes finish . 
+Label 31	individual	0.9106	 Yeah . He has no one to count on . 
+Label 70	self	0.9478	 Well , take care of yourself , and don't say I didn't warn you . 
+Label 31	individual	0.9673	 We're just worried about you , Taylor . 
+Label 81	related	0.9062	 My brother did it . 
+Label 42	toward	0.9482	 I want to return this video . 
+Label 81	related	0.9053	 It may have something to do with the food I had last night 
+Label 60	rated	0.9038	 Terrible . It must be something serious . You two are such close friends . 
+Label 70	self	0.9399	 Well , I think I was being a little selfish myself . I know they don't get to see each other very often . 
+Label 31	individual	0.9590	 It ’ s me , mum , I am sorry . 
+Label 81	related	0.9087	 Hug ! And this sweater from my aunt ? Isn ’ t it hideous ? 
+Label 81	related	0.9268	 It's something relative hackers . I often hear people talking about them , but I don't know much about them . 
+Label 55	tests	0.9312	 I'm worrying about my exam . 
+Label 95	positively	0.9282	 Good , happy birthday to you ! 
+Label 60	rated	0.9067	 Pretty good . There was a bit of turbulence while we were over the Pacific Ocean but it wasn't too bad . The worst thing was the guy behind me . He snored all through the night ! 
+Label 40	cannot	0.9028	 Lend you a few bucks ? No way ! Still remember the money you borrowed me last time ? 
+Label 95	positively	0.9263	 Okay , Pollyanna , what's so good about this weather ? 
+Label 81	related	0.8999	 Me too . I need something to read on the flight to new york . I can never sleep on planes . Sarah wants to pick up some children ’ s books for her daughter . 
+Label 31	individual	0.9009	 What happened to this one ? 
+Label 81	related	0.9204	 And don ’ t forget Mary , Tom ’ s twin sister . It ’ s her birthday , too . 
+Label 95	positively	0.9639	 You should be optimistic about this . Things have taken a good turn . You should remember that less than two centuries ago the dangers of train travel seemed similarly terrible . 
+Label 27	primary	0.9155	 The main one is radiation . There are two sorts of radiation man must fear in space . The first is radiation from the sun , and this is particularly dangerous when the sun is very active and explosions are occurring on its surface . The second , less harmful , comes from the so-called Van Allen Belts . 
+Label 27	primary	0.9253	 I recommend you ride a bike instead of commuting by bus . It may offer you many benefits . First , it's good for your health . I'm afraid it's not necessary for me to further elaborate . While lots of people spend time like an hour each morning exercising , a bike ride to work not only builds you up , but also makes full use of time . You might as well sleep out for a longer hour . 
+Label 93	psychology	0.9521	 Well , such things are just unavoidable in a great metropolis like Beijing . I think a still more desirable benefit is psychological . Bicycling home after work can help release your stress . Life in the offices is miserable . You just sit there in a daze , gazing at the monitor and dealing with files and documents . Why don't you give a full play to your energy after work ? Enjoy the speed on the road . Just think , you are flashing past the poles with your own energy . How great ! 
+Label 81	related	0.9199	 That ’ s a big family . How old is your brother ? 
+Label 81	related	0.9380	 What about your sister ? 
+Label 31	individual	0.9150	 Bo , of course not . He is still single . 
+Label 42	toward	0.9482	 I want to return this video . 
+Label 56	verbal	0.9341	 Not necessarily . This is only what she says , not what she does . 
+Label 99	elements	0.9062	What's the weather like ? 
+Label 95	positively	0.8999	 Friday is great . 
+Label 81	related	0.9409	 Right , it was a chick flick , just like this one , so what's the difference ? Besides , this is the last week for the third movie in Destroyer series and I want to see that on a big screen . Action movies need to be seen in a theater on a big screen . 
+Label 56	verbal	0.9160	 Now you're talking , we can see that love story next time . 
+Label 31	individual	0.9194	 Yes , I'm used to being on my own . 
+Label 81	related	0.9092	 This show is like a black Friends . 
+Label 99	elements	0.9287	 What ’ s the weather looking like today , Kenny ? 
+Label 56	verbal	0.9365	 Tell that to my boss . 
+Label 95	positively	0.9165	 Honey , cheer up . 
+Label 41	facilitate	0.9590	It is time to butter him up . 
+Label 31	individual	0.9136	Steven , why are you so depressed ? 
+Label 95	positively	0.9297	 Great ! It's good to see you . Goodbye ! 
+Label 31	individual	0.9180	 Carrie , are you ok ? You seem a bit down . 
+Label 75	subjects	0.9346	 Yeah , that ’ s perfect . What about the subjects for your minor ? 
+Label 40	cannot	0.9067	 Mumm . no . 
+Label 81	related	0.9204	 Oh ... football . Football is cool . I usually try to catch the World Cup finals . 
+Label 53	according	0.9043	 You're right . The invitation said two to seven . I was there at two o'clock , but most people didn't arrive until three or four . They didn't start cooking until five o ’ clock . 
+Label 95	positively	0.9297	 Great ! It's good to see you . Goodbye ! 
+Label 40	cannot	0.9043	 I'm afraid I can't . Parking is not allowed here . 
+Label 53	according	0.9019	 Aright . Do you have any cigarettes ? 
+Label 31	individual	0.9102	 Why tell me ? She has nothing to do with me ! 
+Label 31	individual	0.9048	 It's my girlfriend . I guess she's playing the army game . 
+Label 16	individuals	0.9062	 Really , John . I still think you should go to a doctor . You've been sneezing ever since you entered the office this morning . Why don't you take this afternoon off ? If you don't want to see a doctor , at least you can go home and have a good rest . 
+Label 40	cannot	0.9326	 I can't . I am already behind the schedule . Besides , you know Mr . White . He would think that I was putting him on . 
+Label 40	cannot	0.9209	 I can ’ t go through with this ! I just can ’ t ! I ’ m not ready for marriage ! What was I thinking ? I ’ m only thirty five years old ! I ’ Ve got my entire life ahead of me , adventures waiting ! I can ’ t settle down yet ! 
+Label 13	thinking	0.9512	 Let ’ s think this through . First of all , you cannot leave Amy at the altar . Not only will she be humiliated and kill you , but she is the woman that you love and the woman of your dreams ! Why would you want to end that or jeopardize it like this ? Second of all , you are just getting cold feet . You know deep down inside that you want to marry her , so cut the crap and do it ! 
+Label 38	programs	0.9043	 Basketball , football , table tennis . I will watch them on TV . 
+Label 42	toward	0.9165	 Here.Near this school . 
+Label 32	problem	0.9224	 The problem is you are too nervous . You want to have a strike so much , so you deliver the ball too hard . And when it comes to the I second roll , there's no pressure . That's why you could bowl all those spares . 
+Label 81	related	0.9219	 I have to study for an exam too . Why don't we study together . We can encourage each other . 
+Label 53	according	0.9189	 Yeah , I guess that's a typical example of ' when in Rome , do as the Romans do . ' 
+Label 99	elements	0.9170	 What's the weather like there today ? 
+Label 16	individuals	0.9458	 Jane , Susan , Pete and two colleagues of mine from work . 
+Label 94	barren	0.9478	 Not really . It's a dull one , and the production isn't satisfactory , either . 
+Label 68	unconscious	0.9585	 That is to say , love is blind . 
+Label 95	positively	0.9282	 Look on the bright side . At least you have a job . 
+Label 32	problem	0.9263	 That's a problem . He has sort of Dutch courage and that will egg him on in doing anything . 
+Label 16	individuals	0.9038	 It seems that folks like my father and your grandmother are determined to be on their own . 
+Label 40	cannot	0.9360	 You can't be serious . How dare you not tell me you are going to marry her ? 
+Label 17	personality	0.9141	 Simple . We had personality clashes and there were too many cultural differences . 
+Label 25	associative	0.9263	 Deal , Where is Gucci ? 
+Label 13	thinking	0.9097	 Perhaps they should give it a second thought . The residents are getting up in arms about it . 
+Label 31	individual	0.9463	 Me , what brought that on ? 
+Label 0	creative	0.9487	 a plant ? That's creative . I'm sure ever time she waters it she'll think of you . But there is a problem . Do you think it'll be able to go through the customs ? 
+Label 16	individuals	0.9175	 Tom and Bill Smith . They are both working now you know ? And they've bought a new house . 
+Label 95	positively	0.9263	 Great ! I'll sing , and you can dance in our band . 
+Label 42	toward	0.9258	 I ’ m just coming for that . 
+Label 16	individuals	0.9248	Kelly , the guys and I think you should run for senior class president . 
+Label 31	individual	0.9409	 Me ? Why me ? Why not you ? 
+Label 40	cannot	0.9243	 It is impossible . You cheated on me . 
+Label 31	individual	0.9165	 She's another antique . 
+Label 31	individual	0.9116	 That is Mary . I heard that she's just moved in with Lee . 
+Label 31	individual	0.9233	 About David , No , I didn ’ t hear anything . 
+Label 16	individuals	0.9355	 You know , about David and new boss . 
+Label 60	rated	0.9380	 It's a scam 7 that's based on a hierarchy , like a pyramid . The person at the top asks the people below him for money , and then tells them to go and ask other people for money while sending some of it back to him . 
+Label 31	individual	0.9146	Did you hear about Joe ? She hasn't eaten for days . 
+Label 81	related	0.9209	 Come on , Mary , it's your brother , Jack . 
+Label 32	problem	0.9043	 The problem with Joe is that she's too shy to tell him . 
+Label 95	positively	0.9346	 Better luck this time ! 
+Label 31	individual	0.9043	 No , I encourage her to go her own way , but she's now having a change of heart . 
+Label 70	self	0.9497	 Take care of yourself and don't forget to keep in touch . 
+Label 42	toward	0.9355	 We are on the high way . I'm the * * . 
+Label 32	problem	0.9067	 It ’ s a problem , because my boss is in that shop now . 
+Label 25	associative	0.9141	 How about coming with me to meet my American friends ? 
+Label 31	individual	0.9082	Happy Birthday ! This is for you , Kate ! 
+Label 42	toward	0.9131	 I have decided to go to Tasha . 
+Label 95	positively	0.9053	 Oh , cheer up . A girlfriend is not everything . 
+Label 85	research	0.9355	 That's marketing research ... But what about getting started once you have an idea ? 
+Label 6	because	0.9243	 That's because he's getting nervous . Anyway , this is the first time he's directed a play . 
+Label 31	individual	0.9204	Who is that guy ? 
+Label 95	positively	0.9248	Cheer ! 
+Label 95	positively	0.9282	 Cheer ! 
+Label 31	individual	0.9482	 It's on me . 
+Label 42	toward	0.9253	 I preferred the forward with pictures of him side-by-side with monkeys . 
+Label 91	factors	0.9102	 That all depends on how the visiting team shapes . 
+Label 95	positively	0.9131	 Good , because my friend Wendy is getting married and I ’ m organizing her party ! 
+Label 95	positively	0.9155	 Good luck ! 
+Label 36	correlated	0.9424	 That's coincidence , someone's just returned two tickets and I picked them . 
+Label 81	related	0.9009	 It's not much different from that heavy metal music you like so much . 
+Label 81	related	0.9390	 Our relationship . I mean my friend and I ... 
+Label 31	individual	0.9272	 The cause is another boy . 
+Label 40	cannot	0.9419	 Ho , no ! 
+Label 95	positively	0.9312	 Great ! I will apply for a credit card when I go to the bank later . 
+Label 53	according	0.9053	When in Rome , do as the Romans do , they say . 
+Label 95	positively	0.8999	 Yeah . We are lucky . Let's go buy the tickets first . We can have breakfast later . I am so hungry . 
+Label 42	toward	0.9165	 Here.Near this school . 
+Label 95	positively	0.9009	 Great ! I went hiking in the mountains on Saturday . 
+Label 95	positively	0.9404	 That is very encouraging news . I heard that the marketing department has done a three months research , they sent the feedback information to the research and development center by the end of every month . That is to say , the R & D center redesigned the product twice before it was launched into the market . 
+Label 31	individual	0.9155	 come on ! We're traveling on our own . It won't cost too much . 
+Label 6	because	0.8999	 Because I want to study English literature . But I think chemistry is better for getting a job . 
+Label 31	individual	0.9609	 About my boyfriend . 
+Label 53	according	0.9185	 They are just been in friendly , when you are in Roman , do as the Romans do , that means you need to adapt to your enviroment . 
+Label 40	cannot	0.9043	 It's a blackout . Now I can't see Seinfeld . 
+Label 15	solving	0.9229	 They are puzzles . It's a tradition to solve the puzzles on the lanterns during the Lantern Festival . 
+Label 49	hypothesis	0.9126	 really ? Perhaps I should listen to classical music often . I heard that listening to classical music is helpful in reducing stress . 
+Label 95	positively	0.9102	 It is so encouraging to hear this remark . The secret is to make plans . Write down your goals , short-term and long-term and make detail plans for a week or a month . Then just work hard . 
+Label 81	related	0.9072	 Match is important ; well , the way of tying is also important . 
+Label 14	scores	0.9204	 Wait a second . He shoots , he scores ! 
+Label 42	toward	0.9180	 Here comes Jordan , though . 
+Label 95	positively	0.9175	 Good luck here . 
+Label 60	rated	0.9370	 It was a real red letter day for you . 
+Label 95	positively	0.9224	 good luck ! 
+Label 19	processes	0.9453	 Like renewing my passport , going to the travel agency to buy my plane ticket and figuring out what to do with my apartment while I'm gone . 
+Label 99	elements	0.9487	 What about the weather in Boston ? 
+Label 25	associative	0.9277	 Sorry , it ’ s from the Godfather . It ’ s when the , when the movie producer realizes Tom Higgins had emissary of Vito Corleone , it ’ s just before the horse ’ s head ends up in the bed with all the bloody sheets , you know , wakes up , and AAAL ! Never mind . 
+Label 6	because	0.9106	 Look , the reason I came into your store is because I was spending the day with Annabell and matt . And I was buying them presents . I ’ m the type of guy who likes to buy his way into the hearts of children who are his relative . And there ’ s only one place to find a children ’ s book in the neighborhood . That will not always be the case . And it was yours . And it is a charming little bookstore . You probably sell what 350,000 worth of books in a year . 
+Label 95	positively	0.9355	 Yes ! Let ’ s go sailing and water skiing . That ’ s so exciting . 
+Label 95	positively	0.9033	 Great ! Work is really busy now , but it's fun . 
+Label 31	individual	0.9048	 I'm from New Orleans . What about you ? 
+Label 16	individuals	0.9189	What about you , Ernie ? How did you get into pop music ? 
+Label 13	thinking	0.9238	 Think , in some way it is an act of God , but in another way , it just is caused by us . 
+Label 31	individual	0.9014	John got a heart attack last night . 
+Label 70	self	0.9336	 Be careful of yourself . 
+Label 95	positively	0.9004	 great . My family came to visit me . 
+Label 70	self	0.9082	 What about you ? Your gym bag is gathering dust and you still have brand new running shoes that are yet to be jogged in . 
+Label 40	cannot	0.9116	 Oh , but I can't . It wasn't my fault . 
+Label 81	related	0.9058	 Talking about a barbecue , didn't you say you are organizing one next week ? 
+Label 75	subjects	0.9043	 I see . What about transport ? How does Shanghai compare to London ? 
+Label 31	individual	0.9102	Donna , you really shocked everyone at the party last night ! 
+Label 95	positively	0.9199	 Hey man ! Everything is just groovy baby ! 
+Label 95	positively	0.9102	 Right on , right on ! Well , Jim went to the rink with Sherry and he said it was dy-no-mite ! He was low on bread , but Sherry paid for everything . 
+Label 75	subjects	0.9233	 We're going to talk about Australia . Or your going to talk about Australia . So first of all how any people live in Australia ? 
+Label 95	positively	0.9189	 Yes , I'm very pleased . I've just got two tickets to see the Olympic opening ceremony . 
+Label 31	individual	0.9028	Bob , I'm really upset with you . 
+Label 95	positively	0.9326	 Nice ! Let ' s go ! 
+Label 75	subjects	0.9233	 You can ’ t compare apples and oranges . I believe that both topics are important and that we can ’ t ignore them , the mistreatment of animals can cause a great environmental imbalance . I believe that governments should prohibit activities like poaching . 
+Label 81	related	0.9219	 That is a big family . How old is your sister ? 
+Label 81	related	0.9336	 What about your brother ? 
+Label 56	verbal	0.9077	 Talk it easy , Anna . You really don't hate me . do you ? 
+Label 95	positively	0.9150	It's a fine day today , isn't it ? 
+Label 95	positively	0.9214	 The weatherman predicts a fine day today . 
+Label 95	positively	0.9414	 Em , it's delicious ! 
+Label 31	individual	0.9263	 Correct ! What about you , Fred ? 
+Label 95	positively	0.9302	 Good , I ' Ve get a two-pin plug . 
+Label 75	subjects	0.9072	 What about restaurants and entertainment ? 
+Label 11	found	0.9219	 I got you . Next time . I'll preface a toast with a statement like ' I can't drink any more ' and then drink anyway . 
+Label 95	positively	0.9287	 Good . If you happen to see Jim and Bob on the way see if they would like a game of singsong . 
+Label 95	positively	0.9438	 Cheer up ! Don't let me down . We all make mistakes , and that is life . 
+Label 81	related	0.9082	 I came to see my uncle . He lives in the next block . 
+Label 95	positively	0.9453	 Oh , really ? That is great news . What does he look like ? 
+Label 95	positively	0.9165	 Good for you , keep it up . 
+Label 6	because	0.9062	 Because it's off-season , we got a really good package deal to Paris , so we went there . 
+Label 16	individuals	0.9487	Dan , Dan , dude . You have to come over to my house right now ! 
+Label 95	positively	0.9033	 Great ! Work is really busy now , but it's fun . 
+Label 81	related	0.9341	 That reminds me I should buy some new socks to go hiking this weekend . 
+Label 75	subjects	0.9272	 No . The Hills ? Who filed for divorce first ? 
+Label 31	individual	0.9048	 I guess it Is Mrs Hill . She sued for divorce on the grounds of her husband's misconduct with his secretary . 
+Label 31	individual	0.9404	 About what time can I go to my own class ? 
+Label 47	selective	0.9351	 I only allow my child to watch up to an hour a day . I don ’ t think that tv is bad for kids . I think that kids should be active and not become couch potatoes . 
+Label 31	individual	0.9141	 Leave him alone , he ’ ll soon stop . 
+Label 95	positively	0.9023	 Oh . It ’ s a nice day indeed 
+Label 13	thinking	0.9287	 I ’ d say , think twice about it . Well , you are not going to quit school , are you ? 
+Label 31	individual	0.9028	 Which guy ? 
+Label 92	these	0.9106	 Look at the dishes ! I have told you three times to put away these dishes . But now ... 
+Label 60	rated	0.9424	 Just so-so . Where did you get it ? 
+Label 95	positively	0.9429	 You flatter me . 
+Label 40	cannot	0.9136	 Sorry , I can't go today . 
+Label 40	cannot	0.9082	 I can't . I have to meet someone . 
+Label 42	toward	0.9028	 To New York . 
+Label 75	subjects	0.9146	 We need to say something about the geography and climate of china . Is there any way to divide the country into sections ? 
+Label 31	individual	0.9023	 It's George . 
+Label 85	research	0.9443	 I think you should reconsider and do some more research about tattoos . Also , find out where the nearest tattoo parlor is and make sure they used sterilized needles , and that the place is hygienic . 
+Label 31	individual	0.9053	 well , it could be me too . But I am not too worried . This place is suffocating me with this boss being such a hard-ass and colleagues who barely know how to get dressed in the morning . It would almost b 
+Label 81	related	0.9258	 What about your step-brother ’ s mother ? Does he keep in touch with her ? 
+Label 95	positively	0.9248	 Cheer up ! What I meant was that you can find it sometime during a week . There is no need to write a new one . Oh , what's this ? Is this your dissertation ? 
+Label 81	related	0.9233	How's your brother doing ? 
+Label 49	hypothesis	0.9043	 Really ? How do you know it was Santa ? 
+Label 95	positively	0.9224	 good luck ! 
+Label 32	problem	0.9175	Uh-oh . I'm in trouble . 
+Label 97	perceptual	0.9448	 Whatever ... Smell ! Perfume samples ! 
+Label 81	related	0.9180	 Your cousin Fay is fifteen . Rosemary is older than Fay . She's seventeen . 
+Label 81	related	0.9434	 How about your family ? 
+Label 40	cannot	0.9209	 No , I can't . I'm sorry . I have to help my mother . We're going to move tomorrow . 
+Label 6	because	0.9102	 Because General , his dog , got sick . 
+Label 95	positively	0.9165	 Good for you , keep it up . 
+Label 70	self	0.9253	 Well , I guess no one can help me but myself . For the moment , I just need someone to talk to so that I can relieve my stress . 
+Label 95	positively	0.9067	 How nice . I hope the weather will stay like this for the whole week . I'm going on the canoe trip this weekend . 
+Label 49	hypothesis	0.9043	 is that why my knees have felt sore after every time I've ridden my bike ? 
+Label 11	found	0.9268	 Now I see . You charge next to nothing for an international ticket , but when it comes to charging for any other small thing , you charge an arm and a leg ! So tell me , miss , how much will I have to pay for all of this . 
+Label 31	individual	0.9443	 I mean her personality . 
+Label 99	elements	0.9326	 That's one . Another is the lack of personal property . Everything you have , from toys to clothes , is used by your brothers and sisters . Especially clothes . Three quarters of my wardrobe are hand-me-downs . 
+Label 53	according	0.9434	 Actually , it suggest English . The main argument is that English is already being studied as a second language in most countries-china , India , mexico , Nigeria , Pakistan , and japan . So beginning again with a language like Esperanto would be wasteful . The second argument is that English is used in modern technology far more that any other language . Most emails are sent in English and the vast majority of website use English . 
+Label 99	elements	0.9487	 What about the weather in Boston ? 
+Label 60	rated	0.9150	 Pretty good . Say , where are you living this semester ? 
+Label 60	rated	0.9507	 Around 200 RIB for a truck . 
+Label 31	individual	0.9038	I just meant that she's got different taste . 
+Label 70	self	0.9082	 What about you ? Your gym bag is gathering dust and you still have brand new running shoes that are yet to be jogged in . 
+Label 95	positively	0.9258	 Great . We can go to the swimming pool in the gymnasium after that . 
+Label 42	toward	0.9219	 There's a typhoon coming . 
+Label 6	because	0.9004	 Because it was her husband who beat her . 
+Label 31	individual	0.9199	 Certainly . Let me see . Oh , it's on that self . 
+Label 31	individual	0.9106	 Yeah . He has no one to count on . 
+Label 13	thinking	0.8999	 I ’ m thinking of making an album , you know . 
+Label 6	because	0.9458	 It is because your children have grown up , and you haven ’ t lived with a child for a long time . 
+Label 95	positively	0.9209	 Great ! I'm having a great time . 
+Label 70	self	0.9082	 That ’ s why we should learn to protect ourselves . Otherwise , the game is not worth the candle . 
+Label 95	positively	0.9351	 Wow , the cheer-section is coming . The music is so fantastic . 
+Label 31	individual	0.9136	 I am single , I have no real of , only an E-gf , that is you . 
+Label 17	personality	0.9043	 it that why you wear second-hand cloths as well ? Because they've got character ? 
+Label 75	subjects	0.9102	 You mean getting into university actually depends on your passing your A level subjects ? 
+Label 81	related	0.9072	 Don't worry . Family comes first . Come on , let's go . 
+Label 60	rated	0.9209	 He hits below the belt . 
+Label 6	because	0.9116	 That's the reason I want to finish my B . A . in four years.Because I know I will be in school a long time . I want to start the M . A . and Ph . D . program as soon as possible . 
+Label 31	individual	0.9038	 you'll have to try for yourself some day . 
+Label 31	individual	0.9126	 Me ? Oh , no . In fact , I took up dancing quite recently . 
+Label 95	positively	0.9248	 Cheer up ! What I meant was that you can find it sometime during a week . There is no need to write a new one . Oh , what's this ? Is this your dissertation ? 
+Label 95	positively	0.9258	 Good . See you ! 
+Label 16	individuals	0.9053	 Jack and Stephanie . 
+Label 14	scores	0.8999	 Thank you for caring enough to check on your scores ; keep studying ! 
+Label 75	subjects	0.9106	 You mean getting into university actually depends on your passing your A level subjects ? 
+Label 42	toward	0.9014	 It's the end of the world for me . 
+Label 91	factors	0.9297	 That depends . What does she look like ? 
+Label 17	personality	0.9072	 What's her personality like ? 
+Label 42	toward	0.9380	 She is expecting . 
+Label 11	found	0.9028	 I know the feeling . I ’ m calling to let you know about this new Italian place I found . It ’ s right around the corner . 
+Label 95	positively	0.9453	 Oh , really ? That is great news . What does he look like ? 
+Label 95	positively	0.9136	Bonjour ! 
+Label 31	individual	0.9150	 What ’ s wrong with you , Ted ? 
+Label 25	associative	0.9009	 I'm moblogging ! 
+Label 38	programs	0.9058	Let's program your courses , since you have had English literature , you should take American literature and American prose and fiction . You transcript indicate that your english background is strong , so I don't think you have any problem with it . 
+Label 95	positively	0.9199	 Hey man ! Everything is just groovy baby ! 
+Label 95	positively	0.9102	 Right on , right on ! Well , Jim went to the rink with Sherry and he said it was dy-no-mite ! He was low on bread , but Sherry paid for everything . 
+Label 99	elements	0.9380	 Well , Jim . It is a combination of how much you eat , the type of food you eat , and when you eat your meals . 
+Label 72	variables	0.9478	 What about my SIEMENS ? 
+Label 70	self	0.9111	 They're incredibly selfish . They ' re always up until the wee hours of the night playing their music so loudly that I have to wear earplugs in order to fall asleep ! 
+Label 81	related	0.9209	 What about me ? I ’ m your friend . 
+Label 95	positively	0.9155	 People who play ultimate Frisbee have a positive attitude ; maybe you should join the ultimate Frisbee club . 
+Label 25	associative	0.9097	 Coming as ? 
+Label 32	problem	0.9263	 That's a problem . He has sort of Dutch courage and that will egg him on in doing anything . 
+Label 95	positively	0.9443	 That's an understatement . I'm on cloud nine . I couldn't be any happier . 
+Label 31	individual	0.9170	 She's another antique . 
+Label 81	related	0.9019	 Mysteries of the Pyramids . Didn't we watch this program last week ? 
+Label 31	individual	0.9277	 I am worrying about my husband . 
+Label 81	related	0.9287	 My cousin Monk . Have you seen her lately ? 
+Label 31	individual	0.9282	 Oh , she is . 
+Label 54	measures	0.9282	 Don't be so nervous ! Relax ! First , sleep early at night . Second , study two hours a day after school . Third , don't tire yourself out , but don't be lazy . Will that help ? 
+Label 40	cannot	0.9194	 No way . I'd rather go to another movie house . 
+Label 60	rated	0.9116	So , this is the worst story I ’ Ve heard this month . You have my real sympathy , Tim . 
+Label 95	positively	0.9248	 Cheer up ! Let bygones be bygones . 
+Label 70	self	0.9258	 Look after yourself . Bye . 
+Label 31	individual	0.9419	 Mark is one of them . He has trouble with a girl who turned out to be a dead beat . 
+Label 81	related	0.9014	 It's going to rain . 
+Label 6	because	0.9248	 I like peach blossom , because I like spring . 
+Label 95	positively	0.9102	 Great ! I have a coupon for free popcorn at that theater ! 
+Label 31	individual	0.9238	 Nothing . He's just got a chip on the shoulder . 
+Label 40	cannot	0.9072	 I am afraid I can't I am going to be out all day . 
+Label 13	thinking	0.9121	 Let ’ s think realistically about what might happen . How much money do you have in your savings ? 
+Label 7	divergent	0.9097	 He's very nice , actually , but rather eccentric . 
+Label 31	individual	0.9189	 Well , apparently , he's been having an affair with his secretary . 
+Label 16	individuals	0.9502	 It is about sports for white-collar workers , people like you and me . 
+Label 53	according	0.9248	 the Taj it is then . 
+Label 32	problem	0.9204	 See your problem ? You get so restless when it ’ s time to calm down . 
+Label 5	openness	0.9668	 Be a little more open-minded , Stu ! Don't believe everything you read in your history books ! 
+Label 92	these	0.9053	These things are always oooo boring . Heard any gossip ? Anybody making the big bucks ? 
+Label 81	related	0.9053	 That's no news . Those two were high school sweethearts anyway . 
+Label 40	cannot	0.9121	 What ! How am I supposed to get to school or go shopping ? This is not happening ! 
+Label 95	positively	0.9316	 Great . I will prepare some clothes and food for the climbing . 
+Label 31	individual	0.9097	Hey , Ted . What are you up to this Friday ? 
+Label 16	individuals	0.9053	 Fred and David , my college class mates and Rachel . 
+Label 72	variables	0.9023	 Children needing special instruction . Children whose parents can afford to send them to private schools , and children whose parents want them to receive a religious education . 
+Label 60	rated	0.9189	 Fine , honey . Rome couldn't be built with in one day . 
+Label 32	problem	0.9028	 I know , that's the problem . He can't find any customers . It's a pity , really , because his products are very good . Oh , that reminds me . Did I tell you about my new laptop ? 
+Label 31	individual	0.9487	 That black sheep . It serves him right . 
+Label 40	cannot	0.9097	 You can't peek ! This is a surprise . 
+Label 81	related	0.9336	 That movie's just a lot of noise , same as Simon . 
+Label 31	individual	0.9199	 I had to go by myself , he couldn't make it . 
+Label 81	related	0.9019	Have you run into your cousin Jimmy lately ? 
+Label 81	related	0.9111	 Chill out . It's just Kenny from South Park . 
+Label 68	unconscious	0.9199	 South Park is a popular cartoon . You're so out of it , Jen 
+Label 54	measures	0.9072	What's all the security check about , Jimmy ? Does it mean the bar may be a dangerous place ? 
+Label 72	variables	0.9033	 Do you like olives ? Or would you prefer crisps ? 
+Label 72	variables	0.9536	 I guess the first thing is the price , the second is the size , and of course the color will play a role too . But I have to be honest . It is our today ’ s responsibility to take care about our environment . Therefore , I will also pay attention to the fuel consumption of the car . You know , the rise in gasoline prices is huge . So I would rather to consider a smaller car with smaller engine . For which I can also save some tax . Last of the list , I also consider the safety . 
+Label 70	self	0.9224	 Well , take care of yourself . 
+Label 31	individual	0.9014	 Steve ! Haven't seen you in ages ! How long's it been ? 
+Label 55	tests	0.9136	 Those drug tests don ’ t mean anything ! He probably took some other drugs to mask the steroids . 
+Label 16	individuals	0.9409	 It's Ellie and her friends . 
+Label 95	positively	0.9297	 Good . I think I'll get too nervous to look at myself in the mirror ! 
+Label 13	thinking	0.9351	 What was she thinking ? Did you confront her about it when you saw her ? 
+Label 81	related	0.9048	 Oh , French dressing . 
+Label 95	positively	0.9233	Well , what a nice day ! 
+Label 6	because	0.9106	 Because it rained last night . 
+Label 11	found	0.9082	 You got it . Oh , by the way , it may be really cool in the evening around this time of the year . Don't forget to put on more clothes , or you might catch a cold . 
+Label 95	positively	0.8999	 Great ! It's always better to do things with a friend . 
+Label 95	positively	0.9146	 Good job ! This is going to be a great night ! 
+Label 81	related	0.9048	 Hmm . I have the same problem . When I leave work , it ’ s always rush hour.So the buses are always crowded . 
+Label 40	cannot	0.9458	 You just can ’ t imagine ! I waited for the first bus but it was too full , so I waited for the second , and it was still very crowded . Then I decided not to wait for the next one , and got on the second bus . It was so full that I had to stand on one foot ! No kidding ! 
+Label 13	thinking	0.9194	 What do you think ? I ’ m a good boy . 
+Label 31	individual	0.9058	 Dude , you're a stalker man . Just ask her on a date . 
+Label 34	artistic	0.9175	 Japanese art ? Mm , Ikebana ! Tea Ceremony ! 
+Label 31	individual	0.9067	 You did it yourself ? Wow , you are good ! 
+Label 42	toward	0.9048	 Look out , honey . Let's come to the shoal waters . Follow me ! 
+Label 31	individual	0.9351	 Leave me alone ! 
+Label 16	individuals	0.9219	 This is Alex . Remember ? This is Sean . 
+Label 81	related	0.9072	 He's my brother . 
+Label 95	positively	0.9033	 Great , the price for that permit is thirty dollars ; cash , check , or credit card ? 
+Label 42	toward	0.9448	 To the beach 
+Label 95	positively	0.9141	 Thanks . I feel like celebrating . Let's go have a beer . It's on me . 
+Label 31	individual	0.9004	I don't know how to deal with Jack . He is indeed a trouble maker . He has loused up my business several times . 
+Label 53	according	0.9229	 When in Rome , do as the Romans do . 
+Label 81	related	0.9214	 They're my family 
+Label 40	cannot	0.9136	 I'm sorry , Karen , but I can't . I have to work late this Thursday . 
+Label 31	individual	0.9399	 Elvin Dixon . Who are you ? 
+Label 70	self	0.9214	I wish you would not be so selfish . 
+Label 60	rated	0.9106	 Really ? That's good . Is there any supermarket in our neighborhood ? 
+Label 95	positively	0.9150	 Excellent , come over at ten o'clock and we will start at the shopping center , the one around the corner from my house . They have just the shop we need . 
+Label 75	subjects	0.9346	 Yeah , that ’ s perfect . What about the subjects for your minor ? 
+Label 68	unconscious	0.9688	 She is still in a coma . 
+Label 40	cannot	0.9209	 I can ’ t go through with this ! I just can ’ t ! I ’ m not ready for marriage ! What was I thinking ? I ’ m only thirty five years old ! I ’ Ve got my entire life ahead of me , adventures waiting ! I can ’ t settle down yet ! 
+Label 13	thinking	0.9512	 Let ’ s think this through . First of all , you cannot leave Amy at the altar . Not only will she be humiliated and kill you , but she is the woman that you love and the woman of your dreams ! Why would you want to end that or jeopardize it like this ? Second of all , you are just getting cold feet . You know deep down inside that you want to marry her , so cut the crap and do it ! 
+Label 31	individual	0.9565	 Not for the others , but for me . I was in the library going over my lessons when suddenly one of my roommates came in . He told me that I was wanted on the phone in my dormitory , and that person would call me again several minutes later . 
+Label 95	positively	0.9121	 Good ! They have expanded and are doing better than they were last quarter . It's nice to see some improvement for a change . 
+Label 32	problem	0.9126	 It reflects some of our difficulties in this ever-changing world . 
+Label 42	toward	0.9048	I don't know . I think you might be over the hill . 
+Label 75	subjects	0.9072	 What about restaurants and entertainment ? 
+Label 99	elements	0.9360	 Oh , books , and music , how much we both love New York . Harmless , harmless , meaningless . Bouquets of sharpened pencils . Oh . 
+Label 25	associative	0.9155	 Come on . Two is company . 
+Label 40	cannot	0.9082	 I can't . I have to meet someone . 
+Label 95	positively	0.9033	 How nice ! Have fun ! 
+Label 47	selective	0.9297	 Make your selection and hope for the best . Vending machines aren't all that reliable . 
+Label 70	self	0.9009	 Maybe you are right . Please take care of yourself when you make money . Anyway health is the most important thing . 
+Label 95	positively	0.9043	 With the greatest pleasure ! Where is the concert held this evening ? 
+Label 56	verbal	0.9199	 Just word of mouth . 
+Label 13	thinking	0.9043	 Let me think . Oh , awful ! I still have not finished the chart which was assigned by Mr . Wharton on Friday . So that task will make my busy . 
+Label 55	tests	0.9380	 You know . Tests like how jealous are you ? and are you a fashion victim ? 
+Label 81	related	0.9189	 It ’ s basically about a father who tried to marry off one of his five girls . 
+Label 53	according	0.9053	When in Rome , do as the Romans do , they say . 
+Label 13	thinking	0.9331	 okay , let me think . What about a party-and-movie night ? We can rearrange our reference room , invite a band to play some music , order in some food and watch a movie later . 
+Label 14	scores	0.9697	I'd like to talk to you about my grades . 
+Label 14	scores	0.9526	 Well , your scores show that you could do a little better . What do you think you could improve on ? 
+Label 31	individual	0.9419	 Mark is one of them . He has trouble with a girl who turned out to be a dead beat . 
+Label 31	individual	0.9028	 It's us . 
+Label 60	rated	0.9062	 No , she ’ s average . 
+Label 95	positively	0.9297	 Ta da ! Let's go to the Ritz ! 
+Label 81	related	0.9048	 My name is Phillip Hammer . I think we are related . Who is your dad ? 
+Label 81	related	0.9424	 That's my uncle . You're my cousin ! Hi cousin ! 
+Label 6	because	0.9092	 The reason is that he once was bitten by a dog . 
+Label 81	related	0.9170	 Of course I miss Grandma , too . I bet she ’ s gonna teach me how to play Mahjong ! Hey , Dad , are you going to buy me firecrackers this year ? We ’ re going to have the best fireworks ! I ’ m really looking forward to lighting them ! 
+Label 84	attributes	0.9258	 Attractive scenery , pleasant climate , these make it charming . 
+Label 87	artefacts	0.9380	 No hurry ! I'II tell you now , The collections include ancient cases and caskets , tea sets , abacuses , precious sea shells and conches , drama costumes , agates , ancient coins , fans , mini-musical instruments , root-carving , rare stones and rocks , model ships , model cars ... 
+Label 13	thinking	0.9434	 Again , you need to think carefully . If you don't trust others online , have nothing to do with them . 
+Label 55	tests	0.9263	 The trust game was your favorite , huh ? My favorite part was the personality tests . I think to know more about what kind of personality type you are will tell you a lot about how you can fit into a team.Also , when you know the personality strengths of your colleagues , it helps you understand them better . 
+Label 95	positively	0.9385	 Great , let ’ s go ! 
+Label 42	toward	0.8999	 I'm going to Britain . 
+Label 31	individual	0.9180	Happy birthday ! This is for you , Kate . 
+Label 95	positively	0.9126	 Excellent . You can borrow my Janet Jackson's CD . It's her new one . 
+Label 42	toward	0.9097	 Out of the frying pan and into the fire . 
+Label 31	individual	0.9028	 It's us . 
+Label 31	individual	0.9468	Hey , you , pick up that piece of garbage ! 
+Label 6	because	0.9321	 Because this is a public place , and I want to spend my time here without having to look at your garbage . 
+Label 16	individuals	0.9058	 To each their own ! 
+Label 62	complexity	0.9336	 It's too complicated . I'll just stick to the plain clothes . 
+Label 31	individual	0.9004	 She suffers from cancer . 
+Label 80	ideas	0.9019	 We were trying to come up with ideas to streamline the office's workflow to make it more efficient . 
+Label 95	positively	0.9526	 Cheer up ! It's not the end of the world . 
+Label 95	positively	0.9053	 Oh , cheer up . A girlfriend is not everything . 
+Label 95	positively	0.9229	 Better luck this time . 
+Label 95	positively	0.9043	I have some good news for you . We've decided we'd like to send you to Shanghai on a business trip this weekend . 
+Label 95	positively	0.9116	 Good . Let's go now . 
+Label 95	positively	0.9180	 Good ! I am really thirsty . You know it really is hot outside ! 
+Label 81	related	0.9019	Don't you have too much to do with him . 
+Label 81	related	0.9111	Are these your triplets ? They ’ re beautiful ! I ’ Ve seen other babies who were nothing but skin and bones at their age . You know , they ’ re absolutely identical of you and John ! Are you planning on having any more ? 
+Label 95	positively	0.9106	 Great ! I asked Grace to bring cups and serviettes as she is also bringing two big coolers for the beers . 
+Label 95	positively	0.9150	It's a fine day today , isn't it ? 
+Label 95	positively	0.9214	 The weatherman predicts a fine day today . 
+Label 95	positively	0.9048	 Good luck . 
+Label 7	divergent	0.9053	 She said it was because we had very different ideas about life . 
+Label 95	positively	0.9482	 Come on , buddy , cheer up . Why not do some sports with me ? Violent exercise might help to shake you out of your disappointment in love . 
+Label 52	validity	0.9126	 License and registration please . Have you been drinking tonight , sir ? 
+Label 81	related	0.9150	I hear you're going to Tainan to visit your uncle . 
+Label 95	positively	0.9116	 Great . I hung out with Jo all day shopping , and the went out for dinner together . 
+Label 42	toward	0.9116	 Let's go . The time is coming . 
+Label 31	individual	0.9253	 It ’ me . Susan Taylor 
+Label 54	measures	0.9194	 they need to eat healthy foods , but they also have to increase the amount of exercise they do every day . They don't have to cut out fattening foods altogether , though . 
+Label 42	toward	0.9263	I'm going to America . 
+Label 95	positively	0.9512	It seems a glorious day today . 
+Label 95	positively	0.9375	 Great , the lamb stew tastes incredible . 
+Label 81	related	0.9229	 To a historic coffeehouse . It's got a little Mafia story to it . 
+Label 13	thinking	0.9351	 What was she thinking ? Did you confront her about it when you saw her ? 
+Label 94	barren	0.9146	 Nothing . The teacher said the only thing left was to get back all the disposable cups later . 
+Label 40	cannot	0.9263	I don't know what to say . This can't be happening . Here's the obituary . 
+Label 47	selective	0.9253	 You fiend . It's about the flavor , not the fix . Why don't you just crush some caffeine pills and start doing lines ? 
+Label 81	related	0.9102	 Just like you celebrate Christmas , we celebrate our lunar New Year's Day , the Spring Festival . It is a time for the family members and relatives to have a get-together . 
+Label 31	individual	0.9204	 We'd better leave him alone . 
+Label 31	individual	0.9243	 Oh , dear ! It's an encroachment on individual rights ! 
+Label 81	related	0.9194	 It ’ s basically about a father who tried to marry off one of his five girls . 
+Label 60	rated	0.9009	 It's pretty nice , but I'm going to start looking for an apartment soon . Hotel living is not for me . 
+Label 60	rated	0.9292	 It's 8 sharp by my watch . 
+Label 81	related	0.9355	 She ’ s my friend ’ s ten-year-old niece . I guess there won ’ t be another wedding in this family for a long time . 
+Label 11	found	0.9238	 I got Jacob . Any ideas what to get him ? 
+Label 95	positively	0.9033	 Great ! Work is really busy now , but it's fun . 
+Label 95	positively	0.9438	 Cheer up , I hope you'll feel better soon . 
+Label 31	individual	0.9185	 who is he ? 
+Label 95	positively	0.9351	 Oh , really . That is great news . What does he look like ? 
+Label 95	positively	0.9048	 Oh , cheer up . A girlfriend is not everything . 
+Label 31	individual	0.9204	 Who ? Me ? Could't give up smoking ? Nonsense ! Of course I could ! I know I could ! 
+Label 31	individual	0.9028	 Jason , where have you been hiding lately ? You know it's been a long time since your last call . Have you been good ? 
+Label 95	positively	0.9165	 Good . Tonight 8 o'clock . 
+Label 81	related	0.9180	 That reminds me . My wedding anniversary is tomorrow . 
+Label 13	thinking	0.9219	 That is just wishful thinking . The cost of higher education has increased in recent years , faster than the cost of living . So she wants Jane's brother to go on studying and earn his doctorate by means of it . 
+Label 75	subjects	0.9194	 Then what about you ? How are you getting on with your boyfriend ? 
+Label 95	positively	0.9038	 Yes , great . I am happy you are coming . 
+Label 14	scores	0.9126	 Yes , I agree ; let's move on to the calculating of the score . Would that be OK ? 
+Label 70	self	0.9336	 Get a hold of yourself , Bruce . You'll get over her eventually . 
+Label 16	individuals	0.9224	 Is this change going to be beneficial for theindividuals like you and me . 
+Label 16	individuals	0.9399	 Mo Mu , Thong Lichen , Meng Gang and Ran Nv . They were well respected . 
+Label 14	scores	0.9126	 I'm not sure because I really need to learn something , but I also worry about grades . 
+Label 40	cannot	0.9473	 That's impossible ! I'm talking about Mister Taylor Smith . 
+Label 40	cannot	0.9155	 Impossible ! Well , I'm not giving up yet . It's not over till the fat lady sings ! 
+Label 31	individual	0.9458	 It's my pleasure . Actually , it's really hard to say as individual tastes are different . As for myself , I'd like to recommend gin and tonic . 
+Label 81	related	0.9067	 I am going to the beech . How about coming with me ? 
+Label 95	positively	0.9160	 Great ! I love swimming . Besides , I need a tan for Hill ’ s party .. 
+Label 31	individual	0.9609	 My character is in question . Someone was robbed at work and unless I have an alibi , I'm a suspect . 
+Label 81	related	0.9048	 Oh , it's a disco . Let's dance . 
+Label 60	rated	0.9321	 Not so bad , but Kevin does have problems with his wife . 
+Label 6	because	0.9150	 Because I want to tell you about the time that I saw a ghost . 
+Label 95	positively	0.9233	 Great , thank you . 
+Label 0	creative	0.9131	 Well , I suppose people have different tastes on music . Moreover , here stuff is really strong and creative . It takes time for people to accept new things . 
+Label 6	because	0.9116	 Because her children have been the age when they seem to quarrel all day long . 
+Label 56	verbal	0.9062	 They are announcing your flight . You'd better board the plane . 
+Label 72	variables	0.9131	 What will the weather be like tomorrow ? 
+Label 31	individual	0.9326	 It ’ s about Bob Dylan . 
+Label 31	individual	0.9385	 Who is he ? 
+Label 81	related	0.9009	 Company ? I heard about you from Linda . She said you were an octopus ! 
+Label 31	individual	0.9404	 Poor , fellow , what's the date today , buddy ? 
+Label 31	individual	0.9048	Hey , Joe ! Where have you been these past few days ? 
+Label 6	because	0.9194	 The reason I'm calling is because Ms . Collins will not be able to call you back until next week . 
+Label 60	rated	0.9438	 Predictable ! How ! Come on Dick , It ’ s a G-rated movie ! It ’ s for the kids ! It ’ s not a thriller ! 
+Label 5	openness	0.9263	 Open your heart Dick . Don ’ t shut us out . 
+Label 46	extrinsic	0.9297	 Who cares ? It's just online . It's not real . Do you want to join me tonight ? 
+Label 92	these	0.9292	 What about birth control pills ? Don't they work on Italians ? 
+Label 40	cannot	0.9092	 Sorry , I can ’ t.My mother doesn ’ t want me to be late . I really have to go . 
+Label 95	positively	0.9092	 Good . Where shall we meet ? 
+Label 31	individual	0.9565	What about you , Emily ? Have you dated anyone recently ? 
+Label 31	individual	0.9058	 I don't want to do that to you , Karen . 
+Label 6	because	0.9062	 Because whoever let the cat out of the bag was breaking client confidentiality . 
+Label 60	rated	0.9409	 You are right about that . It's quiet and very convenient . You can get to the bus and the subway stations within ten minutes ' walk . There's a grocery store , a book store , a gym , and many restaurants along the street . 
+Label 31	individual	0.9009	 Take care of yourself . 
+Label 31	individual	0.9014	John got a heart attack last night . 
+Label 0	creative	0.9458	 A plant ? That's creative . I'm sure ever time she waters it she'll think of you . But there is a problem . Do you think it'll be able to get through the customs ? 
+Label 92	these	0.9028	 These are my roses . The roses have been in flower for a week . 
+Label 31	individual	0.9009	 Easy . It ’ s on me . 
+Label 31	individual	0.9263	 You'll have to try for yourself some day . 
+Label 60	rated	0.9316	 Not so bad , but Kevin does have problems with his wife . 
+Label 56	verbal	0.9214	 Watch your language or you'll be spending the weekend in your room . 
+Label 31	individual	0.9263	 Tom , that lucky guy . 
+Label 31	individual	0.9038	 Nobody is OK , but you ! 
+Label 81	related	0.9097	 Oh , me too ! All the family getting together ... 
+Label 6	because	0.9253	 Because I was under a terrible strain . The doctor saidthey weren't very strong . Anyway , I used to feel awful the next morning . 
+Label 42	toward	0.9219	 I'm almost done . 
+Label 62	complexity	0.9292	 I think it's a very complicated issue . A part of the difficulties women have advancing in the work force are due to few opportunities and many male managers . Don't underestimate the good ole ' boy system . Men have power , so it's easier for them to stay in power . 
+Label 14	scores	0.9170	Professor , I'm concerned about my grades . Do you have a minute ? 
+Label 14	scores	0.9253	 Let's pull out your scores so far . Do you think you are doing OK ? 
+Label 85	research	0.9004	 Not yet . I'm not finished with my research yet . 
+Label 31	individual	0.9126	 No , I'll do it myself . 
+Label 81	related	0.9028	 Nothing special . I had a get-together with some schoolmates at the high school , visited the Internet and read a couple of books which I had been longing for . How about yours ? 
+Label 81	related	0.9053	 I know your sister . She's very nice . 
+Label 6	because	0.9150	 Because I want to tell you about the time that I saw a ghost . 
+Label 95	positively	0.9463	 Great ! This calls for a celebration . 
+Label 14	scores	0.9141	Did you get your grades yet ? 
+Label 60	rated	0.9287	 I was sitting happy with a 3.4 . 
+Label 42	toward	0.9092	 I'm almost finished . 
+Label 97	perceptual	0.9448	 Whatever ... Smell ! Perfume samples ! 
+Label 16	individuals	0.9077	 What happened ? We're all expecting you , Hans , Dick , Archie ... 
+Label 31	individual	0.9165	 She's another antique . 
+Label 31	individual	0.9155	Is that you , Dave ? Oh , my gosh ! The backstabber who left us to work for the evil WebTracker ! 
+Label 31	individual	0.9297	 Open the door . It's me . I can't find the key . 
+Label 81	related	0.9282	Tom's dating your sister . 
+Label 60	rated	0.9131	 Not too bad . It is seemingly too hard for me to find a place for our date . 
+Label 7	divergent	0.9321	 She said she wanted to go Dutch in dating . 
+Label 40	cannot	0.9028	 Actually , it is impossible because the mountain is covered with snow all year around . And is has heavy fog for most of the time . 
+Label 95	positively	0.9414	 Come on . Cheer up ! 
+Label 31	individual	0.9121	 Yes , I'm dating someone . Her name is Amanda . 
+Label 70	self	0.9385	 Come on . Don't be so hard on yourself . Enjoy your life . 
+Label 81	related	0.9141	 Well , I live in the southern hemisphere , so our summertime is your wintertime , and vice versa . We get some rain in every season , but most is in winter . In winter , it sometimes gets cold , but our winters are usually quite mild . Summers are warm , but not hot . Spring and autumn are both very short-sometimes just a few weeks each . The weather is very changeable then-just like spring in your city . 
+Label 40	cannot	0.9116	 Oh , but I can't . It wasn't my fault . 
+Label 31	individual	0.9009	 Galileo is one of them . 
+Label 31	individual	0.9609	 About my boyfriend . 
+Label 81	related	0.9043	 What about your friend Zoe 
+Label 31	individual	0.9351	 I guess so . What about you , Simon ? 
+Label 42	toward	0.9170	Let ’ s cross here . 
+Label 31	individual	0.8999	 But it's absolutely our own business to have a child or not . 
+Label 95	positively	0.9102	It looks like it's going to be sunny . 
+Label 92	these	0.9414	Those are today ’ s top stories . Now let ’ s go to John for the weather . John , what does the forecast look like for our weekend travelers ? 
+Label 31	individual	0.9644	 Sorry . This is a one-man job . I've got the grill just how I like it , and I've made up my own special sauce . 
+Label 31	individual	0.9185	 After all , he is a baby . 
+Label 31	individual	0.9214	 Yeah . Anyway he is driving me mad . 
+Label 42	toward	0.9160	 Yeah , I'd better head for home . 
+Label 99	elements	0.9316	 Chips , finger foods , desserts , baked beans . Where're the pork and beef strips ? 
+Label 81	related	0.9292	 Ah ... hence the buns and condiments we bought . And this is Holly's potato salad . 
+Label 95	positively	0.9023	 Sure ! Let ’ s have some nachos and mozzarella sticks . 
+Label 95	positively	0.9038	 Yes , great . I am happy you are coming . 
+Label 53	according	0.9053	When in Rome , do as the Romans do , they say . 
+Label 5	openness	0.9390	 Come on , Liz . Be open-minded ! Look at my eyes , they are puffy . And my eye bags , they are dark and loose and full of lines and circles . I really hope surgery can wipe out the tired feelings . 
+Label 60	rated	0.9277	 I'll say . The regular eighteen is just about all I can handle myself . 
+Label 31	individual	0.9180	 Carrie , are you ok ? You seem a bit down . 
+Label 31	individual	0.9009	 He has a fever . 
+Label 95	positively	0.9268	 Great . Let's go . 
+Label 95	positively	0.9419	 I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling ! 
+Label 89	predictions	0.9146	 It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ? 
+Label 81	related	0.9004	 I had to visit all my relatives . 
+Label 70	self	0.9292	 Take good care of yourself , Mary . 
+Label 70	self	0.9009	 That's just your personal prejudice . Do you know who was the director of the movie Titanic ? 
+Label 16	individuals	0.9434	 Americans love cars for different reasons , I think.One reason is that we are very individualistic.And cars are a very individual way of getting around.Americans like the freedom of driving around by themselves.They don't want to ride in a train or bus with a group of people . 
+Label 99	elements	0.9487	 What about the weather in Boston ? 
+Label 94	barren	0.9346	 It is very dull , and the production isn't very satisfactory , either . 
+Label 55	tests	0.9307	 I have to take my exams for getting into the university , so I need to prepare . 
+Label 95	positively	0.9316	Good news ! 
+Label 62	complexity	0.9004	 Please explain because it makes no sense to me . How can a girl ’ s routine be so complicated ? You get up , you shower , you get dressed , you brush your teeth , you ’ re out the door . Half an hour , tops . 
+Label 13	thinking	0.9053	 I am thinking about quitting my job in the student government . But before that , I must do my job . Bye . Don't forget about that note . 
+Label 31	individual	0.9316	 I'm afraid not ! Now this is just between you and me . 
+Label 31	individual	0.9058	Hi , John . What brings you to town ? 
+Label 99	elements	0.9014	 Some routine job . Files , documents , faxes and so on . 
+Label 81	related	0.9355	 She ’ s my friend ’ s ten-year-old niece . I guess there won ’ t be another wedding in this family for a long time . 
+Label 31	individual	0.9043	 No , I encourage her to go her own way , but she's now having a change of heart . 
+Label 81	related	0.9077	 It ’ s as plain as the nose on your face . They ’ re dating each other . 
+Label 60	rated	0.9204	 Pretty good , Sam . Only the awful weather , you know . 
+Label 95	positively	0.9438	What a good day ! 
+Label 95	positively	0.9072	 Great , let's go . 
+Label 81	related	0.9038	 she's my cousin . 
+Label 14	scores	0.9233	 How do you total our scores ? 
+Label 40	cannot	0.9336	 Sorry , I can't . I have to work late at the laboratory . 
+Label 31	individual	0.9302	 Nigel , you sure lead a dog's life , what's up with that ? 
+Label 54	measures	0.9399	 Well , let's take the measurements right now . 
+Label 70	self	0.9478	 Well , take care of yourself , and don't say I didn't warn you . 
+Label 31	individual	0.9224	 Mark , this is Lucy . 
+Label 31	individual	0.9629	 Anthony , you were caught making international calls from the office phone , you called in sick in eight times this month and you smell like alcohol ! 
+Label 31	individual	0.9185	 Tom , darling . You'll try not to be late for dinner tonight , won't you ? Please ! 
+Label 31	individual	0.9390	 It was me . I am so sorry . 
+Label 55	tests	0.9302	I hope the teacher decides to curve our test grades . 
+Label 31	individual	0.9058	 Oh , she can make her own decisions . 
+Label 75	subjects	0.9082	 You are full of boasts . I can examine you by question and answer . What is Hollywood ? Where is it ? What is the function of it ? 
+Label 27	primary	0.9023	 In that case , here , you go first . 
+Label 16	individuals	0.9038	 It seems that folks like my father and your grandmother are determined to be on their own . 
+Label 81	related	0.9155	 Pretty good . Listen ... have you heard about the new Thai restaurant over on University Avenue ? 
+Label 95	positively	0.9448	 Great ! I'll look forward to it . We'll make sure and check the mail for our invitation . 
+Label 95	positively	0.9131	 Good , because my friend Wendy is getting married and I ’ m organizing her party ! 
+Label 95	positively	0.9268	 Cheer up . You have got me at least . 
+Label 40	cannot	0.9419	 Ho , no ! 
+Label 54	measures	0.9062	 Again , as you see on your course outline , grading is determined by your performance on a midterm and a final test , periodic quizzes , and classroom participation . 
+Label 81	related	0.9009	 It's said that the father's will caused the dissension among the two brothers . 
+Label 11	found	0.9004	 Why ? We just got here . 
+Label 95	positively	0.9048	 Good luck . 
+Label 81	related	0.9434	Tell me about your brother and sister , Sue . 
+Label 31	individual	0.9082	Happy Birthday ! This is for you , Kate ! 
+Label 13	thinking	0.9028	 That ’ s what I was thinking . I mean can you imagine Friday night instead of going out with your friends you ’ d have to stay in your tree house and talk to birds and squirrels . 
+Label 95	positively	0.9434	 Great ! Let's make a reservation . 
+Label 31	individual	0.9443	 I mean her personality . 
+Label 31	individual	0.9473	 You mean you and I ? 
+Label 31	individual	0.8999	 Manchester United . What about you ? 
+Label 6	because	0.9355	 Because you are the most handsome boy at the university and I love you so much ! I guess I just go crazy sometimes . That's all . 
+Label 6	because	0.9072	 Because I am loved by the most beautiful girl in the world ! 
+Label 95	positively	0.9224	 Lucky her . 
+Label 81	related	0.9336	 That movie's just a lot of noise , same as Simon . 
+Label 31	individual	0.9199	 I had to go by myself , he couldn't make it . 
+Label 81	related	0.9170	 For me ? The football games of course , I love football games . 
+Label 70	self	0.9321	 well , I think I was being a little selfish myself . I know they don't get to see each other very often . 
+Label 95	positively	0.9043	Nice weather , honey ! 
+Label 68	unconscious	0.9131	 It's called love is blind , I think . 
+Label 16	individuals	0.9204	 Yeah , me , too . It's about time I made a move . 
+Label 42	toward	0.9150	Mr.Martin , we're on arrival . 
+Label 42	toward	0.9312	 It's almost time to get aboard . 
+Label 5	openness	0.9331	 Supervisor . Open the door . 
+Label 60	rated	0.9258	 Oh , not too bad , but I've got to stay in bed . 
+Label 95	positively	0.9224	 good luck ! 
+Label 15	solving	0.9199	 We need to solve the problem of air pollution before we destroy the atmosphere . There ’ s lots of clean , modern technology , but companies in developed countries say it ’ s expensive . Developing countries 
+Label 60	rated	0.9375	 you are right about that . It's quiet and very convenient . You can get to the bus and the subway stations within ten minutes'walk . There's a grocery store , a book store , a gym , and many restaurants 
+Label 68	unconscious	0.9302	 Come on , son , you ’ re looking at this too naively , the Chinese market has exhibited a great deal of instability , and their currency has been devalued by almost a whole percentage point . 
+Label 31	individual	0.9351	 how about individual games like the Rubik's cube or solitaire ? 
+Label 6	because	0.9263	 Because you're from a foreign country . The school needs to find out how good you are at both basic skills . 
+Label 81	related	0.9326	 The Godfather and The Godfather II , of course . They were both directed by Francis Ford Coppola . 
+Label 30	developmental	0.9199	 We must keep developing our economy and unite with other developing countries to fight against it . 
+Label 81	related	0.9033	 Nothing special . I had a get-together with some schoolmates at the high school , visited the Internet and read a couple of books which I had been longing for . How about yours ? 
+Label 31	individual	0.8999	 No , I'd like to go alone . 
+Label 25	associative	0.9219	 let's go shopping . You can't depend on public phones in this day and age ! 
+Label 95	positively	0.9097	 Oh , cheer up . A boyfriend is not everything . 
+Label 95	positively	0.9019	 Good . I was thinking that I ’ d like to invite you to watch a movie . I can meet you at the cinema gate . 
+Label 31	individual	0.9453	John has some trouble in his life . 
+Label 94	barren	0.9351	 He is out of luck . 
+Label 75	subjects	0.9004	 What about America ? Have you ever been to the United States ? 
+Label 76	retention	0.9282	 All under the precept of keeping the funding ? That stinks . 
+Label 70	self	0.9438	 Take care of yourself and remember to keep in touch . 
+Label 95	positively	0.9043	We're lucky today . 
+Label 70	self	0.9497	 Take care of yourself and don't forget to keep in touch . 
+Label 72	variables	0.9170	 How long does the rainy season last ? 
+Label 42	toward	0.9014	 It's the end of the world for me . 
+Label 95	positively	0.9033	 Yes , not bad . Like turn your cell phone ringer off and find a private place to make calls which it ’ s showing your respect to your co-workers . 
+Label 31	individual	0.9038	 Which man ? 
+Label 95	positively	0.9155	 Good luck ! 
+Label 7	divergent	0.9180	 Of course it does . It ' s like a modern tale of Romeo and Juliet . You can see a couple who are in love but can ' t be together because they are so different . And in the fact that immortality and super human strengthen this really sexy and there you have it ! Plus the cast is hip , young people that make the movie even more enticing . 
+Label 95	positively	0.9277	 Good . See you later . 
+Label 31	individual	0.9009	 Galileo is one of them . 
+Label 95	positively	0.9165	I think it's going to be a nice day . 
+Label 81	related	0.9116	 I appreciate it . It is related to company image . 
+Label 72	variables	0.9331	 It all depends . If it's rock music I'll do disco , and if it's romantic music I'll do ballet . 
+Label 31	individual	0.9453	 Taylor ? Taylor ! Is this a joke ? Is it really you ? But ... but ... everyone said you were dead ! 
+Label 81	related	0.9102	 Now . you can see why it's called the Lantern Festival . 
+Label 15	solving	0.9229	 They are puzzles . It's a tradition to solve the puzzles on the lanterns during the Lantern Festival . 
+Label 81	related	0.9404	 Is uncle Bill your brother ? 
+Label 81	related	0.9058	 So his two daughters are my cousins ? 
+Label 40	cannot	0.9077	 Impossible . My pager is really old . It doesn't display messages . 
+Label 81	related	0.9014	 I came to see my aunt . 
+Label 31	individual	0.9146	 How about yourself ? 
+Label 13	thinking	0.9263	 Stand on the chair , Pig Tom . Use your brain . 
+Label 42	toward	0.9458	 He's diving for the gold . 
+Label 95	positively	0.9385	 Looks like a lucky day for everyone . 
+Label 6	because	0.9263	 Because in history , the Chinese emperors used to climb onto these mountains and pay tribute to their ancestors and pray for good harvest and prosperity for the whole nation . 
+Label 95	positively	0.9155	 Good luck ! 
+Label 6	because	0.9014	 Why ? Do you know that guy ? 
+Label 75	subjects	0.9248	 What about in China ? What'd you do to celebrate your birthday ? 
+Label 95	positively	0.9277	 Good . See you later . 
+Label 32	problem	0.9106	 that's the bad thing---the contract ends in June , so we'll have to find a new apartment soon . 
+Label 95	positively	0.9155	 Good luck ! 
+Label 75	subjects	0.9233	 You can ’ t compare apples and oranges . I believe that both topics are important and that we can ’ t ignore them , the mistreatment of animals can cause a great environmental imbalance . I believe that governments should prohibit activities like poaching . 
+Label 95	positively	0.9282	 oh , really . That is great news . What does he look like ? 
+Label 81	related	0.9087	 Didn't I tell you ? We're moving to Florida ? 
+Label 31	individual	0.9009	 He has a fever . 
+Label 95	positively	0.9224	 good luck ! 
+Label 40	cannot	0.9302	 Well , that ’ s not possible . The computer ’ s official student account has already been sent to the state . And that ’ s what our budget is based on . Who told you that anyway ? 
+Label 40	cannot	0.9380	 You can't be serious . How dare you not tell me you were going to marry her ? 
+Label 25	associative	0.9077	 To the cinema . What about coming with me ? 
+Label 60	rated	0.9062	 No , she ’ s average . 
+Label 6	because	0.9009	 Because it was her husband who beat her . 
+Label 31	individual	0.9448	 It's me , sir . But I am sorry I have forgotten to prepare for it . 
+Label 16	individuals	0.9346	 You and everyone else . It looks more like a camp-ground than a library . 
+Label 31	individual	0.9209	 Oh , just on my own . I just joined , so I don't really have any partners . 
+Label 60	rated	0.9331	 Yes , it's fine . However , I personally think the fairways between the greens are a bit too long , especially for such a hot climate . Don't they have carts ? 
+Label 46	extrinsic	0.9434	 Really ? That's a straws in the wind . 
+Label 60	rated	0.9189	 Pretty good . Actually , I'm quite busy with work . By the way , say ' hello ' to your husband . 
+Label 40	cannot	0.9067	 Mumm . no . 
+Label 31	individual	0.9243	 How about you , Daniel ? 
+Label 95	positively	0.9023	 Great . I have a good day , thanks again for the offer . 
+Label 31	individual	0.9238	 You'd better leave her alone . 
+Label 45	computational	0.9077	 Computers are great , aren ’ t they ? I should download some program and learn how to use them . 
+Label 31	individual	0.9077	John , you look pale . What happened ? 
+Label 70	self	0.9253	 Well , I guess no one can help me but myself . For the moment , I just need someone to talk to so that I can relieve my stress . 
+Label 95	positively	0.9155	 Good luck ! 
+Label 99	elements	0.9380	 Well , Jim . It is a combination of how much you eat , the type of food you eat , and when you eat your meals . 
+Label 60	rated	0.9082	 I think they are quite reasonable , and the vegetables are very fresh . 
+Label 42	toward	0.9336	There's a typhoon coming . 
+Label 53	according	0.9199	 The Taj it is then . 
+Label 7	divergent	0.9058	 Are you sure ? We could go Dutch . 
+Label 99	elements	0.9326	 That's one . Another is the lack of personal property . Everything you have , from toys to clothes , is used by your brothers and sisters . Especially clothes . Three quarters of my wardrobe are hand-me-downs . 
+Label 95	positively	0.9009	 Great . Let's talk over coffee . 
+Label 70	self	0.8999	 Take good care of yourself . 
+Label 40	cannot	0.9023	 We can ’ t . if we went that fast , we would break the speed limit . 
+Label 31	individual	0.9390	 It was me . I am so sorry . 
+Label 60	rated	0.9683	 It's too raw . I wanted mine well done , but this one here is almost medium . 
+Label 31	individual	0.9351	 Leave me alone ! 
+Label 85	research	0.9067	 Yes , I ’ m doing some research on Roman civilization . Do you have any books on the subject ? 
+Label 95	positively	0.9331	 You are flattering me . 
+Label 85	research	0.9067	 Yes , I ’ m doing some research on Roman civilization . Do you have any books on the subject ? 
+Label 95	positively	0.9146	 Good for you ! 
+Label 70	self	0.9497	 Take care of yourself and don't forget to keep in touch . 
+Label 75	subjects	0.9229	 A lecture on how to make stir-fried ginger beef , not the boxing you like . 
+Label 31	individual	0.9268	 Leave me alone . 
+Label 13	thinking	0.9160	So , what do you think ? How do you like New York ? 
+Label 95	positively	0.9180	 Great . My family came to visit me . 
+Label 94	barren	0.9346	 Nothing . I have told you before that I won't go to the party and that's flat . 
+Label 95	positively	0.9155	 Good luck ! 
+Label 60	rated	0.9082	 Oh , not too bad . I'm just glad the weekend's finally here . 
+Label 16	individuals	0.9336	 You , too . Where did you get your new hat ? 
+Label 96	investigators	0.9702	 It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological thriller with some frightening scenes , but I hope audience won ’ t be too scared to go to the movie theatres ! 
+Label 60	rated	0.9204	 Pretty good , Sam . Only the awful weather , you know . 
+Label 40	cannot	0.9399	 No , you can't , darling . The grass is wet . 
+Label 40	cannot	0.9307	 No , you can't . The bench is wet , too . 
+Label 31	individual	0.9385	 What about you , Mary ? 
+Label 31	individual	0.9170	 Me ? Oh , no . In fact , I only took up dancing quite recently . 
+Label 40	cannot	0.9004	 No way . Alisan Darling just got hitched in Vagas . 
+Label 95	positively	0.9204	Good . There is the information desk . How do we get to seventieth street , please ? 
+Label 60	rated	0.9180	 Well , how about 4th ? 
+Label 31	individual	0.9116	A woman after my own heart ... 
+Label 40	cannot	0.9077	 I can't . I have to meet someone . 
+Label 95	positively	0.9268	 great . Let's go ! 
+Label 55	tests	0.9312	 Have I really got to do those exams again , Dad ? 
+Label 99	elements	0.9380	 Well , Jim . It is a combination of how much you eat , the type of food you eat , and when you eat your meals . 
+Label 31	individual	0.9116	 My younger brother . He suffers from a bad cold . 
+Label 42	toward	0.9111	Boy , come here ! 
+Label 92	these	0.9307	 How about the tires ? 
+Label 6	because	0.9043	 Because he beat me first when I tried to stop him from grabbing my bag and running away . 
+Label 31	individual	0.9097	 No . I didn't kill him on purpose , madam . It's him who caused the incident . I need to see my attorney . 
+Label 42	toward	0.9150	 I think it's time we started driving . 
+Label 31	individual	0.9102	 Well , you should talk with your son and let him make his own decision . 
+Label 95	positively	0.9106	 Great ! That'll be ahead of schedule ! Good work . 
+Label 37	ability	0.9019	 According to your performance , I decided to give you a salary increase . From next month , there will be a 2,000 yuan raise to your salary . Although your first raise might not sound considerable , the company believes that with your ability , sooner or later you'll get a better raise . 
+Label 40	cannot	0.9126	 I can't . I've got to attend a meeting in London . 
+Label 55	tests	0.9312	 Have I really got to do those exams again , Dad ? 
+Label 85	research	0.9175	 I need to finish my research paper . 
+Label 81	related	0.9072	 Then go climbing with me , Daddy . Mountain climbing can build your muscles like Popeyes . 
+Label 31	individual	0.9185	 Tom , darling . You'll try not to be late for dinner tonight , won't you ? Please ! 
+Label 11	found	0.9326	 Sir , the restaurant you seek is right here . This hotel has a three-star restaurant . 
+Label 60	rated	0.9219	 Gramercy Tavern is at least as good as our own hotel restaurant . Plus , they have live jazz . 
+Label 32	problem	0.9282	 It's about an invoice which is wrong . 
+Label 60	rated	0.9180	 Well , how about our own hotel restaurant ? It's conveniently located and has a three-star rating . 
+Label 40	cannot	0.9160	 No , I can't . Perhaps your stewardess will help you to find a place to store it . 
+Label 40	cannot	0.9116	I can't finish this steak . 
+Label 60	rated	0.9316	 150 ? No , I'm not really interested in this place . It isn't big enough . It isn't near enough to my office . 
+Label 81	related	0.9097	 Same here . Hey , did you know Susan is going to get married . She invited me to her wedding and she wants you to attend also . 
+Label 31	individual	0.9219	 Of course . It's urgent . I think the partie nt is suffering from acute appendicitis . He may die if not treated in time . 
+Label 52	validity	0.9126	 License and registration please . Have you been drinking tonight , sir ? 
+Label 81	related	0.9106	 We can buy something for Mom and Dad here , and then go buy Uncle Teddy's gift on State Street . 
+Label 86	iq	0.9141	 How about the iguana ? 
+Label 72	variables	0.9155	 It depends on the amount and how fast you want that person to receive the money . A SWIFT transfer is the fastest method but a banker's draft is usually the cheapest . How much do you wanna send ? 
+Label 5	openness	0.9072	 Well , let ’ s have a look . Open wide . Hmm ... this doesn ’ t look good . Well , it looks like you have a cavity and your crown is loose . We ’ ll need to put in a filling before it gets any worse , and the crown probably needs to be refitted . I ’ m going to order some x-rays . 
+Label 31	individual	0.9238	 Oh . This is Paul . When will he be back ? 
+Label 60	rated	0.9082	 Well , that's a bit stiff . Do you have some cheaper ones ? 
+Label 32	problem	0.9438	We've got a problem ... it looks like we'll need more spotlights on the exhibition booth . The client thinks it's too dark , and they want to add halogen lighting . We've already got 3 sets of track lighting from you guys , do you think you could help us out and throw in some halogens ? 
+Label 95	positively	0.9302	 Good , I ' Ve get a two-pin plug . 
+Label 16	individuals	0.9292	 There will be about 18 people . 
+Label 81	related	0.9092	 Twice a year ? How long has your sister lived in Boston ? 
+Label 6	because	0.9058	 Because your bank is a new one , I think I'll be given more opportunities , and the working conditions and surroundings are so excellent here . 
+Label 52	validity	0.9185	 Do you have a valid license ? 
+Label 31	individual	0.9253	Look , who's here , Peter ! 
+Label 60	rated	0.9023	 Star Hotel . OK . 
+Label 31	individual	0.9653	 I was calling about your son . 
+Label 31	individual	0.9033	 Your son was acting up in class . 
+Label 31	individual	0.9116	 He was talking and causing a disturbance during class . 
+Label 13	thinking	0.9131	 Let me think ... I want to know if the company can provide free accommodation for a new employee . 
+Label 31	individual	0.9116	 Oh , it ’ s not you . I just want my own place . 
+Label 72	variables	0.9790	 What's the house rent ? When is the rent due ? And how much security deposit do you require ? 
+Label 95	positively	0.9155	 Good luck ! 
+Label 6	because	0.9004	 Because in this duty-free shop , your total expenditure cannot be over $ 300 and you also have one more present to buy for your wife . 
+Label 17	personality	0.9004	 What kind of personality do you think you have ? 
+Label 92	these	0.9219	 For me , this would be having good relationships with my family members . My family has always been very close knit , and we still spend a lot of time together . 
+Label 14	scores	0.9570	How about your grades of study ? 
+Label 32	problem	0.9409	 This hotel could use some insecticide , but my time in New York was thoroughly delightful . 
+Label 92	these	0.9399	 Here are some biscuits . Why are you back so early today ? 
+Label 81	related	0.9087	 Then it's for Dad , isn't it ? It's so unfair ! 
+Label 81	related	0.9146	 Don't be a smarty-pants . It's for Grandma Wang . 
+Label 13	thinking	0.9087	 Umm , let me think for a moment . We can meet her together after I finish cooking . 
+Label 95	positively	0.9233	 Alright , alright . I am happy to try more Chinese food.Will it be dim sum again ? 
+Label 32	problem	0.9087	 That's a problem . My laptop has no Ethernet port , it's wireless only . 
+Label 31	individual	0.9272	 It would be better if you watched out for yourself . I might forget . 
+Label 17	personality	0.9004	 What kind of personality do you think you have ? 
+Label 42	toward	0.9150	 I mean to double the amount for your sales this year at least . 
+Label 16	individuals	0.9238	 OK , Ben and May , here we go . Be careful , Danny , the ball is coming . That is the green one . 
+Label 72	variables	0.9233	 Which train is that ? Which platform does it leave from ? 
+Label 54	measures	0.9248	 OK , Let me see . I suppose we must strengthen our promotion , because our brand is still new to some consumers . Maybe we should start our advertising program with our local and overseas distributors simultaneously , because they stand on a better position for selecting the best ways to advertise in market places . Besides , the advertisement fund can encourage them to spend more attention on advertising our products . 
+Label 6	because	0.9331	 Because I feel tired all the time , even when I wake up in the morning . I find very difficult to do any work . I have no appetite . My wife cooks me delicious meals but I can only eat a little . 
+Label 31	individual	0.9092	 My daughter . She is missing . I don ’ t know where she is . 
+Label 32	problem	0.9424	 It's a serious problem . I make expecting an important call . The theater is guilty . It supposed to call me this evening , and discuss my play . What were happened if they can't reach me ? 
+Label 55	tests	0.9248	 A blood test and during test . You can come back next week , say 4 pm to see the results . 
+Label 42	toward	0.8999	 I want to go to the financial stree . 
+Label 31	individual	0.9507	 It's Peter's turn . 
+Label 80	ideas	0.9014	You have any ideas as to what you want to do this weekend ? 
+Label 81	related	0.9058	 Sporting goods ? Is that bike Tim wanted on sale ? 
+Label 27	primary	0.9404	 How much time do primary school students usually spend at school every day ? 
+Label 91	factors	0.9194	... Now , that's all I want to say about world coal reserves . So let's move on to the next topic , renewable resources . There are three things we have to consider when talking about renewable resources . First , sustainability ; second , marketability ; lastly , the reality factor . Let's talk about each point in more detail ... John , would you like to take it from here ? 
+Label 92	these	0.9331	 What about these shirts ? Do you see anything you like ? 
+Label 95	positively	0.9199	 You should be happy I want you to look good.If I let you shop for yourself , you would never buy anything . 
+Label 92	these	0.9023	 These are from Guatemala , but we're going to start getting mangoes from India . 
+Label 41	facilitate	0.9307	 Oh , for Pete's sake . This is cosmetic . My brows are falling out . I did this for convenience . 
+Label 54	measures	0.9019	 How about tax and service charge ? 
+Label 42	toward	0.9355	 It's just around the corner 
+Label 31	individual	0.9238	 I'll go myself then . 
+Label 72	variables	0.9033	 I believe they are careful calculations on proteins , vitamins and calories . 
+Label 42	toward	0.9019	 I'm looking for the cameras . 
+Label 95	positively	0.9062	 Great . Are there any landmarks nearby ? 
+Label 95	positively	0.9199	 Great . Good work . 
+Label 6	because	0.9316	 That's because I just took one step inside and turned right around . That bathroom is too gross for me . 
+Label 6	because	0.9229	 That's because you don't exercise . If you were more active , you wouldn't have a dieting problem . 
+Label 6	because	0.9165	 Because I admire your company . Yours is one of the most effective and respectable companies in this city . 
+Label 42	toward	0.9116	 We're almost through . Just sign here , please . 
+Label 31	individual	0.9199	 No , you have to pay it by yourself . 
+Label 54	measures	0.9478	 You'd better have a good rest for a week . Be sure to have regular meals . Stay away from alcohol . Give up smoking at least a little while . 
+Label 54	measures	0.9028	 Never ever come to work drunk , also smoking in the office is not allowed . 
+Label 99	elements	0.9180	 Well , I ... I guess the weather . And the people . They were all very friendly to me . 
+Label 95	positively	0.9097	 Good news ! I ’ ll be glad to . When do you need it ? 
+Label 60	rated	0.9219	 Well , this connection might be a bit too slow for your needs . I suggest you get the premium package for fifty dollars a month which includes a connection speed of two megabytes . That way you can play games online without any lag . This package also includes a wireless router and a personal firewall absolutely free ! 
+Label 49	hypothesis	0.8999	 Am I correct in thinking that you are here for your annual physical ? 
+Label 55	tests	0.9141	 We can do an allergy test , and later I can send you for an asthma test . 
+Label 55	tests	0.9282	 I am going to check your cholesterol , blood sugar , and white blood cell count . 
+Label 15	solving	0.9214	Mm , they taste delicious . Let's settle the bill . 
+Label 95	positively	0.9175	 Yes . Let's go Dutch . 
+Label 31	individual	0.9619	 No . It's on me this time . 
+Label 95	positively	0.9399	 Great . Let's go ! 
+Label 40	cannot	0.9517	 Sorry , I can ’ t ! I have to go to work , pick up Jake and Maddie from school , and make them an afternoon snack , then take Jake to soccer practice and Maddie to dance class . 
+Label 42	toward	0.9072	 Yes , we are almost ready to order . 
+Label 31	individual	0.8999	 This is just my size . How much is the rent 
+Label 95	positively	0.9072	 With pleasure . It's easy to have a memory expansion on board capacity and fulfill your needs for a computer . Besides , there is more space for extra cards to expand later on . 
+Label 42	toward	0.9277	 I'm going to the store . 
+Label 31	individual	0.9111	 You know , I could do this myself . Why don't you go get the screwdriver and the pliers and go fix the vacuum cleaner so it works better ? 
+Label 5	openness	0.9272	 Well , open your mouth and let me have a look . It is nothing serious . You haven't got a fever . But you should take the medicine and need have more rest recently . When you feel well , you could take more exercises , or play sports like basketball , running , and swimming . And eating healthy food , having more fruits and vegetable and drinking milk are good for your heath . 
+Label 95	positively	0.9194	 Good . Let's call it a deal . We will do our best to advance the shipment , but your L / C should be opened early Sep . 
+Label 60	rated	0.9038	 Quite good . The beautiful design and bright color are just the European taste . How are you gonna pack these blouses ? 
+Label 84	attributes	0.9014	 Getting more experience with a widely-known company like yours . Using my speciality in marketing and management . And getting advancement in salary and position . Show my enterprise , confidence and character in passing . 
+Label 95	positively	0.9087	 Good . Let's call it a deal . And we'll do our best to advance the shipment , but your letter of credit should be opened early September . 
+Label 40	cannot	0.9043	 I'm afraid I can't . Parking is not allowed here . 
+Label 76	retention	0.9492	 For water retention , I am going to start you on Hydrochlorothiazide , which is a diuretic . 
+Label 25	associative	0.9194	 Eating here or to go ? 
+Label 6	because	0.9155	 Because that company's behavior is not in accordance with international law . 
+Label 94	barren	0.9272	 is the house pretty run-down . 
+Label 31	individual	0.9409	I'll have sole , then . 
+Label 94	barren	0.9067	 I'm afraid we have no more sole . 
+Label 50	interactions	0.9365	 She's another applicant , and a leading contender , but I didn ’ t want to hire her . She ’ s qualified , but she doesn ’ t quite fit the profile . We ’ re looking for an accountant , and part of the job requires interacting with clients . Well , our clients want conservative people to handle their money . And green hair with ripped jeans doesn ’ t exactly fill them with trust . 
+Label 81	related	0.9414	 Oh , it's for my brother . The little boy over there . He is getting a carsickness . 
+Label 32	problem	0.9419	 The problem is the split ends . They make your hair look even more frizzy . 
+Label 6	because	0.9092	 Why , she's only $ 29.95 . 
+Label 81	related	0.9595	 Similar to a Promissory Note , yes . I can deal with that for you right here . The difference between a Promissory Note and a Bill of Exchange is that this product is transferable and can bind one party to pay a third party that was not involved in its creation . 
+Label 53	according	0.9062	 As the saying goes , when in Rome , do as the Romans do . 
+Label 95	positively	0.9106	 Great ! I asked Grace to bring cups and serviettes as she is also bringing two big coolers for the beers . 
+Label 42	toward	0.9243	 There is one around the corner . 
+Label 6	because	0.9033	 Because I have just retired . I want to buy a small house in the country . 
+Label 83	validation	0.9229	 Of course I did . As recognition for a job well done . Once a month I invite the most productive employee to dinner . 
+Label 32	problem	0.9067	This sucks . I hate buying lingerie . Okay , just find something and get out of here . Alright , these are fine . Oh , no , don ’ t come over here , don ’ t come over here . 
+Label 99	elements	0.9019	 Well , make sure to put out the pepper and salt shakers . I don ’ t know if your brother is coming tonight so set an extra place mat just in case . 
+Label 95	positively	0.9434	 Excellent . Come in please . The washing machine is in the bathroom upstairs . It keeps breaking down . 
+Label 32	problem	0.9087	 Why ? It's unfair . How about going dutch ? 
+Label 25	associative	0.9434	 Would you like to go to an activation with me ? 
+Label 6	because	0.9341	 That's because you're talking to me all the time . Be patient , or there will be no chance to have sashimi for dinner today . 
+Label 60	rated	0.9023	 It's not really all that good.The bedroom is a little small for us . 
+Label 31	individual	0.9028	 This is Kevin . 
+Label 16	individuals	0.9160	 It must be difficult to remember the details for each individual client . 
+Label 81	related	0.9136	 The Chinese rice pudding . Your father loves it , too . You wanna try ? 
+Label 31	individual	0.9224	 Who's she then ? 
+Label 13	thinking	0.9648	 let ’ s think . He loves football , doesn ’ t he ? I saw signed photographs of famous footballers in a shop near hear . Let ’ s go and have a look . You know which team he supports , don ’ t you ? 
+Label 5	openness	0.9185	 I like people who are open and friendly . Those people are usually more active and fun to be with . I like spending time with my friends . We go to bars together or play sports together . 
+Label 68	unconscious	0.9155	 Oh , bathroom blues . 
+Label 23	originality	0.9067	 How about make up ? 
+Label 95	positively	0.9077	 No , double B for Bravo 
+Label 95	positively	0.9399	Thank God , it's Friday ! Time for a drink ! Let's hit the bars ! 
+Label 42	toward	0.9307	 I want to go to the supermarket . 
+Label 31	individual	0.9028	 Fine , but first I need some information about you . 
+Label 99	elements	0.9541	 First , it was how to design survey sheets according to the subjects , because we had to prevent the questions from being too influential and we must make sure that every question was balanced and equitable . Secondly , it was how to get information through telephone covering in the fastest and most effectively way , because the person doing the survey usually doesn ’ t have the patience to wait for long feedback . So the way we put up questions must be clear and direct and only by this means can we get accurate data . 
+Label 95	positively	0.9336	 Great , so we can afford the new apartment after all ! 
+Label 6	because	0.9111	 It ’ s simply because the tins were damaged . 
+Label 95	positively	0.9268	 Good news for us . When can you start to work ? 
+Label 42	toward	0.9116	 Oh good we are almost there . The museum is round the corner from the Post Office . 
+Label 31	individual	0.9019	 Yes , this is the tenant of apartment ten . I guess my kitchen sink is clogging up again , and so is the bathtub . 
+Label 31	individual	0.9404	 I needed to talk to you about your son . 
+Label 8	process	0.9341	 Don't jump the gun . She's in the driver's seat right now . You have to be patient . 
+Label 92	these	0.9023	 These are from Guatemala , but we're going to start getting mangoes from India . 
+Label 81	related	0.9072	 Me ? Cook our dinners ? Hah ! You will be cooking , dear . You will cook . 
+Label 60	rated	0.8999	 What about the red one ? It's the best seller . 
+Label 31	individual	0.9062	 Now it's my son's turn to wait . 
+Label 31	individual	0.9053	Hi , John . What brings you to town ? 
+Label 42	toward	0.9019	 I'm going to Nanchang . 
+Label 31	individual	0.9214	 He is on the line . 
+Label 74	novelty	0.9282	 ... yes , but this one has an all-new buzz . 
+Label 72	variables	0.9316	 Really ? What time and which restaurant ? 
+Label 11	found	0.9219	 I got you . Next time . I'll preface a toast with a statement like ' I can't drink any more ' and then drink anyway . 
+Label 36	correlated	0.9033	 Hello . I've been asked to come and see about something called L / C ? What is it exactly ? 
+Label 32	problem	0.9019	Something's wrong with my air conditioning . 
+Label 95	positively	0.9097	 Great ! Pick me up in about an hour because I think I ’ ll also get a bean bag and a dining set . 
+Label 6	because	0.9229	 No , and let me tell you why ... If I make my guys stay over to check the inventory , I'll have to pay them at an overtime rate , which is time and a half . I estimate it will probably take 3 guys two hours to finish , that will be an increase on your labor fee by at least 10 % ... if you need the numbers that urgently , I can have them do it . Otherwise , we can wait until tomorrow morning , and I'll call you with the numbers after they're done . It's your call ... 
+Label 16	individuals	0.9492	 This year our company is offering a new plan especially for single people like you . I think you might be interested . 
+Label 11	found	0.9116	 just walk down this road and you'll find it . it's on the right side . 
+Label 95	positively	0.9067	 Good . I hope it doesn't cool off this weekend . 
+Label 95	positively	0.9351	 That's good news . The car I'm interested in is priced at 120,000 RIB , but I think I can get a bit of discount on that . I can afford to put up around 40,000 RIB myself . 
+Label 31	individual	0.9185	 Thank you ... Excuse me , sir . You forgot to fill in your visa number . 
+Label 40	cannot	0.9229	 No , I can't . I've really got important business . 
+Label 81	related	0.9106	 Make it work , Geoff . You would say that , wouldn ’ t you , he is your cousin.what a jerk , make me hire your stupid , useless , cousin . 
+Label 11	found	0.9004	 Here you are . You'll find the sugar just over there . 
+Label 40	cannot	0.9463	 I am sorry . It's not allowed . You have to wait till the next station . 
+Label 56	verbal	0.9062	 They are announcing your flight . You'd better board the plane . 
+Label 86	iq	0.9165	 It's about 300 yuan . 
+Label 31	individual	0.9009	 I'm sorry to say that we have to let you go , John . 
+Label 5	openness	0.9277	 A friendly one . I think an open , friendly , honest relationship should exist . An employee should feel she ( he ) can go to her ( his ) boss anytime with any kind of question . 
+Label 14	scores	0.9521	 Let ’ s see how your grades are this semester , and maybe I ’ ll talk to your father about it . 
+Label 81	related	0.9185	 I want to adopt a cat , and it can be Barbie's boyfriend too . 
+Label 95	positively	0.8999	 Great . Your order will take only one week . 
+Label 32	problem	0.9326	 We are faced with the problem that part of the consignment is unacceptable . We assume that damage occurred during the consignment was in your care . 
+Label 94	barren	0.9019	So the apartment comes unfurnished ? 
+Label 25	associative	0.9136	 An appointment ? 
+Label 95	positively	0.9253	 Friday is good . 
+Label 92	these	0.9189	 And those pencils ? What should I do with them ? 
+Label 72	variables	0.9233	 Which train is that ? Which platform does it leave from ? 
+Label 95	positively	0.9102	 Good . We also have health insurance , bonus and paid vacation . When can you begin to work ? 
+Label 95	positively	0.9253	 Good . Please come in on Monday . Working hours are from eight to four-thirty . Lunch is fifty-five minutes . 
+Label 60	rated	0.9136	 Not so delicious as before , but it's fine . The soup is tasty but the meat is a little tough . 
+Label 42	toward	0.9482	 Oh , you want a convertible sofa . This way , please . Over there is the one you want . 
+Label 95	positively	0.9316	 Good . We're tired after driving all day , and we're looking forward to relaxing in a comfortable room . 
+Label 92	these	0.9561	 What about this pair ? They are the ' in ' things now in optical wear . Try them on . 
+Label 91	factors	0.9106	 I see . Here ’ s a pamphlet about our home insurance policy . We ’ Ve named our policy ” umbrella ” . May I ask how much you paid for your home and where you live ? These are the two main thing that decide how much your premiums are . 
+Label 42	toward	0.9658	Come on , Jenny , we are heading our way to the Opera House . 
+Label 99	elements	0.9336	 Square ... turn right ... traffic lights ... And then ? 
+Label 32	problem	0.9424	 It's a bit of a problem situation , actually ... you see , our company has a Corporate Account with you , but unfortunately , we've been experiencing cash flow problems recently . 
+Label 31	individual	0.9097	 My daughter . She is missing . I don ’ t know where she is . 
+Label 95	positively	0.9165	 My birthday present ? I can't help telling you that I am a happy woman , darling . I will come back soon . ( Go to her bedroom and wear the new dress , then show it to Steven . ) 
+Label 6	because	0.9170	 Because Beijing University is the best university in China and I'm sure I am one of the best students . 
+Label 81	related	0.9087	 That girl was my cousin . 
+Label 60	rated	0.9043	 Yeah . It ’ s pretty bad , that car looks like a coke can . 
+Label 92	these	0.9194	 These ones here.The one on the left is very spicy , so we must be careful about how much we add . 
+Label 72	variables	0.9204	 So the rate is variable ? OK , that's fine . How about the frequency of repayment ? 
+Label 60	rated	0.9146	 Very good . Perhaps you'd like something else to go with the roses ? 
+Label 31	individual	0.9028	 Jason , where have you been hiding lately ? You know it's been a long time since your last call . Have you been good ? 
+Label 95	positively	0.9165	 Good . Tonight 8 o'clock . 
+Label 57	investigations	0.9019	 We ’ re going to have to do an investigation . 
+Label 32	problem	0.9209	 The door bell doesn't work , the sink is leaking 
+Label 31	individual	0.9268	 Leave me alone . 
+Label 40	cannot	0.9062	 Really ? No , no , I couldn't ! You're too nice ! 
+Label 81	related	0.9297	 About the same . But I'm looking for a job , so I have to answer the phone often . 
+Label 54	measures	0.9512	 I'll measure you . . . You take size 6 . What colour hat would you like ? 
+Label 31	individual	0.9629	 Anthony , you were caught making international calls from the office phone , you called in sick in eight times this month and you smell like alcohol ! 
+Label 70	self	0.9238	 No , please don't . It's is for my personal use . 
+Label 31	individual	0.9214	 He is on the line . 
+Label 57	investigations	0.9111	 We'll do an investigation and get to the bottom of this . 
+Label 6	because	0.9268	 Because your travel agency has a good fame in this market ; what's more , all the staff here are working very hard . I like doing some challenging job . 
+Label 54	measures	0.9028	 Never ever come to work drunk , also smoking in the office is not allowed . 
+Label 36	correlated	0.9224	 Tell me about Corollas . 
+Label 92	these	0.9072	 And how about these little brown chips ? 
+Label 47	selective	0.9351	 I only allow my child to watch up to an hour a day . I don ’ t think that tv is bad for kids . I think that kids should be active and not become couch potatoes . 
+Label 31	individual	0.9258	 one person ? How about your girlfriend ? 
+Label 14	scores	0.9268	 How were your scores in university ? 
+Label 32	problem	0.9448	 There are many interesting places you should be sure to see . One problem is transportation , however . Because the city is very old , the roads are narrow and congested . If you only have three or four days to visit , you don't want to spend them waiting in traffic in a cab . I suggest you take the subway . 
+Label 60	rated	0.9180	 About a 100 and I have had them declared . 
+Label 95	positively	0.9272	 Good day . I ’ m looking for a one-bedroom apartment today . 
+Label 6	because	0.9092	 Why , she's only $ 29.95 . 
+Label 92	these	0.9380	 It's about the quality of 300 cartons of dried mushrooms . They reached us two weeks ago , and were immediately examined after they arrived . To our astonishment , about 20 % of them were moldy and in many cartons there were even small brownish bugs crawling in and out of the half eaten mushrooms . We can't accept them in this state . They are unfit for human consumption . And the Medical Officer of Health has issued a Stop Notice on them . 
+Label 49	hypothesis	0.9326	 Is that so ? So far we haven't had any complaint of this kind . Our mushrooms have enjoyed a good reputation for their superior quality for years . We are really at a loss to understand why your lot was found moldy and wormeaten . Have you any evidence ? 
+Label 11	found	0.9028	 I know the feeling . I ’ m calling to let you know about this new Italian place I found . It ’ s right around the corner . 
+Label 40	cannot	0.9043	 I can't . I am really behind of my work . 
+Label 56	verbal	0.9023	 Oh , hello , yes , arm ... I've just lost my bank stuff . 
+Label 13	thinking	0.9067	 Oh , I was just thinking about getting a bite to eat . Have you had lunch yet ? 
+Label 31	individual	0.9150	 Jingshan consists of five individual peaks , and there lies an elaborate pavilion on the top of each peak . These pavilions were used for gathering and leisure time . These five peaks also draw the approximate historical axis of central Beijing . 
+Label 54	measures	0.9072	What's all the security check about , Jimmy ? Does it mean the bar may be a dangerous place ? 
+Label 95	positively	0.9253	What a nice day ! 
+Label 95	positively	0.9355	 Great , let's go ! 
+Label 40	cannot	0.9199	 Are you kidding ? Can you afford it ? Do you think we can get a room on such short voice ? 
+Label 95	positively	0.9229	 Wonderful ! I'll start packing our suitcases . 
+Label 32	problem	0.9175	 It's the time to emphasize sense of crises . 
+Label 99	elements	0.9546	 The company introduction , our mission , vision , various policies , insurances , pension plan , company ID , batch , telephone , e-mail set-up and training . 
+Label 81	related	0.9194	 Well , we have a tradition in my family ... 
+Label 81	related	0.9233	 No , ties . And there's a tie store . Let's go ! 
+Label 95	positively	0.9390	 Great . Send it to me by FedEx tomorrow morning . Or better , call Federal Express for a pick-up . That way I'll get it even earlier . 
+Label 54	measures	0.9551	 You should save in case of an emergency , you need to have more self-control , what things did you spend money on ? 
+Label 60	rated	0.9390	 It's not really all that good . The bedroom is a little small for us . 
+Label 60	rated	0.9043	 I'd like a suite . What's the rate ? 
+Label 75	subjects	0.9102	 What about the insurance and housing policies ? 
+Label 95	positively	0.9102	 Good , I can still attend the Olympic Games . 
+Label 95	positively	0.9033	 Maybe . But it emphasizes participation and a spirit of courage , and can give one the extreme sense of cheerfulness and success . I'm getting to like the game more and more . 
+Label 31	individual	0.9321	 It's for myself . 
+Label 95	positively	0.9468	 Fantastic ! I got the promotion ! 
+Label 99	elements	0.9258	 How about the microphone and speakers ? 
+Label 55	tests	0.9141	About my driving test , did I do well ? 
+Label 8	process	0.9155	 Be patient . Good food never comes fast . 
+Label 53	according	0.9219	 apparently , she's being given an award for donating so much money to charity . 
+Label 36	correlated	0.9102	Print shop . Seam speaking . 
+Label 31	individual	0.9258	 This is Mr . Smith of XYZ Company . When will he be back ? 
+Label 31	individual	0.8999	 Someone told joe off . 
+Label 31	individual	0.9023	 This is Kevin . 
+Label 72	variables	0.9331	 You mean on product availability , reliability and price ? 
+Label 54	measures	0.9385	 Excellent ! We have the finest cashmeres at affordable prices.How about we get you measured ? Let ’ s start off by measuring the width of your shoulders . Now , let ’ s measure the length of your arms and this bit around your neck here . 
+Label 54	measures	0.9385	 Excellent ! We have the finest cashmeres at affordable prices.How about we get you measured ? Let ’ s start off by measuring the width of your shoulders . Now , let ’ s measure the length of your arms and this bit around your neck here . 
+Label 95	positively	0.9360	 Great ! Let ’ s do it ! 
+Label 31	individual	0.9429	 You ? You are full of hot air . 
+Label 72	variables	0.9292	 What stock do you want to buy and how many ? 
+Label 42	toward	0.9473	 Let me see . The offering price is near or at $ 88 . 
+Label 21	ratings	0.9658	 It's all about credit rating and salary . If your credit rating and your salary are high enough , we can offer you the platinum card . 
+Label 95	positively	0.9023	 That's great ; my health club membership is about to expire . 
+Label 92	these	0.9409	 How about these ? They are the current bestsellers . 
+Label 95	positively	0.9302	 Great . You can move in next Monday . Your first month's rent is due then . 
+Label 95	positively	0.9067	 Great . I'll bring the food . 
+Label 31	individual	0.9399	 Mark should clean it . It's his turn . 
+Label 72	variables	0.9131	 Which direction were you coming from ? And which direction were you going ? 
+Label 81	related	0.9009	 It's just around the comer . 
+Label 36	correlated	0.9067	 That's coincidence 。 
+Label 60	rated	0.9067	 Nasty . You'd better not rub your eyes . 
+Label 32	problem	0.8999	My car has broken down . Could someone come right away and check it ? 
+Label 95	positively	0.9038	 Yes , not bad . Like turn your cell phone ringer off and find a private place to make calls which it ’ s showing your respect to your co-workers . 
+Label 60	rated	0.9336	 Flat C . 15 / F , Tong House , Tai Koo Shing . 
+Label 95	positively	0.9072	 Great . Then , after we remove the carpet , we need to redo all the wood floors . Right ? 
+Label 75	subjects	0.9126	 Why did you stay an extra night in Boston ? What happened ? 
+Label 42	toward	0.9331	 I ’ m going to down town . 
+Label 92	these	0.9458	 How about this pair ? They're well-made . 
+Label 95	positively	0.9346	 With pleasure . I think we should go to the palace first . 
+Label 31	individual	0.9058	 I don't want to do that to you , Karen . 
+Label 7	divergent	0.9238	 What about the divided skirt ? 
+Label 42	toward	0.9272	Ladies and gentlemen , we are heading towards the first spot of our trip-the Louvre . 
+Label 31	individual	0.9106	 As long as we ’ re going , you can decide where to go . I trust your judgments . I know you miss Chinese food , so we can eat at a Chinese restaurant this time . 
+Label 81	related	0.8999	 Just as what I said in my welcome speech , Mr . Ross's visit to our company is meaningful for both our two companies . Thank you very much for your visiting . We will miss you all the time . 
+Label 42	toward	0.9185	 It is a quarter to twelve . 
+Label 95	positively	0.9175	 Good . Now , if you ’ ll just sign here , you can start work in 3 days . 
+Label 81	related	0.9473	 One is a small-size Nike in red and the other is a big one in black . The two are tied together . 
+Label 31	individual	0.9307	 I wanted to have a talk with you about your son . 
+Label 6	because	0.9004	 Because in this duty-free shop , your total expenditure cannot be over $ 300 and you also have one more present to buy for your wife . 
+Label 6	because	0.9204	 Why ? Wouldn't a red wine go well with sushi ? 
+Label 60	rated	0.9302	 Let's see . The label says it's got " attractive citrus and grassy aromas that give way to crisp , mineral flavors and a bonedry finish . Serve chilled . " Oh , no , how long will it take to chill the wine ? I'm on my way to the dinner now . 
+Label 60	rated	0.9219	 You need to get on the 261 . It goes all the way to Sons . 
+Label 67	rat	0.9263	 Well , the garbage disposal doesn ’ t work , we have rats , and the toilet is backed up . 
+Label 81	related	0.9321	 What about your step-brother's mother ? Does he keep in touch with her ? 
+Label 95	positively	0.9697	 Hooray ! I can play football with daddy . Mom and sister can play badminton . 
+Label 95	positively	0.9048	 Good luck . 
+Label 95	positively	0.9316	 Good , I will take the one hour facial with make-up . 
+Label 31	individual	0.9160	It's your turn , sir . I'm sorry that you've had to wait . 
+Label 95	positively	0.9551	 Positive . I ’ ll put the radio on . 
+Label 81	related	0.8999	 Dad . Here comes another bus . 
+Label 31	individual	0.9087	 Helen , why do you keep flushing the toilet ? What's wrong ? 
+Label 80	ideas	0.9121	 An hour ? That's a bit of a bummer . Let me take a peek and see what else there is . How about going dancing ? We haven't done that in a while . There's a club in Silver Lake that's supposed to be hopping on Friday nights . Eddie from work told me that they have a really good DJ and a big dance floor , and the cover charge isn't bad . 
+Label 6	because	0.9297	 Yeah , yeah , we ’ re here because we feel this is an injustice ! The financial irresponsibility of big business has to stop ! We ’ re there to show the government that we don ’ t like the way that they ’ re spending our tax dollars ! 
+Label 60	rated	0.9263	 It's 9 - A in the middle part , a window seat too . 
+Label 99	elements	0.9443	 How about the price and the bank mortgage ? 
+Label 8	process	0.9268	 How do they train the dogs ? Well , I mean , it's a long process , right ... we get them when they're puppies ... and so we train them basic ... you know , sit , come ... really basic things ... then , after they're about two year old , they go a different training school . 
+Label 6	because	0.9058	 Because you need a senior production planner who is good at mathematics and fluent in English . I think I am fit for the position . 
+Label 83	validation	0.9077	 You ought to point out how valuable you are , and tell her those people who have the same situation also get the salary raise . 
+Label 81	related	0.9004	 Tie it in with the pay-per-view services , and perhaps it could be a money-maker . 
+Label 99	elements	0.9019	 Well , make sure to put out the pepper and salt shakers . I don ’ t know if your brother is coming tonight so set an extra place mat just in case . 
+Label 32	problem	0.9390	 Yes , it displays some social problems and interprets the values of our white-collars . 
+Label 11	found	0.9019	I think I may rent out this apartment that I found . 
+Label 55	tests	0.9414	 I see . I'll have the lab techs run some tests to check for mono as well then . The nurse will come in then to take your blood , we'll run some tests , and then you can go home . You should hear from us by this afternoon . 
+Label 62	complexity	0.9004	 Please explain because it makes no sense to me . How can a girl ’ s routine be so complicated ? You get up , you shower , you get dressed , you brush your teeth , you ’ re out the door . Half an hour , tops . 
+Label 47	selective	0.9248	 How about this one ? It's the special local product . 
+Label 95	positively	0.9131	 Great . The view from this window is wonderful . 
+Label 32	problem	0.9048	There is a problem in my apartment . 
+Label 16	individuals	0.9160	 It must be difficult to remember the details for each individual client . 
+Label 31	individual	0.9092	 My daughter . She is missing . I don ’ t know where she is . 
+Label 95	positively	0.9111	 Great . Thank you . 
+Label 42	toward	0.9556	Let's cross here . 
+Label 60	rated	0.9414	 That's good enough , I think . What colors does the new Accord come in ? 
+Label 13	thinking	0.9009	 I was thinking about getting a soda . 
+Label 95	positively	0.9058	 The best would be you have a smile on your face in the interview to win a good impression of the interviewer . 
+Label 92	these	0.9277	 What about these ? Have you ever tried pig ’ s brains ? 
+Label 37	ability	0.9102	 You ’ re questioning my ability ? I tell ya , I can make it ! I ’ ll talk to your boss . 
+Label 31	individual	0.9136	 This is John . 
+Label 54	measures	0.9546	 What about measuring the floor for a new carpet , and the walls for new wallpaper ? 
+Label 91	factors	0.9038	 There are a few considerations . Is this a part-time or full-time job ? 
+Label 42	toward	0.8999	 How about the end of this month ? 
+Label 95	positively	0.9165	 Good for you , keep it up . 
+Label 95	positively	0.9395	 I like your positive attitude . How many years have you been employed here ? 
+Label 31	individual	0.9106	 But Steven , why don't you ask for a leave ? ... Steven , why don't you speak ? Are you still there ? 
+Label 95	positively	0.9287	 Great ! Is a trainer available ? 
+Label 99	elements	0.9189	 No problem . First , it's comfortable and cozy . Second , it has a lovely view of the city . Third , it has all kinds of electric appliances that we need , such as refrigerator , electric stove , heating apparatus , washing machine and dishwasher . Forth is the most important , the electricity is free of charge . Finally , it's located in the center of the city and the transportation is convenient . 
+Label 94	barren	0.9014	 Sorry , sir . The angelica is out of stock now . 
+Label 41	facilitate	0.9209	 Could you hold the line , please ? I will check out our room availability for those days ... Yes . we have a few vacancies next weekend . We have double rooms , suites and deluxe suites in Japanese , Roman . French and presidential styles , which one do you like best ? 
+Label 40	cannot	0.9380	We can't go that way , the road is blocked for the next few days . 
+Label 99	elements	0.9473	 OK ... and what about the buffet and the cake ? Did your mom call the caterer ? 
+Label 95	positively	0.9258	 Great . She'll be so happy . 
+Label 81	related	0.9092	 Our cousin went into labor and had her baby last week . 
+Label 81	related	0.9175	 Thanks . But don't forget that they have a vet appointment this Saturday . 
+Label 32	problem	0.9067	This sucks . I hate buying lingerie . Okay , just find something and get out of here . Alright , these are fine . Oh , no , don ’ t come over here , don ’ t come over here . 
+Label 42	toward	0.9419	 To the traffic lights ? 
+Label 31	individual	0.9150	 Single . How much ? 
+Label 72	variables	0.9131	 Which direction were you coming from ? And which direction were you going ? 
+Label 42	toward	0.9395	 I'm headed to Rockefeller Center . 
+Label 95	positively	0.9336	 Super . How long will I have to sit under the Hot Cap ? 
+Label 57	investigations	0.9038	 All right , we'll do an investigation . 
+Label 42	toward	0.9165	 I am going to the railway station . 
+Label 95	positively	0.9194	 Great , we don't expect any big problems to happen . 
+Label 23	originality	0.9067	 How about make up ? 
+Label 60	rated	0.9062	 Sure . This brand is supposed to be very good , but they're expensive . Those are new products . They come in several colors and sizes . There is also hard , soft , and medium . 
+Label 72	variables	0.9463	 How tall are you ? What about your eyesight ? 
+Label 95	positively	0.9307	It's a beautiful day ! Let's play on those rides in the park . 
+Label 95	positively	0.9077	 Great ! It sounds like you might be a good fit . As you know , we ’ re one of the largest brokerage houses in the world . Our daily work is quite hectic , and we , re looking for an assistant who can keep us organized ... help keep the engines running smoothly , so to speak . Our hours are long , but the overtime pay is good ... sort of makes up for the long hours . 
+Label 32	problem	0.9331	 Well , that ’ s the problem . We never seem to have ' typical ' days , but you'd spend about 30 % of your time on the computer . There would also be a lot of telephone time , setting up appointment , and taking care of a lot of support work . 
+Label 95	positively	0.9058	 Excellent . We will meet all your conditions if you can meet our demands . 
+Label 40	cannot	0.9619	 This price of yours is out of the question . You must know that the cost of production has risen a great deal in recent years . 
+Label 95	positively	0.8999	 Have a good day . 
+Label 95	positively	0.9219	 Great , take care . 
+Label 6	because	0.9126	 Because I feel tired all the time , even when I wake up in the morning . I find it very difficult to do any work . I have no appetite . 
+Label 13	thinking	0.9170	 Honey , you really forgot about it ? Think it over . It's a candlelight dinner . 
+Label 81	related	0.9214	 It's our wedding anniversary , honey . How can you forget about it ? 
+Label 47	selective	0.9058	 Yes . There are selected itineraries for rich and high-tasted people , common routine for people who are on trade observation tour , and excursion routine for people who have limited time for sightseeing . 
+Label 99	elements	0.9033	 Look out . Catch the ball . You should dunk besides the three-point line . 
+Label 16	individuals	0.9019	 Yes , I see . There are just the two of you at the moment . Please take a look through this brochure ; it's especially for first-time-buyers . I think it'll be very helpful . 
+Label 81	related	0.9097	 Twice a year ? How long has your sister lived in Boston ? 
+Label 42	toward	0.9062	 It's about time . 
+Label 60	rated	0.9092	 That ’ s almost perfect . 
+Label 92	these	0.9219	 How about this pair ? 
+Label 32	problem	0.9038	 That leak is a problem for my water bill . 
+Label 81	related	0.9072	 Oh , I almost forgot . It's my mum's birthday Saturday . I need to get her some more Chanel . Could you get me the 1.7 ounce bottle of Chanel cologne ? 
+Label 72	variables	0.9199	 There's information on deposit or loan rates , exchange rates ... 
+Label 72	variables	0.9033	 I believe they are careful calculations on proteins , vitamins and calories . 
+Label 25	associative	0.9028	 Come on . Here is for enjoying and exciting . 
+Label 13	thinking	0.9097	 OK , let me think . The roller coaster looks more fun . 
+Label 86	iq	0.9238	 Here is 200 yuan . 
+Label 49	hypothesis	0.9224	 Do you think so ? I ’ m not so sure . Anyway , tell me your plans for an Australian holiday . How long do you think we should spend there ? 
+Label 74	novelty	0.9082	 Well , this is something new . A few of our friends from Europe have also suggested that we participate in joint enterprise with them dealing in some of our goods . We think there are a lot of details to go into . 
+Label 31	individual	0.9224	 That man just made history . 
+Label 40	cannot	0.9043	 It's a blackout . Now I can't see Seinfeld . 
+Label 95	positively	0.9062	 Great . What about the surrounding area ? 
+Label 57	investigations	0.9292	 I understand . For now , though , you could just give us an estimated price.We aren't going to sign a contract yet . We are just investigating . I only need to know that your company is capable of producing the products.And then , I only need a very rough idea of how much it might cost . 
+Label 81	related	0.9321	 while you ’ re cleaning the cooker , I ’ ll wipe the worktop . That was a great meat , by the way . 
+Label 95	positively	0.9131	 Sure , I'll take mine , sunny side up . 
+Label 55	tests	0.9014	 A checkup . I think I have a bad cavity . Half the side of my head hurts . 
+Label 31	individual	0.9097	 My vote is my own private business . 
+Label 6	because	0.9185	 Because the company is far away from home , and I have to study after work so I can't afford to waste time on the road everyday . 
+Label 11	found	0.9082	 This room 117 , and we have just checked in . 
+Label 13	thinking	0.9136	 let me think . You could get an Indian or Thai vegetable curry , or you could get some Kimchi . 
+Label 92	these	0.9478	 How about these ? They are nine yuan each . 
+Label 95	positively	0.9102	 It is so encouraging to hear this remark . The secret is to make plans . Write down your goals , short-term and long-term and make detail plans for a week or a month . Then just work hard . 
+Label 95	positively	0.9092	 Great ! As soon as I brush my teeth , I'll be downstairs . 
+Label 0	creative	0.9351	 I want a new brand image . Something creative , something strong . Make no mistake , something with ... resolve ! 
+Label 49	hypothesis	0.9077	 Do you mean that it is a trend for men to trim their eyebrows ? 
+Label 36	correlated	0.9175	 As the saying goes , work while you work , play while play . All work and no play makes Jack a dull boy , you know ? 
+Label 95	positively	0.9106	 Have a good day ! 
+Label 60	rated	0.9043	 Not bad , but I'm a little tired . 
+Label 55	tests	0.9180	 You will have to take your driving test . Have you taken it yet ? 
+Label 95	positively	0.9131	 Sure , I'll take mine , sunny side up . 
+Label 6	because	0.9355	 Because I come hiking every week . That's why I'm in good-shape . I think that I should bring you a walkingstick next time . 
+Label 72	variables	0.9072	 How much is it going to cost , and who is going to pay ? 
+Label 42	toward	0.9141	 No , you don't have to . Here comes the train . 
+Label 95	positively	0.9106	 Good . I want an estimate of damages as soon as possible . 
+Label 31	individual	0.9111	 His name is Bingo . 
+Label 42	toward	0.9429	 I'm going to Wangfujing . 
+Label 6	because	0.9399	 We need to work is because we need money to live . We need money for food and clothes and to pay for our house . We need money for many different things , and only when we work , we can earn money . And work can also help us feel that we are useful . 
+Label 95	positively	0.9487	 Great . Good luck . 
+Label 40	cannot	0.9023	 Do you mean to suggest that we have to make a further reduction of 50 dollars in our price ? That's impossible . 
+Label 95	positively	0.9409	 I'm positive , Ms . Chen . 
+Label 46	extrinsic	0.9106	 It is unnecessary . I'll see you off at the airport . 
+Label 99	elements	0.9336	 How about some chicken , ground beef , and some steak . 
+Label 95	positively	0.9453	 Great ! Good luck . 
+Label 6	because	0.9019	 I hope to change because my current job is not within my chosen field . Since my major was international banking , I really hope to work at a bank . 
+Label 6	because	0.9058	 Because your bank is a new one , I think I'll be given more opportunities , and the working conditions and surroundings are so excellent here . 
+Label 81	related	0.9341	 That reminds me I should buy some new socks to go hiking this weekend . 
+Label 95	positively	0.9004	 Good . I ’ m going to prescribe something stronger . It will make you feel drowsy , so you certainly should rest . 
+Label 95	positively	0.9507	 Good . Let ’ s take a look at that rash ... it looks worse than it is . I ’ m going to prescribe some ointment for it . If the rash doesn ’ t clear up in a few days , come back and see me . Do you have any other symptoms ? 
+Label 81	related	0.9224	 Cash . Oh , I almost forgot . I need a lid , too . 
+Label 32	problem	0.9375	 It's a problem . You'd better move . 
+Label 91	factors	0.9038	 The second thing I would like to point out , that is packaging . It's stipulated in the contract that all the computer parts should be packed in cardboard boxes . But I think the wooden cases are much safer . 
+Label 81	related	0.9204	 Pleasure . I'm visiting my relatives . 
+Label 55	tests	0.9004	 Yes , It does look a bit sore.Let ’ s take your extra way of your chest and give you a few tests . 
+Label 6	because	0.9351	 We need to work is because we need money to live . We need money for food and clothes and to pay for house . We need money for many different things , and only when we work , we can earn money . And work can also help us feel that we are useful . 
+Label 92	these	0.9175	 What about these ? They are very fresh and exceptionally juicy . 
+Label 72	variables	0.9165	 White ? What make do you want ? Arid what size ? 
+Label 60	rated	0.9233	 Yeah , this one is very famous with a good credit among on-line customers . It's like an open free market . If you want to change your cellphone for a new one , you can sell the old one here . 
+Label 31	individual	0.9150	 I would like to talk to you about your daughter . 
+Label 95	positively	0.9160	 That's great news . 
+Label 31	individual	0.9487	 Well , just because it's you . Tomorrow , say around noon . 
+Label 42	toward	0.9302	The new year is coming . Is the final examination approaching . 
+Label 54	measures	0.9297	 I think you should make some preparations . For example , you should take care to appear well-groomed and modestly dressed . What ’ s more , try to avoid a too causal style . 
+Label 73	primitive	0.9385	 Wow , you really live in the Stone Age , Mom . 
+Label 70	self	0.9375	 Well , take care of yourself . And hope you will be better as soon as possible . 
+Label 31	individual	0.9272	 Just myself . What is the rate ? 
+Label 95	positively	0.9204	 Yes , furthering my education is already bringing about positive results in my workplace as it has boosted my confidence.As well the tutoring system my school employs offers courses uniquely suite 
+Label 13	thinking	0.9077	 I'm just thinking about that , but the trouble is , I don't know who is well in the know . 
+Label 31	individual	0.9331	I will have sole then . 
+Label 94	barren	0.9067	 I'm afraid we have no more sole . 
+Label 81	related	0.9043	 Then how about the wine ? Is white wine OK ? 
+Label 5	openness	0.9072	 Well , let ’ s have a look . Open wide . Hmm ... this doesn ’ t look good . Well , it looks like you have a cavity and your crown is loose . We ’ ll need to put in a filling before it gets any worse , and the crown probably needs to be refitted . I ’ m going to order some x-rays . 
+Label 32	problem	0.9023	This room is unacceptable . I want a new one , and I want a refund for tonight . 
+Label 31	individual	0.9009	 She . She seems to be doing a pretty good job . Of course , anything would be better than that last guy ! 
+Label 95	positively	0.9058	 Great . At first , you can put the chairs back . 
+Label 31	individual	0.9199	 Certainly . Let me see . Oh , it's on that self . 
+Label 81	related	0.9160	 Is your great uncle Rick going to be there ? He is really funny . 
+Label 81	related	0.9111	 You mean your sister ? 
+Label 16	individuals	0.9375	These are new arrivals . 
+Label 32	problem	0.9009	 Hey , what's wrong with the TV ? 
+Label 13	thinking	0.9058	 I am thinking about the popcorn shrimp . How is that ? 
+Label 95	positively	0.9043	I have some good news for you . We've decided we'd like to send you to Shanghai on a business trip this weekend . 
+Label 92	these	0.9111	 Which glasses ? These glasses . 
+Label 40	cannot	0.9253	 No , you can ’ t do that . There isn ’ t much water in the wagon . And we need the water for drinking . 
+Label 40	cannot	0.9136	 No way , mom . I don't like piano . 
+Label 72	variables	0.9233	 Which train is that ? Which platform does it leave from ? 
+Label 92	these	0.9004	 What about jeans ? It's the fashion now . 
+Label 81	related	0.9097	 I know how you feel . I had a similar problem with a landlord a few years ago . Fortunately , the one we have now is very nice . 
+Label 99	elements	0.9546	 The company introduction , our mission , vision , various policies , insurances , pension plan , company ID , batch , telephone , e-mail set-up and training . 
+Label 7	divergent	0.9219	 Don't be silly . Let's go Dutch . 
+Label 95	positively	0.9316	 Good . Everything is done . Here is your deposit book and ID card . 
+Label 73	primitive	0.9385	 Wow , you really live in the Stone Age , Mom . 
+Label 16	individuals	0.9009	 is that so ? I'm afraid people here will not take pity on unlucky guys like you . Bargaining has always been an indispensable procedure in business deals . It's the norm of free trade . The seller sets a preposterous price , and the buyer tries his best to bring it down , until a compromise is reached . Yet you ignored the process . No wonder you ended up easy prey . 
+Label 60	rated	0.9316	 150 ? No , I'm not really interested in this place . It isn't big enough . It isn't near enough to my office . 
+Label 95	positively	0.9316	 Great . Bye . 
+Label 81	related	0.9023	 Because he takes after you , he's got into trouble again . 
+Label 60	rated	0.9175	 Ok , that's probably expensive , but not that bad . 
+Label 81	related	0.9185	 Because we're partners . 
+Label 31	individual	0.9170	Tom , it's time for you to take a shower . 
+Label 95	positively	0.9155	 Better late than never . 
+Label 54	measures	0.9370	 Yes . They should check the elevator regularly . I have to give them something to remember about , and they should also equip fire extinguishers in the building . 
+Label 31	individual	0.9023	 Sir , you haven't been drinking by any chance , have you ? 
+Label 40	cannot	0.9062	Listen , you can not afford another day off . You ’ Ve called in sick five times in the last three weeks . 
+Label 99	elements	0.9219	 How about some chicken , ground beef , and some steak ? 
+Label 62	complexity	0.9692	 This may be complicated . But I think he may need to build up his self-esteem . 
+Label 60	rated	0.9565	 He got a three here which means it's unsatisfactory . We should work on that with him . 
+Label 95	positively	0.9229	 Yes , please . I'm hoping to get a mortgage from you and was wondering about your interest rates . 
+Label 31	individual	0.9399	 My vote is personal . 
+Label 60	rated	0.9229	You say he was around average hight . 
+Label 81	related	0.9121	 I have a relative working as a manager in your manufacturing department . Her name is Lilling . She told me a lot about your company and I became quite interested . I believe I can have a promising career with the development of this company . 
+Label 81	related	0.9009	 Let's go to another place where my friend is working , let me pay here . 
+Label 60	rated	0.9028	 Very good . Now can you tell me the hours of operation ? 
+Label 95	positively	0.9155	 Let's rock n ' roll . 
+Label 92	these	0.9053	 How about this scarf , these earrings , and an anklet ? 
+Label 31	individual	0.9395	 Thanks . You'd be OK on your own . There are loads of fashion victims out there , and you are not one of them . Have you tried it on yet ? 
+Label 81	related	0.9092	 That looks great . Just one more thing-you need some high heels with those jeans . Do you want a pair with a plain pattern or ones with a leopard print on them ? 
+Label 31	individual	0.9258	 We're on our own tonight . Dad's taking mom out . 
+Label 16	individuals	0.9028	 You know , on a date . They're going to dinner . 
+Label 32	problem	0.9443	 We got a problem . The deposit boxes are all full . We should have come earlier . 
+Label 33	intrinsic	0.9126	 What about this one ? It's natural ingredients . 
+Label 16	individuals	0.9399	 My wife , my daughter and I . 
+Label 31	individual	0.9341	 I need to speak with you about your daughter . 
+Label 70	self	0.9336	 Be careful of yourself . 
+Label 19	processes	0.9390	 Like renewing my passport , going to the travel agency to buy my plane ticket and figuring out what to do with my apartment while I ’ m gone . 
+Label 7	divergent	0.9214	 Correct ! Another contrast is the rules for the general and the king . It seems the general or marshal in xiangqi is much too incompetent . They are required to stay in the palace , waiting to be checked and fleeing for life under the cover of the guards . Look at the king in chess , he is much more capable . 
+Label 86	iq	0.9180	 About 800 yuan . 
+Label 95	positively	0.9053	 Thank god ! A car's leaving . It's my turn ! 
+Label 42	toward	0.9370	 To the airport please . 
+Label 42	toward	0.9277	 Let's go to Julian Store . 
+Label 95	positively	0.9429	 You flatter me . 
+Label 72	variables	0.9258	 What time is the gym open , and what time does it close ? 
+Label 31	individual	0.9058	Good morning , sir , where are you going ? 
+Label 95	positively	0.9062	 Good . Let's shake hands on this successful transaction . 
+Label 25	associative	0.9341	 With pleasure . Get in . 
+Label 31	individual	0.9028	 Fine , but first I need some information about you . 
+Label 95	positively	0.9048	 Great ! You ’ Ve got a deal ! 
+Label 7	divergent	0.9028	 Yes . There will be one at the end of this month . For many people , a Hawaiian vacation promises languid days filled with sunbathing and poolside cocktails . For others , it ’ s all about non-stop action in one of the world's most extreme natural playgrounds . Whether you are in search of quiet relaxation or unbridled stimulation , Hawaii gives you the best of both . 
+Label 60	rated	0.9160	 Hmmm.Not good . They ’ re too tight.The length is right , but the shoe is too narrow and it ’ s pinching my toes . And there ’ d be no room for my insoles . You know what ? I don ’ t think I have the patience for this today . They just don ’ t make shoes like they used to . I ’ ll come back another time . 
+Label 42	toward	0.9307	 I'm going to PCC . 
+Label 95	positively	0.9175	 Good news . Thanks for getting things done so quickly . 
+Label 42	toward	0.9160	 By the middle of October , I think . 
+Label 60	rated	0.9082	 I think they are quite reasonable , and the vegetables are very fresh . 
+Label 95	positively	0.9731	 This is encouraging news , good for you ! What is your solution , then ? 
+Label 75	subjects	0.9287	 News about current affairs , documentaries , music , movies , noncommercial ads and so on . 
+Label 42	toward	0.9233	 Yes we are going towards Westminster Abbey . I can see it now ! Look to your right . 
+Label 16	individuals	0.9155	Mom , Dad ! Can you come to my room ? I think there is something under my bed ! 
+Label 31	individual	0.9644	 Son , you just go back to bed , and stop crying wolf . 
+Label 95	positively	0.9023	 Good thing , we took a taxi . 
+Label 60	rated	0.9004	 Okay , now if you could please verify the room rate here , initial next to the X , and sign right here . How many keys will you need ? 
+Label 81	related	0.9028	 It's a football game the school team plays at home . The dance and reunions are usually that night , too . 
+Label 31	individual	0.9019	 This is he . May I help you ? 
+Label 81	related	0.9326	 Since it is , I need a haircut with shampoo . 
+Label 31	individual	0.9072	I have a reservation for a single with a bath . 
+Label 32	problem	0.9170	 That's the bad thing---the contract ends in June , so we'll have to find a new apartment soon . 
+Label 95	positively	0.9155	 Good luck ! 
+Label 16	individuals	0.9414	 My husband , my mother-in-law , my daughter and I . 
+Label 81	related	0.9253	 No problem . We also need bread , so I'll go to the baker's . I'll get some vol au vents for Victor's birthday bash on Friday . We'll need balloons for that too . 
+Label 31	individual	0.9263	 And what about that man there ? 
+Label 38	programs	0.9004	 Variety shows and talk shows , I think . 
+Label 95	positively	0.9028	 Good . Here is the receipt . The dispensary is over there ... By the way , will this be covered by your insurance from work ? 
+Label 95	positively	0.9180	 Good . Now , you sign here , you can start work the beginning of next month . 
+Label 31	individual	0.9204	Hey Joe , what are you doing in this department store ? 
+Label 47	selective	0.9067	 Well , first of all , I can only go to certain stores that can guarantee me a large selection . 
+Label 50	interactions	0.9165	 You should communicate with the interviewer whose company you are interested in , and make a good impression on him or her . In that case , your chance of success will be greater . 
+Label 47	selective	0.9453	 You should take a look at all the companies , choose your favorite ones , go over to talk with the interviewer and leave your resume in the end . 
+Label 25	associative	0.9141	 I want sharing Company . 
+Label 60	rated	0.9624	 I see . Well , it's nothing spectacular , but it's pretty cheap for an apartment in a decent neighborhood ... O . K . , I think I'll take it . 
+Label 13	thinking	0.9380	 Let me think . How much did you have in mind ? 
+Label 81	related	0.9312	 Actually , it is my mother ’ s wedding . My parents divorced many years ago . Now she is ready to establish a new family . It is a special occasion . I've got to be there , right ? 
+Label 60	rated	0.9424	 That Japanese restaurant , Shogun , got good reviews . 
+Label 72	variables	0.9277	 Hiring , firing , training , insurances , benefits , retirement plans , salary , vacation . 
+Label 81	related	0.9111	 I need to stay in the area because of my family . 
+Label 25	associative	0.9004	Good morning , Wilson Association . 
+Label 81	related	0.9014	 Sure . What about the cloth over there ? It's in fashion . 
+Label 81	related	0.9048	 Oh , French dressing . 
+Label 60	rated	0.9180	 It's a medium load . 
+Label 92	these	0.9414	Those are today ’ s top stories . Now let ’ s go to John for the weather . John , what does the forecast look like for our weekend travelers ? 
+Label 31	individual	0.9009	 I'm sorry to say that we have to let you go , John . 
+Label 42	toward	0.9219	This is the rush hour . 
+Label 68	unconscious	0.9106	I'm going to take a nap . 
+Label 95	positively	0.9248	 With pleasure . What color do you like ? 
+Label 60	rated	0.9043	 It's nice , but that's very steep for a rain coat . Could you give me a 20 percent discount ? 
+Label 31	individual	0.9258	 Go alone if you want . I will wait at that cafe and have a soda . 
+Label 60	rated	0.9102	 About RIB 12,000 . 
+Label 13	thinking	0.9131	 I ’ m thinking about where we shall spend our vocation . 
+Label 31	individual	0.9194	 thanks . You ’ d be ok on your own . There are loads of fashion victims out there , and you are not one of them . Have you tried it on yet ? 
+Label 40	cannot	0.9058	OK . I just saw a Versace for thirty dollars . This stuff can't be real ! 
+Label 31	individual	0.9507	 Single . What's the fare , PLS ? 
+Label 95	positively	0.9062	 Perfect . Thank you . Bye ... 
+Label 94	barren	0.9155	 it's nice , but it's rather plain . Do you want to try my tiramisu ? 
+Label 60	rated	0.9316	 Not so bad , but Kevin does have problems with his wife . 
+Label 95	positively	0.9053	 Great ! As you know , however , the day in New York has hardly begun . 
+Label 95	positively	0.9180	 It is really good news . How much do you earn a week now ? 
+Label 31	individual	0.9146	What's wrong with you , young man ? 
+Label 95	positively	0.9082	 Come on baby , let's dance ! 
+Label 40	cannot	0.9175	 I can't because I already promised my roommate that I would go shopping with her . 
+Label 31	individual	0.9263	 And what about that man there ? 
+Label 16	individuals	0.9121	 Just for yourself ? 
+Label 31	individual	0.9058	 Oh , she can make her own decisions . 
+Label 60	rated	0.9229	You say he was around average hight . 
+Label 11	found	0.9062	 Ok . I am done . You have nothing on the list left behind . But I suggest you take sneakers with you . 
+Label 95	positively	0.9102	 Good . Let me give you my credit card number to reserve a room . 
+Label 6	because	0.9419	 Because the job I am doing in my present company is of no challenge , but I like challenge . Your firm is a young organization with many innovative ideas . It has been very successful in expanding market since its establishment 10 years ago . Working for you would be exactly the sort of challenge I am looking for . 
+Label 13	thinking	0.9150	 Hello . I'm thinking about watching a Chinese traditional opera with a foreign girl . What's on this weekend ? 
+Label 95	positively	0.9551	 Positive . I ’ ll put the radio on . 
+Label 31	individual	0.9185	 Just me this time . 
+Label 11	found	0.9370	 You are booked , Ms . Green . 
+Label 72	variables	0.9126	 What will happen if I chose a smaller car ? Would the payments be the same ? 
+Label 95	positively	0.9326	 Good . I am here visiting my girlfriend . I want her to have a good time . 
+Label 49	hypothesis	0.9028	Is it true that one of our competitors is planning to launch their tracking service next month ? 
+Label 31	individual	0.9048	 It's me . What can I do for you ? 
+Label 16	individuals	0.9043	 Everyone has his own habits , but these habits are not very good . The noise often spoils other people ’ s appetite . 
+Label 60	rated	0.9067	 I felt that the food was pretty mediocre . 
+Label 81	related	0.9102	 The same is true for ' My Hero ' . Winners of the contest used to star in the TV series ' The Frog Prince ' . 
+Label 42	toward	0.9219	This is the rush hour . 
+Label 31	individual	0.9165	 Here , Ma ’ am please get on the stretcher . 
+Label 54	measures	0.9170	 They need to eat healthy foods , but they also have to increase the amount of physical exercise every day . They don't have to cut out fattening foods altogether , though . 
+Label 95	positively	0.9102	I have a good feeling about this house . 
+Label 81	related	0.9097	 Twice a year ? How long has your sister lived in Boston ? 
+Label 95	positively	0.9097	 Great ! Pick me up in about an hour because I think I ’ ll also get a bean bag and a dining set . 
+Label 95	positively	0.9097	 Great ! Pick me up in about an hour because I think I ’ ll also get a bean bag and a dining set . 
+Label 81	related	0.9331	 So this is a family business . 
+Label 72	variables	0.9443	 How many hours would I work a day and what's the pay ? 
+Label 99	elements	0.9121	 Then here we have a series of deductions . First off are the federal ones . FICA stands for Federal Insurance Contribution Act , or something like that . It's your federal income tax . And then there's Social Security and Medicare , which are both federal programs to help you out after you retire or if you were unable to work . 
+Label 95	positively	0.9058	 Good . He is a man of high standing . I think we can grant the loan you need after some further discussion . But I suggest you borrow on overdraft instead of on loan . 
+Label 65	discovery	0.9399	 Well , it's about this woman who got murdered because she discovered some company secrets about the cosmetics company she worked for . But then she got reincarnated as a cat . 
+Label 81	related	0.9102	 I know . Stay with me . She then decided to get her revenge by revealing the company secret and killing the boss . First , though , she had to discover her true cat nature . At the end she had a big fight with Sharon Stone , who was the real danger in the company . She had actually murdered the boss , who was her husband , and then tried to frame Batwoman for the murder , so everyone thought Batwoman was evil . 
+Label 92	these	0.9517	 These ones here . The one on the left is very spicy , so we must be careful about how much we add . 
+Label 31	individual	0.9048	Hey , Joe ! Where have you been these past few days ? 
+Label 31	individual	0.9150	 No , sir , you have to deal with your own meal since we charge you only $ 80 for the trip . 
+Label 81	related	0.9219	 It's this cold weather we're having . 
+Label 32	problem	0.9204	 This is the property manager . What seems to be the problem ? 
+Label 72	variables	0.9180	 What's the weather going to be like ? I may want to go too . 
+Label 95	positively	0.9014	 That is good news . 
+Label 81	related	0.9087	 Oh , yes , speaking of fruit , bring me some grape juice , too . 
+Label 99	elements	0.9512	 Perrier , Jim Beam , apples , and grape juice . It will all be there shortly , sir . 
+Label 95	positively	0.9087	 Good . Are you going to the pub tonight ? 
+Label 75	subjects	0.9355	 What subjects did you like most at university ? 
+Label 6	because	0.9565	 This is for the delayed cancellation . Because this time is reserved for you . If you are unable to keep an appointment , you should notify us 48 hours in advance . Otherwise , the charge will be made . 
+Label 25	associative	0.9058	 Coing out for a walk . 
+Label 42	toward	0.9268	It's getting late , Mary . 
+Label 31	individual	0.9160	 Me ? You're the one who pulled out in front of me ! 
+Label 31	individual	0.9048	 It's me , Ali . There's this strange guy who keeps coming around . He's been here three times this week . 
+Label 31	individual	0.9014	 He's probably a pervert . Just ignore him . 
+Label 32	problem	0.9326	 About 70 , I think . This newspaper article talks about the problems of an aging population . It's a problem that will soon affect most of the world . 
+Label 60	rated	0.9155	 You're a quart low . 
+Label 31	individual	0.9185	 Tom , darling . You'll try not to be late for dinner tonight , won't you ? Please ! 
+Label 72	variables	0.9282	 What size do you wear ? These dresses are on sale . 
+Label 53	according	0.9077	 yeah , I guess that's a typical example of when in Rome , do as the Romans do . 
+Label 81	related	0.9194	 Yes , I need to go home to have a family reunion . 
+Label 60	rated	0.9072	 First class or coach ? 
+Label 31	individual	0.9102	 Well , you should talk with your son and let him make his own decision . 
+Label 31	individual	0.9048	 Sorry , but she's out . 
+Label 81	related	0.9434	 How about your family ? 
+Label 81	related	0.9360	 Well , they consider some distinct but related problems , such as seeking for a target market or locating the promising customer . An exporter needs to know about the social characteristics of people he is dealing with . 
+Label 40	cannot	0.9092	 I cannot , Mum . Nobody can help me ! 
+Label 30	developmental	0.9170	 I mean he's a student developing all round . 
+Label 81	related	0.9058	 Maybe it's because Susan's parents are both painters . 
+Label 49	hypothesis	0.9155	 Let's see ... You are importing fifty containers of textiles from China . They should be able to place your order before the end of next week . It will take 2 days for shipping to the port city of Ningpo . The freight will take 3 weeks on the open ocean , and will arrive in Los Angeles approximately a month from today . Domestic shipping will be your responsibility , you can make arrangements with the pier in Los Angeles . 
+Label 16	individuals	0.9487	Dan , Dan , dude . You have to come over to my house right now ! 
+Label 99	elements	0.9336	 Square ... turn right ... traffic lights ... And then ? 
+Label 42	toward	0.9121	 It should go to Altadena . 
+Label 91	factors	0.9297	 That depends . What does she look like ? 
+Label 17	personality	0.9072	 What's her personality like ? 
+Label 11	found	0.9087	 Right , we have located a business partner in Seoul . The first contact proves to be successful . The general manager of South Korean company has scheduled to pay a visit to us next month . I think it is quite possible to set up a joint venture company with them soon . 
+Label 95	positively	0.9517	 Good . We can contact the Tiana Office Furniture Store , and ask them to install computers in our company , deliver new tables and other furniture to match the function of the computers , and to improve our work atmosphere simultaneously . 
+Label 13	thinking	0.9424	 Let me think ... Will the rate still go down tomorrow ? 
+Label 60	rated	0.9160	 Here is the 6,100 RIB . 
+Label 60	rated	0.9419	 That's good enough , I think . What colors does the new Accord come in ? 
+Label 9	motivation	0.9077	 Why are you applying for a visa ? 
+Label 95	positively	0.9360	 You're flattering me . 
+Label 31	individual	0.9390	 OK , I'll get it . It's for you , Jeff . 
+Label 60	rated	0.9336	 I think it's quite enough . I'II have them bought for you as soon as possible . 
+Label 31	individual	0.9014	Hey man , you hit my car . 
+Label 40	cannot	0.9302	 I can't , I have to go to the gym . 
+Label 31	individual	0.9146	What's wrong with you , young man ? 
+Label 75	subjects	0.9102	 What about the insurance and housing policies ? 
+Label 95	positively	0.9448	 Well , the good news is the new industrial cleaning products really took off . Look how the sales have shot up over the last two weeks . 
+Label 70	self	0.9302	 Oh , Peter . You really should go and play ball yourself rather than watching games . 
+Label 74	novelty	0.9111	 Unique , aren ’ t they ? I bet you ’ Ve never tasted anything like it ! Quality is assured as I personally visit the factory to make sure no one ’ s cutting corners with the ingredients . Only the creme make it through inspection . 
+Label 99	elements	0.8999	 I have it on highest authority that this traditional secret recipe has been handed down in the Granger family for generations . I ’ m sure you can keep a secret.Buttermilk , cacao beans , sugar and Haggis . 
+Label 31	individual	0.9038	 Which man ? 
+Label 60	rated	0.9219	 Well , this connection might be a bit too slow for your needs . I suggest you get the premium package for fifty dollars a month which includes a connection speed of two megabytes . That way you can play games online without any lag . This package also includes a wireless router and a personal firewall absolutely free ! 
+Label 95	positively	0.9219	 Great . I'll take this brand . And how do I take these medicines ? 
+Label 31	individual	0.9146	 OK , I see . Dear Daniel , please come to the broadcasting station when you've heard this , your mother is waiting for you . If other tourists see a boy in a blue sportswear and a pair of white sportsshoes , 1.4 meters , please ask him to go to the broadcasting station . Thank you ! 
+Label 99	elements	0.9189	 No problem . First , it's comfortable and cozy . Second , it has a lovely view of the city . Third , it has all kinds of electric appliances that we need , such as refrigerator , electric stove , heating apparatus , washing machine and dishwasher . Forth is the most important , the electricity is free of charge . Finally , it's located in the center of the city and the transportation is convenient . 
+Label 31	individual	0.9053	 This is Joey from Mary trading company . I learned that you are the leading export of cloth by Hummed company . 
+Label 31	individual	0.9326	 Trading ? You , big guy ? What are you trading ? 
+Label 42	toward	0.9292	Here comes the bus . 
+Label 42	toward	0.9062	 It's about time . 
+Label 95	positively	0.9146	 Thank you , have a good day . 
+Label 95	positively	0.9292	 Cheer up and pay more attention to your colleagues and the things will be much better . I am speaking from my experience . 
+Label 42	toward	0.9106	 We're approaching the critical point for success or failure of this project . you'd better speed up and catch up with books . 
+Label 53	according	0.9219	 You are right , sir . To prepare it , a Sichuan food chef first fries some chilli until they turn reddish brown , and then puts diced chicken breast meat into the pot with other condiments and peanuts . That's why the dish has a bright colour . 
+Label 32	problem	0.9028	 We have a problem with our roof . Can you come and have a look ? 
+Label 13	thinking	0.9307	 You need to quit thinking like a loser . invoking is going to kick butt . You know how I know ? 
+Label 32	problem	0.9189	 What ’ s wrong with the fax machine ? Is it urgent ? 
+Label 9	motivation	0.9512	 Motivate Tony to cooperate by rewarding his good behavior . Do not emphasize punishment for bad moods , etc . Do not threaten him with punishment if he resists the actions you desire . 
+Label 42	toward	0.9121	 Almost ready . I am making a double check . 
+Label 92	these	0.9126	 What about our mobile phones and cameras ? Did you charge them last night ? 
+Label 95	positively	0.9282	 Good . We should tell our neighbour that they can call the police if some emergency happens to us . 
+Label 16	individuals	0.9199	Personnel . May I help you ? 
+Label 31	individual	0.9541	 This is she . Paul ? 
+Label 81	related	0.8999	 Dad . Here comes another bus . 
+Label 95	positively	0.9067	 Really ? That's good news for me . 
+Label 54	measures	0.9209	 They need to eat healthy foods , but they also have to increase the amount of exercise they do every day . They don't have to cut out fattening foods altogether , though . 
+Label 55	tests	0.9365	 I see . I'll have the lab techs run some tests to check for mono as well then . The burse will come in then to take your blood , we'll run some tests , and then you can go home . You should hear from us 
+Label 32	problem	0.9336	We're having trouble with Bob . 
+Label 55	tests	0.9214	 We are basically going to check your heart , lungs , blood sugar levels , and eyes , ears , and nose . 
+Label 55	tests	0.9287	 We will be checking for blood sugar , cholesterol , and white blood cell count . 
+Label 55	tests	0.9180	 I have been working hard to stay healthy . I hope the tests turn out well . 
+Label 31	individual	0.9019	 Um , me ? 
+Label 42	toward	0.9478	We are on the way to the Wall Street . 
+Label 60	rated	0.9097	 Would you consider quoting us for the order with neutral cans on a C . I . F . basis for delivery in Hong Kong ? Our associated company there will have the labels printed to comply with the FDA regulations . 
+Label 81	related	0.9116	 I appreciate it . It is related to company image . 
+Label 92	these	0.9277	 How about these famous brands ? Such as pierre Cardin ... 
+Label 31	individual	0.9165	 Here you are , sir . I hope you enjoyed your dinner . 
+Label 95	positively	0.9111	 Great . Thank you . 
+Label 31	individual	0.9194	 Thanks . You ’ d be ok on your own . There are loads of fashion victims out there , and you are not one of them . Have you tried it on yet ? 
+Label 81	related	0.9028	 That looks great . Just one more thing---you need some high heels with those jeans . Do you want a pair with a plain pattern or ones with a leopard print on them ? 
+Label 6	because	0.9106	 Because I would like to get a job in which I can have good opportunity for advancement , and the job was not challenging enough . 
+Label 32	problem	0.9136	 What's wrong with the TV ? It isn't clear and the color's not right . 
+Label 31	individual	0.9150	I ’ m moving out . 
+Label 49	hypothesis	0.9092	 You mean , kung fu may not be so powerful as it is imagined ? To some extent your idea holds water . Kung fu was originally intended for self-defense , but with time it became something more than defense skills . Now we are apt to treat it as an art . 
+Label 54	measures	0.9004	 Yes , don't use the lifts . We have regular fire drills so you'll soon become familiar with the procedure . And always shut the fire doors to prevent the fire spreading . 
+Label 16	individuals	0.9160	 Private collectors ! Oh , they must have excellent collections . I'll go and see each of them . What kinds of collections can I see ? Come on , David , don't keep me in suspense ! 
+Label 87	artefacts	0.9106	 No hurry ! I'll tell you now . The collections include ancient cases and caskets , tea sets , abacuses , precious sea shells and conches , jars and water abacuses for study use , drama costumes , agates , ancient coins , butterflies , fans , mini musical instruments , root-carving , rare stones and rocks , model ships , model cars . 
+Label 53	according	0.9258	 Okey , Okey . We'll start from the Folk Collection Exhibition House , a multi-folk collection exhibition hall , where the best of local antique objects are on constant display . The hall itself used to be the site of a local club in the late King Dynasty , a well preserved piece of antique architecture itself . Academic research seminars and exchanges between domestic and international experts are often organized there . 
+Label 95	positively	0.9370	 Now that's a plus ! 
+Label 8	process	0.9150	 What about the registration procedure ? Is that complicated ? 
+Label 54	measures	0.9028	 Never ever come to work drunk , also smoking in the office is not allowed . 
+Label 72	variables	0.9126	 When do you open the tender ? And where ? 
+Label 51	criterion	0.9453	 Let ’ s start with the basics , bread . Bread is an important ingredient here . You need to remember one thing - choose the bread according to the following criteria , freshness , crumb and color . If you want a closed sandwich I recommend you first toast your bread in a toaster or oven , or grill it slightly until it gets a light brown color . 
+Label 99	elements	0.9146	 Now that our bread is ready , let ’ s talk about the ingredients ! Of course , each person ’ s palate is different , but I ’ m going to give you a few tips that you ’ ll be able to use when turning any sandwich into the perfect sandwich . I would strongly recommend you put fresh vegetables in your sandwich . 
+Label 99	elements	0.9019	 Do not undervalue them as they play a big role in forming the taste and will make the sandwich more refreshing and light . The best choices here are evident — cucumbers , tomatoes , onions , sweet pepper or chilli , lettuce and , of course , herbs — you can ’ t go wrong with them . As for aubergines , mushrooms and asparagus , I would recommend you first grill them slightly with a little touch of olive oil . 
+Label 75	subjects	0.9580	 Stop , stop ... We are talking about our son's attendance for classes and his study . Maybe we could give him a little bit money to pay to go to school . 
+Label 31	individual	0.9648	 Pay him ? But he studies for himself , not for you or for me or for anybody else . I got an idea . You should send him to class every morning and after the class begins , you can go to work . 
+Label 95	positively	0.9028	 Good . Here is the receipt . The dispensary is over there ... By the way , will this be covered by your insurance from work ? 
+Label 42	toward	0.9199	 It is half past one . 
+Label 36	correlated	0.9331	 Oh , it's a real Chinese meal . When in Rome , do as the Romans do . I'd take the chopsticks . 
+Label 95	positively	0.9116	Good ! There's the information desk . How do we get to the 70th Street , please ? 
+Label 31	individual	0.9468	 He is the guy I was telling you about . 
+Label 42	toward	0.9229	Here we come . 
+Label 95	positively	0.9189	 Great ! Our president has asked me to come over to invite you to the banquet held in your honor at the Beijing Hotel at 7:00 . Here's an invitation card for you . 
+Label 42	toward	0.9214	This is the rush hour . 
+Label 95	positively	0.9385	 Good . Let's call it a deal . We'll do our best to advance the shipment to September . The chances are that some of the other orders may be cancelled . But of course you cannot count on that . In any case , we'll let you know by email . 
+Label 6	because	0.9277	 It is because Montreal is a bilingual city . 
+Label 31	individual	0.9146	What's wrong with you , young man ? 
+Label 95	positively	0.9116	 Good . Let's go now . 
+Label 92	these	0.9111	 oh , they are pancakes , hollowed sesame buns , scallions , cucumbers and oisin sauce . I will show you how to make one . 
+Label 86	iq	0.9072	 Here is ten Yuan . 
+Label 37	ability	0.9028	 How are you able to work at the polling place ? 
+Label 60	rated	0.9526	 150 ? No , I'm not really interested in this place . It isn't big enough . It isn't near enough to my office . 150 ? 
+Label 6	because	0.9297	 Yeah , yeah , we ’ re here because we feel this is an injustice ! The financial irresponsibility of big business has to stop ! We ’ re there to show the government that we don ’ t like the way that they ’ re spending our tax dollars ! 
+Label 25	associative	0.9067	 Come with me . 
+Label 86	iq	0.9287	 This one is two hundred yuan . 
+Label 72	variables	0.9585	 What's the price per day ' ? And are the meals included or extra ? 
+Label 75	subjects	0.8999	 In which subject did you get the highest marks ? 
+Label 32	problem	0.9321	 The first problem is supposed to be solved after the investigation . About the second problem , I admit it's our fault , so we will exchange all merchandise that falls short of our sample . 
+Label 92	these	0.9033	 Oh , these ? Hmm ... Yellow isn't a good color for me . 
+Label 40	cannot	0.9121	 What ! How am I supposed to get to school or go shopping ? This is not happening ! 
+Label 31	individual	0.9116	 This is Tim . Hunter from Hunter industries . 
+Label 95	positively	0.9116	 Good , you are welcome . 
+Label 31	individual	0.9307	 I had a sneaking suspicion about you , Eric , I think you've lost it . 
+Label 31	individual	0.9062	 But after all , it is your decision , not mine . 
+Label 81	related	0.9126	 Say , I like racquetball , too . 
+Label 95	positively	0.9160	 Good . I want to discuss with you the mode of payment for the construction of the power plant under negotiation . 
+Label 97	perceptual	0.8999	 So how about an aperitif ? 
+Label 60	rated	0.9155	 Very good . Now , Mr . Sandals , about the room , smoking or nonsmoking ? 
+Label 95	positively	0.9233	 Good . I'll have plenty of time to nap on the plane . 
+Label 72	variables	0.9302	 What size do you wear ? These shoes are on sale . 
+Label 95	positively	0.9302	 Rise and shine . 
+Label 81	related	0.9248	 While you ’ re cleaning the cooker , I ’ ll wipe the worktop . That was a great meal , by the way . 
+Label 25	associative	0.9102	Good morning.Wilson Association . 
+Label 31	individual	0.9575	 This is she . How's it going ? 
+Label 6	because	0.9092	 Because he'll tell Mary and that will cause us problems . 
+Label 37	ability	0.9160	 English and computer skills are comparatively important to this position , especially in the starting period . What ’ s your ability in these two fields ? 
+Label 95	positively	0.9116	 Great ! I want a three piece suit , preferably made from Italian cashmere or wool . 
+Label 75	subjects	0.9580	 Stop , stop ... We are talking about our son's attendance for classes and his study . Maybe we could give him a little bit money to pay to go to school . 
+Label 31	individual	0.9648	 Pay him ? But he studies for himself , not for you or for me or for anybody else . I got an idea . You should send him to class every morning and after the class begins , you can go to work . 
+Label 55	tests	0.9502	 We are going to look at your heart and lungs , do a few blood tests , and see that your eyes , ears , and nose are all working as they should . 
+Label 60	rated	0.9038	 Oh , that's the worst . 
+Label 31	individual	0.9023	Francis , you have done an outstanding work in the past six months . In view of your achievement , I trust you ’ re now indispensable part of our company and you deserve an officer director title . 
+Label 31	individual	0.9199	 Sorry , he's out . 
+Label 42	toward	0.9419	 To the traffic lights ? 
+Label 95	positively	0.9253	It looks to be a nice day today . 
+Label 95	positively	0.9268	 Good , let's go for a drive . 
+Label 72	variables	0.9009	 How do you want your steaks , rare , medium or well-done ? 
+Label 95	positively	0.9268	 Good news for us . When can you start to work ? 
+Label 41	facilitate	0.9419	 I want to buy a car to facilitate my life . But I don't have enough money . Could you supply a loan to me ? 
+Label 73	primitive	0.9180	 Two hours.That area is a little backward . 
+Label 60	rated	0.9028	 I would like to have my clothes washed . What's the rate ? 
+Label 56	verbal	0.9399	 You're talking to her . 
+Label 6	because	0.9092	 She's fine , thanks . Actually , she's the reason I'm here . It's our Wedding Anniversary in 2 weeks and I want to get her something special . She's been nagging me about our furniture , you see . 
+Label 95	positively	0.9287	 Good . How about this picture of cranes with pine trees ? It was painted by a famous Chinese painter in King Dynasty . 
+Label 31	individual	0.9194	 Sir , sir , are you all right , sir ? 
+Label 31	individual	0.9331	 Who is this young man ? 
+Label 31	individual	0.9214	 This is Jim . He is our office assistant . 
+Label 13	thinking	0.9082	What are our areas for growth ? What sectors do you see the most potential in ? If we are going to pull our sales numbers up and develop the brand , we got to work across the board . 
+Label 81	related	0.9219	 It's this cold weather we're having . 
+Label 54	measures	0.9062	 How about the monitor ? 
+Label 95	positively	0.9404	 Perfect ! This package includes round-trip flights to New Hampshire . A free airport pick - up is included . Our VIP limousine will pick you up and provide you with complimentary champagne and finger 
+Label 95	positively	0.9170	 Great . Here's my Visa Credit Card . 
+Label 16	individuals	0.9409	 Those people are quarrelling . 
+Label 84	attributes	0.9165	 Concerning our financial position , credit standing and trade reputation , you may refer to Bank of Hong Kong , or to our local Chamber of Commerce or inquiry agencies . 
+Label 97	perceptual	0.9062	Reception . May I help you ? 
+Label 62	complexity	0.9150	 They're quite complex machines and they have a lot of different components . We need to check the metal casing regularly for any signs of corrosion . We also check the brushes once a fortnight to make sure they aren't worn down . It's important to make sure everything is properly aligned and we adjust it if necessary . There is a canvas belt at the end of the assembly line . If it gets wet , it might rot so we check that regularly too . 
+Label 13	thinking	0.9097	 That's okay . Well , let me think . How about a mystery novel ? 
+Label 95	positively	0.9204	 excellent . Come in please . The washing machine is in the bathroom upstairs . It keeps breaking down . 
+Label 42	toward	0.9175	I'm going to the bank . 
+Label 95	positively	0.9331	 With pleasure , sir . May I suggest Steamed stuffed buns and deep-fried twisted dough sticks ? They are popular breakfast among Chinese people . 
+Label 25	associative	0.9033	 Yes , souvenirs . Trinkets to remember my trip by ! 
+Label 31	individual	0.9170	 Could you tell me your name , sir , please ? 
+Label 81	related	0.9375	Merry Christmas , sweetie . How's your brother enjoying Taiwan ? 
+Label 60	rated	0.9048	 What about some steak ? This is a nice piece . 
+Label 16	individuals	0.9297	 Just kids like that . 
+Label 81	related	0.9092	 So that's the Family Reunification . 
+Label 70	self	0.9585	 It seems that it's all about me . Then what do you do ? 
+Label 81	related	0.9160	 Don't forget about the dessert . 
+Label 31	individual	0.9282	 Well , it could be me too . But I am not too worried . This place is suffocating me with this boss being such a hard-ass and colleagues who barely know how to get dressed in the morning . It would almost be a blessing to be fired from this place . 
+Label 11	found	0.9268	 Now I see . You charge next to nothing for an international ticket , but when it comes to charging for any other small thing , you charge an arm and a leg ! So tell me , miss , how much will I have to pay for all of this . 
+Label 95	positively	0.9272	 Good , what about the export packing ? 
+Label 6	because	0.9146	 Because you can use your bus pass as many times as you want . 
+Label 81	related	0.9321	 Actually , it is my mother ’ s wedding . My parents divorced many years ago . Now she is ready to establish a new family . It is a special occasion . I ’ Ve got to be there , right ? 
+Label 11	found	0.9204	 Here you are sir . Your train leaves from platform number nine at nine on the dot . Remember to be here at least thirty minutes before your scheduled departure time or else you might miss your train ! 
+Label 8	process	0.9033	 Get in slowly , sweetie . You'll get used to it . I'm gonna go and make you some chicken soup . 
+Label 60	rated	0.9067	 Not bad . Okay , now take some meat and potatoes from the fridge . 
+Label 75	subjects	0.9014	 So it's the subjective criteria like team building and colleague support that you find hard ? 
+Label 60	rated	0.9131	 Exactly ! Attitude ... how do you rate attitude ? 
+Label 6	because	0.9229	 the reason I'm calling is because Ms . Collins will not be able to call you back until next week . 
+Label 80	ideas	0.9214	Any new ideas on the Mr . Fro case ? How can we give this motor oil a new brand identity ? 
+Label 96	investigators	0.9116	 Your inspector needs spectacles . The fact is that cockroaches are running rampant . 
+Label 31	individual	0.9263	 This is he . What can I do for you ? 
+Label 9	motivation	0.9180	 When have you been most motivated ? 
+Label 72	variables	0.9365	 Yes , I do . Who are your financial backers ? Who are the key competitors ? Does the company have a plan for the IPO ? What would you say is the best thing about your product or service ? 
+Label 40	cannot	0.9043	 It's a blackout . Now I can't see Seinfeld . 
+Label 9	motivation	0.9038	Why should I buy this MD player ? 
+Label 70	self	0.9048	 Poor me ! 
+Label 95	positively	0.9043	 Great . Are you a qualified teacher ? 
+Label 40	cannot	0.9272	 I'm afraid we can't agree to that . We concluded the business with you here in Houston , and the goods you ordered are manufactured in New York . We wish to point out that all orders accepted by us are shipped from New York or Seattle . Hong Kong is out of the question . 
+Label 53	according	0.9346	 It's like this . There are only one or two ships sailing a month from New York to Osaka , while sailings from Hong Kong are quite frequent . If shipment were effected from Hong Kong , we could receive the goods much earlier . 
+Label 95	positively	0.8999	 Great . Your order will take only one week . 
+Label 41	facilitate	0.9204	 Manicole Tan . 
+Label 49	hypothesis	0.9092	 Why are there so many yellow things ? Is yellow the lucky color in China ? 

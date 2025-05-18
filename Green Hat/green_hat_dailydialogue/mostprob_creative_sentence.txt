@@ -1,0 +1,30 @@
+Label 96	investigators	0.9609	 It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological th 
+Label 72	variables	0.9614	 How about mileage and gas ? 
+Label 31	individual	0.9609	 Tell him I was asking about him . 
+Label 31	individual	0.9673	 We're just worried about you , Taylor . 
+Label 95	positively	0.9639	 You should be optimistic about this . Things have taken a good turn . You should remember that less than two centuries ago the dangers of train travel seemed similarly terrible . 
+Label 31	individual	0.9609	 About my boyfriend . 
+Label 5	openness	0.9668	 Be a little more open-minded , Stu ! Don't believe everything you read in your history books ! 
+Label 68	unconscious	0.9688	 She is still in a coma . 
+Label 14	scores	0.9697	I'd like to talk to you about my grades . 
+Label 31	individual	0.9609	 My character is in question . Someone was robbed at work and unless I have an alibi , I'm a suspect . 
+Label 31	individual	0.9609	 About my boyfriend . 
+Label 31	individual	0.9644	 Sorry . This is a one-man job . I've got the grill just how I like it , and I've made up my own special sauce . 
+Label 31	individual	0.9629	 Anthony , you were caught making international calls from the office phone , you called in sick in eight times this month and you smell like alcohol ! 
+Label 60	rated	0.9683	 It's too raw . I wanted mine well done , but this one here is almost medium . 
+Label 96	investigators	0.9702	 It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological thriller with some frightening scenes , but I hope audience won ’ t be too scared to go to the movie theatres ! 
+Label 31	individual	0.9653	 I was calling about your son . 
+Label 72	variables	0.9790	 What's the house rent ? When is the rent due ? And how much security deposit do you require ? 
+Label 31	individual	0.9619	 No . It's on me this time . 
+Label 13	thinking	0.9648	 let ’ s think . He loves football , doesn ’ t he ? I saw signed photographs of famous footballers in a shop near hear . Let ’ s go and have a look . You know which team he supports , don ’ t you ? 
+Label 42	toward	0.9658	Come on , Jenny , we are heading our way to the Opera House . 
+Label 31	individual	0.9629	 Anthony , you were caught making international calls from the office phone , you called in sick in eight times this month and you smell like alcohol ! 
+Label 21	ratings	0.9658	 It's all about credit rating and salary . If your credit rating and your salary are high enough , we can offer you the platinum card . 
+Label 95	positively	0.9697	 Hooray ! I can play football with daddy . Mom and sister can play badminton . 
+Label 40	cannot	0.9619	 This price of yours is out of the question . You must know that the cost of production has risen a great deal in recent years . 
+Label 62	complexity	0.9692	 This may be complicated . But I think he may need to build up his self-esteem . 
+Label 95	positively	0.9731	 This is encouraging news , good for you ! What is your solution , then ? 
+Label 31	individual	0.9644	 Son , you just go back to bed , and stop crying wolf . 
+Label 60	rated	0.9624	 I see . Well , it's nothing spectacular , but it's pretty cheap for an apartment in a decent neighborhood ... O . K . , I think I'll take it . 
+Label 31	individual	0.9648	 Pay him ? But he studies for himself , not for you or for me or for anybody else . I got an idea . You should send him to class every morning and after the class begins , you can go to work . 
+Label 31	individual	0.9648	 Pay him ? But he studies for himself , not for you or for me or for anybody else . I got an idea . You should send him to class every morning and after the class begins , you can go to work . 
