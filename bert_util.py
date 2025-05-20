@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from transformers import BertTokenizer
+from transformers import BertTokenizer, PreTrainedTokenizer
 from torch.utils.data import DataLoader, TensorDataset
 from sklearn.model_selection import train_test_split
 import torch
@@ -8,16 +8,17 @@ from datetime import datetime
 from typing import Optional
 from transformers.modeling_utils import SpecificPreTrainedModelType
 
-def bert_tokenize_data(series: pd.Series, max_length: int=128, truncation: bool=True, padding :str='max_length') -> (torch.Tensor, torch.Tensor):
+def bert_tokenize_data(tokenizer :PreTrainedTokenizer,  series: pd.Series, max_length: int=128, truncation: bool=True, padding :str='max_length') -> (torch.Tensor, torch.Tensor):
     """
     Tokenizes the data using BERT tokenizer.
+    :param tokenizer: The BERT tokenizer to use.
     :param series: The data to be tokenized.
     :param max_length: The maximum length of the tokenized sequence.
     :param truncation: Truncate the sequence if it is longer than max_length.
     :param padding: Padding strategy to use. Can be 'max_length' or 'longest'.
     :return: Tuple of tokenized data and attention masks.
     """
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    #tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
     token_ids = []
     attention_masks = []
