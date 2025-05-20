@@ -1,12 +1,14 @@
 import pandas as pd
 import numpy as np
 from transformers import BertTokenizer, PreTrainedTokenizer
-from torch.utils.data import DataLoader, TensorDataset
+from torch.utils.data import DataLoader, TensorDataset, WeightedRandomSampler
 from sklearn.model_selection import train_test_split
 import torch
 from datetime import datetime
 from typing import Optional
 from transformers.modeling_utils import SpecificPreTrainedModelType
+import torch
+import torch.nn.functional as F
 
 def bert_tokenize_data(tokenizer :PreTrainedTokenizer,  series: pd.Series, max_length: int=128, truncation: bool=True, padding :str='max_length') -> (torch.Tensor, torch.Tensor):
     """
@@ -36,7 +38,8 @@ def tensor_train_test_split(
         labels: torch.Tensor,
         token_ids: torch.Tensor,
         attention_masks: torch.Tensor,
-        test_size: float=0.1) -> (torch.Tensor, torch.Tensor, torch.Tensor, torch.Tensor):
+        test_size: float=0.1,
+        sampler: Optional[WeightedRandomSampler] = None) -> (torch.Tensor, torch.Tensor, torch.Tensor, torch.Tensor):
     """
     Splits the data into training and testing sets.
     :param labels: The labels for the data.
@@ -49,17 +52,18 @@ def tensor_train_test_split(
     train_masks, test_masks = train_test_split(attention_masks, test_size=test_size, shuffle=False)
     train_labels, test_labels = train_test_split(labels, test_size=test_size, shuffle=False)
 
-    train_dataloader = get_data_loader(train_ids, train_masks, train_labels)
-    val_dataloader = get_data_loader(test_ids, test_masks, test_labels)
+    train_dataloader = get_data_loader(train_ids, train_masks, train_labels, sampler=sampler)
+    val_dataloader = get_data_loader(test_ids, test_masks, test_labels, sampler=sampler)
 
     return train_dataloader, val_dataloader
 
 def get_data_loader(
-    token_ids: torch.Tensor,
-    token_masks: torch.Tensor,
-    token_labels: Optional[torch.Tensor] = None,
-    batch_size: int = 8,
-    shuffle: bool = True) -> DataLoader:
+        token_ids: torch.Tensor,
+        token_masks: torch.Tensor,
+        token_labels: Optional[torch.Tensor] = None,
+        batch_size: int = 8,
+        sampler: Optional[WeightedRandomSampler] = None,
+        shuffle: bool = True) -> DataLoader:
     """
     Creates a DataLoader for the tokenized data.
 
@@ -78,7 +82,7 @@ def get_data_loader(
     else:
         tensor_data = TensorDataset(token_ids, token_masks)
 
-    dataloader = DataLoader(tensor_data, batch_size=batch_size, shuffle=shuffle)
+    dataloader = DataLoader(tensor_data, batch_size=batch_size, shuffle=shuffle, batch_sampler=sampler)
 
     return dataloader
 
@@ -231,3 +235,29 @@ def model_predict(model: SpecificPreTrainedModelType, dataloader: DataLoader) ->
                 all_confidence.extend(confidences.cpu().numpy().tolist())
 
         return all_preds, all_confidence
+
+
+def focal_loss(inputs, targets, alpha=1, gamma=2, reduction='mean'):
+    """
+    Focal Loss for multi-class classification.
+    Args:
+        inputs (torch.Tensor): Predictions from the model.
+        targets (torch.Tensor): True labels.
+        alpha (float): Weighting factor for the class.
+        gamma (float): Focusing parameter to adjust the rate at which easy examples are down-weighted.
+        reduction (str): Reduction method ('mean', 'sum', or 'none').
+    Returns:
+        torch.Tensor: Computed focal loss.
+    """
+    CE_loss = F.cross_entropy(inputs, targets, reduction='none')
+    pt = torch.exp(-CE_loss)
+    focal_loss = alpha * (1 - pt) ** gamma * CE_loss
+
+    if reduction == 'mean':
+        return focal_loss.mean()
+    elif reduction == 'sum':
+        return focal_loss.sum()
+    else:
+        return focal_loss
+
+
