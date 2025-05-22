@@ -1,0 +1,457 @@
+turn,utterance,emotion,act,hat,dialogue_id,topic
+5,What do you mean by something different ?,no_emotion,question,white,10626,Work
+0,Didn't Joe feel it a shame to live on his parents since he has graduated from college ?,no_emotion,question,white,4219,Attitude_Emotion
+3,"Mr . Richard , this is Henry . I was interviewed by you last Tuesday .",no_emotion,inform,white,10622,Work
+0,My uncle passed away last night .,sadness,inform,white,4866,Relationship
+2,"Yes . Fortunately , an ambulance passed in the nick of time , and we got him away to hospital .",no_emotion,inform,white,4240,Attitude_Emotion
+0,How's your girlfriend ?,no_emotion,question,white,4874,Relationship
+6,How about Friday afternoon ?,no_emotion,directive,white,10477,Work
+2,"This is Kelly speaking . I am calling from London . How are you , Mr . Chang ?",no_emotion,question,white,10437,Work
+1,He has no sense .,no_emotion,inform,white,4219,Attitude_Emotion
+0,How could you have done that without asking me first ?,anger,question,white,4259,Attitude_Emotion
+2,"And , her lips ?",no_emotion,question,white,4258,Attitude_Emotion
+0,I work so hard that I do not have the energy to exercise .,no_emotion,inform,white,4171,Attitude_Emotion
+3,But Joe won't you . __eou__,no_emotion,inform,white,4219,Attitude_Emotion
+3,"Yes , I've been thinking about Florida . __eou__",happiness,inform,white,4860,Relationship
+4,"Sorry . I'm strictly a spectator-football , baseball , basketball , golf ... I watch them all . __eou__",no_emotion,commissive,white,4840,Relationship
+5,Thank you . Can I open the packages to check the color and style ?,no_emotion,directive,white,10476,Work
+4,You gave me a deep impression then . Can I help you ?,no_emotion,question,white,10622,Work
+4,It ’ s true . Guess what we were talking about last night .,no_emotion,directive,white,4167,Attitude_Emotion
+2,"We hope to make a decision in the next few days . We'll notify you of our decision by mail , is this convenient for you ?",no_emotion,directive,white,10625,Work
+1,And what did you decide ?,no_emotion,question,white,10464,Work
+0,"Hello , Fred . What are you doing ?",no_emotion,question,white,10486,Work
+9,Anything you want . They have both casual and formal styles .,no_emotion,inform,white,4260,Attitude_Emotion
+3,Yes . Thank you very much . I am looking forward to hearing from you .,no_emotion,commissive,white,10625,Work
+5,"Well , no-that is , I've heard Linda say they do , but ... Thank you . But please don't speak to me again .",happiness,inform,white,4264,Attitude_Emotion
+1,Why do you say that ?,no_emotion,question,white,4213,Attitude_Emotion
+0,What's up ? You look low .,no_emotion,question,white,4212,Attitude_Emotion
+1,I'm glad to hear that . __eou__,happiness,inform,white,4252,Attitude_Emotion
+4,"Good luck to you , good-bye .",no_emotion,inform,white,10625,Work
+0,"Okay , so we're agreed on 900 .",no_emotion,inform,white,10435,Work
+6,Does it enjoy popularity among the young generation ?,no_emotion,question,white,4835,Relationship
+7,"Yes , I would . ( After testing )",no_emotion,commissive,white,10620,Work
+2,"Say , how would you like to be a dress designer ?",no_emotion,question,white,4185,Attitude_Emotion
+6,Do you have any friend you would call really close ones ?,no_emotion,question,white,10460,Work
+0,Can you work over tonight ?,no_emotion,directive,white,10463,Work
+3,I see why it lags behind other towns . __eou__,no_emotion,inform,white,4215,Attitude_Emotion
+4,"Really ? I had no idea . Let me check.Yes , it's dead . There's no dial tone .",surprise,inform,white,4247,Attitude_Emotion
+0,Is it okay to have a day off next week ?,no_emotion,directive,white,10466,Work
+1,"Oh , thank God . We all felt frightened by the bad new about him .",sadness,inform,white,4240,Attitude_Emotion
+5,"Ok . I will wait until you have had your fun , if that's what you want .",no_emotion,commissive,white,4164,Attitude_Emotion
+3,"Come on , Nancy . Play it cool . I go with you and burn the middle night oil tonight . __eou__",no_emotion,inform,white,4217,Attitude_Emotion
+10,"All right . You need to have an interview with our manager , Mr . McBride . Let ’ s go to his office . __eou__",no_emotion,directive,white,10620,Work
+0,Can you do push-ups ?,no_emotion,question,white,4837,Relationship
+5,That's quite a compliment coming from you . __eou__,happiness,inform,white,4242,Attitude_Emotion
+3,"Yes , if it's not too much of a trouble .",happiness,commissive,white,4832,Relationship
+2,"Our quality control department is in charge of the inspection , which is directly under general manager . It is essential to attach the importance to the quality of goods . It is the basement for the future cooperation .",no_emotion,inform,white,10476,Work
+5,"No , it's a semimonthly .",no_emotion,inform,white,4835,Relationship
+4,"Oh , really ? Is it a good way ?",no_emotion,question,white,10483,Work
+4,What are your qualifications for being a clerk typist ?,no_emotion,question,white,10620,Work
+0,I had an accident .,no_emotion,inform,white,4855,Relationship
+10,What kind of people you find hard to work with ?,no_emotion,question,white,10460,Work
+5,Inspection is to be done by the China Commodity Inspection and Testing Bureau . Usually inspection is conducted within five days before each shipment .,no_emotion,inform,white,10481,Work
+1,I have no idea yet . Do you have any suggestions ?,no_emotion,question,white,4847,Relationship
+1,How long will it take to make five hundred ?,no_emotion,question,white,10490,Work
+1,I can't come until next week .,no_emotion,inform,white,4845,Relationship
+3,I saw her dating with her ex-boyfriend again .,sadness,inform,white,4212,Attitude_Emotion
+7,"Firstly , it can overcome the geographic limitation . And secondly , e-commerce can lower the internal costs . And thirdly , people like us , can also open stores on Internet .",no_emotion,inform,white,10486,Work
+1,Yes . Who is speaking ?,no_emotion,question,white,10437,Work
+1,It's a blackout . Now I can't see Seinfeld .,no_emotion,inform,white,4251,Attitude_Emotion
+4,The cause is another boy .,no_emotion,inform,white,4201,Attitude_Emotion
+1,I would if I were you . __eou__,no_emotion,inform,white,4843,Relationship
+0,"Mrs . Phoebe , here are your ordered goods . Please inspect the goods now .",no_emotion,directive,white,10476,Work
+1,"Yes . Look , it is on my desk .",happiness,inform,white,4853,Relationship
+2,Do you have any where in mind ?,happiness,question,white,4860,Relationship
+0,Guess what I've brought for you .,happiness,directive,white,4265,Attitude_Emotion
+0,"Jim , how was your weekend ?",happiness,question,white,4879,Relationship
+1,Yeah . He really does let me down .,no_emotion,inform,white,4234,Attitude_Emotion
+0,"Well , Miss Liu , I've enjoyed talking with you . Thank you for your interest in this job .",no_emotion,inform,white,10625,Work
+1,What happened ?,no_emotion,question,white,4168,Attitude_Emotion
+11,That's a good idea . __eou__,happiness,inform,white,4260,Attitude_Emotion
+2,Is everything under control ?,no_emotion,question,white,10465,Work
+5,How much is it ?,no_emotion,question,white,4249,Attitude_Emotion
+0,What post have you held before ?,no_emotion,question,white,10623,Work
+2,Did she give up her decision to marry Dick ?,no_emotion,question,white,4218,Attitude_Emotion
+2,Are you sure ?,surprise,question,white,4214,Attitude_Emotion
+0,I have a bone to pick with you .,anger,inform,white,4227,Attitude_Emotion
+3,Leave ? Why ?,no_emotion,question,white,10626,Work
+1,Can you take he away from me ?,no_emotion,directive,white,4220,Attitude_Emotion
+1,What's the cause ?,no_emotion,question,white,4215,Attitude_Emotion
+5,I can type 120 words a minute and I take shorthand at 80 words a minute .,no_emotion,inform,white,10620,Work
+10,Do you have a cell phone ?,no_emotion,question,white,4247,Attitude_Emotion
+0,What's your favorite magazine ?,no_emotion,question,white,4835,Relationship
+1,"He does , he started five years ago and now ends up the richest among us .",no_emotion,inform,white,4222,Attitude_Emotion
+6,It's the same as usual . The only difference lies in that you need to paste the book as an attachment .,no_emotion,directive,white,10621,Work
+1,Yeah .,no_emotion,inform,white,4214,Attitude_Emotion
+7,What are we going to do now ?,no_emotion,question,white,4251,Attitude_Emotion
+5,Why not now ? I'm hungry . __eou__,happiness,inform,white,4831,Relationship
+7,My cigarettes .,no_emotion,inform,white,4210,Attitude_Emotion
+3,He is hopeless . __eou__,no_emotion,inform,white,4230,Attitude_Emotion
+3,You'd better cool yourself down first . __eou__,no_emotion,inform,white,4208,Attitude_Emotion
+1,Not yet . __eou__,no_emotion,inform,white,4858,Relationship
+0,I'm going to let Bob know about the merger .,no_emotion,directive,white,10467,Work
+9,What did you do ?,no_emotion,question,white,4250,Attitude_Emotion
+2,What makes you think so ?,no_emotion,question,white,4221,Attitude_Emotion
+12,Will you give me some suggestion ?,no_emotion,directive,white,10483,Work
+0,Has the train come yet ?,no_emotion,question,white,4188,Attitude_Emotion
+3,Where did you learn it ?,no_emotion,question,white,4245,Attitude_Emotion
+6,I want to live abroad and learn to speak a different language .,no_emotion,inform,white,10626,Work
+3,"Don't be so irritable . I just don't understand the program , that's all .",no_emotion,inform,white,4164,Attitude_Emotion
+2,"But I work hard all the time for long hours . Often I have no time for lunch . Yet , I am still getting fatter .",no_emotion,inform,white,4171,Attitude_Emotion
+5,Come here ; let me introduce some friends to you . __eou__,happiness,inform,white,4854,Relationship
+1,"Thank you , Wendy . I hope you'll be able to make it to the wedding .",happiness,inform,red,4169,Attitude_Emotion
+3,That's great . I thought you said you didn't get the job .,happiness,inform,red,4168,Attitude_Emotion
+4,Thank you . I ’ m leaving tomorrow morning .,happiness,inform,red,4209,Attitude_Emotion
+2,A well-learned person never does that . __eou__,disgust,inform,red,4195,Attitude_Emotion
+5,Oh look ! Here it comes now ! __eou__,no_emotion,inform,red,4188,Attitude_Emotion
+3,If you say so ! __eou__,no_emotion,inform,red,4182,Attitude_Emotion
+2,"Shut up . You should think how to make fortunes , not look for a squabble . __eou__",anger,inform,red,4237,Attitude_Emotion
+1,"Sorry , I'm supposed to be with my son .",no_emotion,commissive,red,10463,Work
+5,Thank you . __eou__,happiness,inform,red,10485,Work
+0,I'm tired .,no_emotion,directive,red,10468,Work
+1,"The lecturer is dull , too .",no_emotion,inform,red,4191,Attitude_Emotion
+1,Mmmm ... it's hard to say . I like golf a lot-but I guess I like tennis better .,no_emotion,inform,red,4840,Relationship
+0,I'm terribly nervous .,fear,inform,red,4862,Relationship
+2,Thank you . You ’ Ve been so nice to me .,happiness,commissive,red,10480,Work
+3,It's my dream . __eou__,happiness,inform,red,4185,Attitude_Emotion
+0,I've been working hard for a whole year . I really need a break .,no_emotion,inform,red,10482,Work
+2,"Oh , I can't believe it.He looks very young .",surprise,inform,red,4172,Attitude_Emotion
+0,"Saying you want to kill yourself , you terrified me out of my wits .",no_emotion,inform,red,4196,Attitude_Emotion
+1,"Yes , it's to my liking , too .",happiness,inform,red,4185,Attitude_Emotion
+1,"Hi , Mary , Hi , Ken I hate to bring this up , but that new stereo , system you got ...",no_emotion,inform,red,4244,Attitude_Emotion
+8,Thank you very much . Goodbye .,no_emotion,inform,red,10437,Work
+0,My son came home from three years in the navy .,no_emotion,inform,red,4203,Attitude_Emotion
+2,"I may have done a lot , but none is to my satisfaction .",sadness,inform,red,4202,Attitude_Emotion
+0,I'm afraid of the darkness .,fear,inform,red,4177,Attitude_Emotion
+0,Oh !,no_emotion,inform,red,4211,Attitude_Emotion
+2,I'm looking forward to it . __eou__,happiness,inform,red,4169,Attitude_Emotion
+1,"I know , it's not as I had planned .",sadness,inform,red,10434,Work
+3,She is really something . __eou__,happiness,inform,red,4199,Attitude_Emotion
+0,You hurt Ben's feelings .,no_emotion,inform,red,4849,Relationship
+5,"Sorry , love .",no_emotion,inform,red,4210,Attitude_Emotion
+4,"Yes , my customers have started to complain too !",no_emotion,inform,red,4188,Attitude_Emotion
+0,I don't think the lecture is very interesting .,no_emotion,inform,red,4191,Attitude_Emotion
+1,What fools we were !,sadness,inform,red,4211,Attitude_Emotion
+0,I feel so uncomfortable .,no_emotion,inform,red,4190,Attitude_Emotion
+1,That black sheep . It serves him right .,no_emotion,inform,red,4194,Attitude_Emotion
+0,Mr . Smith is really a thorough drag .,no_emotion,inform,red,4204,Attitude_Emotion
+4,Just because he gets on well with everybody ?,no_emotion,question,red,4214,Attitude_Emotion
+2,I don ’ t know what he wants to do . Does he want help me or just scold me ?,no_emotion,question,red,4213,Attitude_Emotion
+4,You ’ re the best ! __eou__,happiness,inform,red,4851,Relationship
+3,I think we ’ ll benefit a lot . __eou__,happiness,inform,red,4198,Attitude_Emotion
+3,"Dear , forgive me . I won ’ t do that again . __eou__",no_emotion,inform,red,4196,Attitude_Emotion
+3,Not bad . I ’ m confident . And I like challenges .,no_emotion,inform,red,10485,Work
+0,"I'm busy year in and year out , but now I've done nothing .",sadness,inform,red,4202,Attitude_Emotion
+4,And why are you yarning now ? Are you bored ?,no_emotion,question,red,4180,Attitude_Emotion
+6,That would be great . __eou__,happiness,commissive,red,4173,Attitude_Emotion
+4,Perhaps . I'm dead tired . __eou__,sadness,inform,red,4202,Attitude_Emotion
+3,Thank you . I appreciate the compliment . __eou__,happiness,inform,red,4206,Attitude_Emotion
+3,Many things are troubling me . I don't know whether I should come and go .,no_emotion,inform,red,4176,Attitude_Emotion
+1,That's great ! Congratulations .,happiness,inform,red,4173,Attitude_Emotion
+0,I am tired of everything in my life .,no_emotion,inform,red,4187,Attitude_Emotion
+1,It is impossible . You cheated on me .,anger,commissive,red,4257,Attitude_Emotion
+0,I'm tired of this job .,disgust,inform,red,4863,Relationship
+1,What is over ?,no_emotion,question,red,4201,Attitude_Emotion
+3,She never cares about others .,disgust,inform,red,4167,Attitude_Emotion
+2,To think of it ! All my old silver ! It meant so much to me .,no_emotion,inform,red,4211,Attitude_Emotion
+7,"Have a nice journey , Lily .",happiness,inform,red,4209,Attitude_Emotion
+5,I really envy you . You know I'm not taking my vacation until December . __eou__,no_emotion,inform,red,10482,Work
+0,I am so bored all day .,no_emotion,inform,red,4235,Attitude_Emotion
+5,Don ’ t mention it . I ’ Ve really enjoyed your company . __eou__,happiness,inform,red,10480,Work
+3,"Oh , Kelly , I couldn't recognize your voice . Well , I'm fine .",no_emotion,inform,red,10437,Work
+2,But you should at least consider your son's future .,no_emotion,inform,red,4192,Attitude_Emotion
+0,Everything's gone wrong .,sadness,inform,red,10434,Work
+1,It was a real red letter day for you .,no_emotion,inform,red,4203,Attitude_Emotion
+2,Thank you . __eou__,happiness,commissive,red,4177,Attitude_Emotion
+6,Thanks . I feel like celebrating . Let's go have a beer . It's on me .,happiness,directive,red,4168,Attitude_Emotion
+1,I'm sorry to have made you disappointed .,sadness,inform,red,4180,Attitude_Emotion
+0,Mike ! Look at the floor !,surprise,inform,red,4210,Attitude_Emotion
+3,His parents must feel very happy . __eou__,happiness,inform,red,4181,Attitude_Emotion
+1,He is really terrific !,surprise,inform,red,4193,Attitude_Emotion
+2,So what ? I just lost one hour's worth of work .,anger,inform,red,4251,Attitude_Emotion
+3,Yes . I bet my bottom dollar that he will get promoted .,no_emotion,inform,red,4214,Attitude_Emotion
+1,I feel eggplants are more nutritious .,no_emotion,inform,red,4184,Attitude_Emotion
+3,Oh ...,no_emotion,inform,red,4210,Attitude_Emotion
+3,Forget it . It ’ s my pleasure . You mean a lot to me .,happiness,inform,red,4851,Relationship
+2,The operation was very successful .,happiness,inform,red,4181,Attitude_Emotion
+8,"Thank you , David . __eou__",happiness,inform,red,4209,Attitude_Emotion
+3,Congratulations . How lucky you are !,happiness,inform,red,4209,Attitude_Emotion
+1,"To tell you the truth , it's the most tedious course I'ever had .",disgust,inform,red,4175,Attitude_Emotion
+5,Maybe . But it still gets on my nerves . __eou__,sadness,inform,red,4212,Attitude_Emotion
+2,He's endless talking about stocks almost bores me to death .,disgust,inform,red,4204,Attitude_Emotion
+0,It really makes my blood boil when this sort of thing happens . I even want to wring his neck .,anger,inform,red,4208,Attitude_Emotion
+6,"That's exactly what I want , thank you . __eou__",happiness,inform,red,4164,Attitude_Emotion
+0,Mark is parade his knowledge again .,disgust,inform,red,4195,Attitude_Emotion
+0,I like the design of the coat .,happiness,inform,red,4183,Attitude_Emotion
+6,I ’ m sure I will .,happiness,inform,red,4209,Attitude_Emotion
+2,"It ’ s so wet and dark , I ’ m just fed up . __eou__",anger,inform,red,4243,Attitude_Emotion
+0,Mary is really a diligent girl .,happiness,inform,red,4199,Attitude_Emotion
+0,I am confused by what he said .,no_emotion,inform,red,4213,Attitude_Emotion
+2,That's all right . But why were you so rude to me at lunch .,no_emotion,question,red,4180,Attitude_Emotion
+0,Your knowledge of English is really surprising .,surprise,inform,red,4206,Attitude_Emotion
+1,What ? How happy your life is ! I do envy you .,surprise,question,red,4187,Attitude_Emotion
+4,Thank you very much indeed.You helped me rebuild my self-confidence .,happiness,inform,red,4173,Attitude_Emotion
+1,How could I feel easy ? I ’ m really pissed .,anger,inform,red,4231,Attitude_Emotion
+1,"Of course , I ’ Ve enjoyed it very much . I ’ Ve met my old friends and made some new friends .",happiness,inform,red,10484,Work
+0,My son has really taken it out of me . He never keeps out of mischief .,anger,inform,red,4179,Attitude_Emotion
+5,I bet . That's great news . I'm very happy for you .,happiness,inform,red,4168,Attitude_Emotion
+5,The same to you . Keep in touch . __eou__,happiness,inform,red,10484,Work
+8,"Yes , I do . Leave me alone ! __eou__",disgust,inform,red,4263,Attitude_Emotion
+7,I was also interrupted by her last week because of such a thing . __eou__,no_emotion,inform,red,4167,Attitude_Emotion
+3,It is still a mystery to me . __eou__,no_emotion,inform,red,4175,Attitude_Emotion
+8,"I'm so sorry , I .. I didn't realize it was that loud .",sadness,inform,black,4244,Attitude_Emotion
+0,"Look , Bob hasn't made any progress on that project .",no_emotion,inform,black,10439,Work
+1,"After all , he is a baby .",no_emotion,inform,black,4179,Attitude_Emotion
+7,"It's so cheap . I'll buy one , too .",happiness,inform,black,4249,Attitude_Emotion
+0,You're late .,no_emotion,inform,black,4247,Attitude_Emotion
+1,It makes no sense to tell him about that .,no_emotion,commissive,black,10467,Work
+3,It seemed to be useless to study well when we were young if we examine his case . __eou__,no_emotion,inform,black,4222,Attitude_Emotion
+4,"Yes , I did . He only takes side with him . He seldom asks what Dick is doing . __eou__",no_emotion,inform,black,4197,Attitude_Emotion
+3,But didn ’ t you say that his Dad takes him under his wings ?,no_emotion,question,black,4197,Attitude_Emotion
+5,So I couldn't get through . I knew I'd be late because my car wouldn't start.It was too cold I had to warm it up in the garage with a heater . That's why I'm late .,no_emotion,inform,black,4247,Attitude_Emotion
+1,Why ?,no_emotion,question,black,10471,Work
+2,You forgot it last year as well .,anger,inform,black,4256,Attitude_Emotion
+0,"Hello , Bob . Can you give me an update of the situation ?",no_emotion,directive,black,10465,Work
+2,"Let's look at that another way . The major point is the value that we add , not who has been in business longer , or is bigger .",no_emotion,directive,black,10489,Work
+1,That is just an excuse.You can always find some time to exercise .,no_emotion,inform,black,4171,Attitude_Emotion
+2,The mayor and high official practice crony is mand a large number of guys who are good at nothing occupy many important positions .,no_emotion,inform,black,4215,Attitude_Emotion
+12,"Yes , that's true . Damn ! I just lost half my paper , and now I can't even do my homework.This is a bad time for this to happen .",anger,inform,black,4251,Attitude_Emotion
+6,"No , not yet , but someone ’ s going to have to .",no_emotion,inform,black,10475,Work
+0,Mr . Wilson . We very regret the mistakes in goods . I am very sorry and we are responsible for the mistake .,no_emotion,directive,black,10617,Work
+0,"Mrs . Lee , I ’ Ve stayed here for almost a week . And I really must leave tomorrow .",no_emotion,inform,black,10480,Work
+3,I laughed up my sleeves at him . He ’ s seen his girlfriend off at the airport and had lipstick on his face and did not know it . __eou__,no_emotion,inform,black,4239,Attitude_Emotion
+3,You're too strict with yourself .,no_emotion,inform,black,4202,Attitude_Emotion
+2,Not often . Just when I make mistakes . __eou__,no_emotion,inform,black,4233,Attitude_Emotion
+11,Slacker and those who violate working principles . __eou__,no_emotion,inform,black,10460,Work
+4,"Maybe his phone is out of order . Anyway , keep working on it . I really need an answer about the contract I sent him .",no_emotion,directive,black,10478,Work
+2,Really ? I think that's impossible !,surprise,question,black,4837,Relationship
+2,"If I were him , I wouldn't brazen it out by asking my parents for money .",no_emotion,inform,black,4219,Attitude_Emotion
+3,I'm afraid we have to reschedule it .,no_emotion,directive,black,10477,Work
+7,"We really can ’ t ask him to stop having students come in for help , can we ?",no_emotion,directive,black,10475,Work
+3,But I ’ m not in there very often . It ’ s so noisy that I can ’ t work .,no_emotion,commissive,black,10475,Work
+2,"I've tried it , but he would have none of it . __eou__",no_emotion,inform,black,4207,Attitude_Emotion
+1,He's a sad dog . He came to the wedding in jeans !,anger,inform,black,4228,Attitude_Emotion
+11,No . I hate cell phones.But you could go to a neighbor's house and use their phone .,no_emotion,inform,black,4247,Attitude_Emotion
+1,"Does he do that with his Dad ? I mean , does he complain things to his father ?",no_emotion,question,black,4197,Attitude_Emotion
+2,Jack borrowed a large sum of money from me and didn ’ t pay me back .,no_emotion,inform,black,4235,Attitude_Emotion
+4,"No , listen to me . Perhaps it's my fault that I treat everybody so well . Maybe in other people's eyes , I want you to be my girl-friend . but ... but ...",no_emotion,inform,black,4257,Attitude_Emotion
+1,We broke up . __eou__,no_emotion,inform,black,4874,Relationship
+2,"You liar , I saw you again in the inn . I bet you don't want to work at all . __eou__",no_emotion,inform,black,4225,Attitude_Emotion
+5,Has anybody spoken to him about it ?,no_emotion,inform,black,10475,Work
+1,Selfishness is one human beings instincts . It is very difficult to get it out root and branch .,no_emotion,inform,black,4192,Attitude_Emotion
+1,"I'm trying to send the instruction book by E-mail , but I failed many , many times . And there is something wrong with the net maybe . It's so slow .",no_emotion,inform,black,10621,Work
+3,Because he'll tell Mary and that will cause us problems . __eou__,no_emotion,inform,black,10467,Work
+5,It kept me awake .,no_emotion,inform,black,4244,Attitude_Emotion
+2,Don ’ t you see many parents are forcing there children ’ s hands to learn something they think important to their children . But the children are not interested in it at all .,no_emotion,inform,black,4238,Attitude_Emotion
+5,"Partly , and he's also a hardworking man . __eou__",no_emotion,inform,black,4214,Attitude_Emotion
+5,I thought the starting salary is too low .,no_emotion,directive,black,10619,Work
+1,How could we ever manage to buy a big house when we are always living beyond our means ?,no_emotion,question,black,4237,Attitude_Emotion
+1,I'm afraid you've got the wrong extension number .,no_emotion,commissive,black,10624,Work
+2,He was so rich in the past . Maybe he ’ s regretting his past mistakes now .,no_emotion,inform,black,4194,Attitude_Emotion
+1,"I know I'm late . I'm sorry . I tried to call you to tell you , but your phone seems to be disconnected .",no_emotion,inform,black,4247,Attitude_Emotion
+3,I'm not sure . __eou__,no_emotion,inform,black,10461,Work
+2,I'm sorry to say the only term of payment we can accept is 100 % irrevocable letter of credit payable against shipping documents .,no_emotion,commissive,black,10491,Work
+1,"I'm looking for it , but you see , the market is hard up for jobs , too .",no_emotion,inform,black,4225,Attitude_Emotion
+0,Finding an excuse is obviously down your alley . And trying to avoid taking care of the children is what you are good at .,anger,inform,black,4217,Attitude_Emotion
+3,I just keep getting a busy signal .,no_emotion,inform,black,10478,Work
+10,"So cool , if we do business through other ways , it will cost a lot of time .",no_emotion,inform,black,10483,Work
+3,"She's my sister , you know . __eou__",no_emotion,inform,black,4221,Attitude_Emotion
+3,It ’ s too late . __eou__,no_emotion,inform,black,4194,Attitude_Emotion
+10,"Oh , that would be too small .",no_emotion,commissive,black,10475,Work
+11,That's about five blocks . And around corners too.So he was definitely following you .,no_emotion,inform,black,4250,Attitude_Emotion
+0,"Bob , put on your shoes , your feet are really smelly .",no_emotion,directive,black,4205,Attitude_Emotion
+4,"That ’ s exactly what I ’ m getting at . We ’ re supposed to be able to do our preparation and marking in that office , but have you noticed ? Jack constantly has students coming in to get help with his course . A lot people are going in and out .",no_emotion,inform,black,10475,Work
+1,"I can't agree with you . She's pretty , but she always blows hot and cold .",no_emotion,inform,black,4221,Attitude_Emotion
+2,But he has to stick to it and to it long enough . __eou__,no_emotion,inform,black,4174,Attitude_Emotion
+0,This small town has many serious problems .,no_emotion,inform,black,4215,Attitude_Emotion
+3,I never trust those stupid doctors . __eou__,no_emotion,inform,black,4241,Attitude_Emotion
+4,"I'm afraid not . We insist on a letter of credit , because as seller , we also have the problem of funds being tied up .",no_emotion,commissive,black,10491,Work
+3,"His mother , not me , should do this . __eou__",no_emotion,inform,black,4192,Attitude_Emotion
+0,Maybe you should have told me first ?,no_emotion,directive,black,10471,Work
+1,"We appreciate your intention , but the amount of your orders last year was moderate .",no_emotion,commissive,black,10487,Work
+2,What seems to be the problem ?,no_emotion,question,black,10478,Work
+1,"I'm sorry , I didn't mean to forget our wedding anniversary .",sadness,inform,black,4256,Attitude_Emotion
+15,Of course you can call the police if you want . That's not what I mean . I'm just saying that they probably won't do anything .,no_emotion,inform,black,4250,Attitude_Emotion
+9,"Yes , that's for sure . There is nothing wrong with the quality . I think you'd better pack them first in plastic bags , than in cartons .",no_emotion,directive,black,10476,Work
+13,"Yes , of course I can drive you.So you don't want to get your phone fixed right away ?",no_emotion,commissive,black,4247,Attitude_Emotion
+1,What's the problem ?,no_emotion,question,black,10474,Work
+1,You are pretending !,happiness,inform,black,4264,Attitude_Emotion
+2,"Well , maybe the net is slow now . Try it again .",no_emotion,directive,black,10621,Work
+5,I merely know how to send the direct letter . But I am not familiar with the attachment .,no_emotion,inform,black,10621,Work
+9,"It was that loud , and it was pretty late , and check with Mary if you don't believe me .",no_emotion,inform,black,4244,Attitude_Emotion
+3,I think you just need to get more sleep .,no_emotion,inform,black,4262,Attitude_Emotion
+4,"I don't know . I saw him the first time Tuesday . He was at the cafe . I noticed he was looking at me a lot . Not just the usual looking , but staring.He just kept staring at me . He didn't stop .",no_emotion,inform,black,4250,Attitude_Emotion
+11,"Sure , but every coin has two sides . Doing business through the internet is not as safe as doing business through traditional ways .",no_emotion,inform,black,10483,Work
+5,"But you have had lily already ? You should have told me about her , but you didn't .",anger,inform,black,4257,Attitude_Emotion
+0,We're having trouble with Bob .,no_emotion,inform,black,10474,Work
+3,I ’ m at the end of tether . I run out of ideas . __eou__,no_emotion,inform,black,4234,Attitude_Emotion
+1,We have no choice but to hold you responsible for the loss we sustained .,no_emotion,commissive,black,10617,Work
+2,"Then , why didn't you try to prevent it in the beginning ?",anger,question,black,4263,Attitude_Emotion
+0,My girlfriend dumped me .,sadness,inform,black,4871,Relationship
+10,What if the results from the two inspections do not coincide with each other ?,no_emotion,question,black,10481,Work
+1,I ’ m in pretty bad shape . I am having an allergy all the time .,no_emotion,inform,black,4241,Attitude_Emotion
+2,You always have a chip on your shoulder .,anger,inform,black,4227,Attitude_Emotion
+4,"We do not want to place ourselves in an inferior position . We are a good , small company---that's why you are interested .",no_emotion,inform,black,10489,Work
+3,"Bill , you know that work is not the same as exercise as it is stressful but not relaxing.And skipping meals will not help you lose weight.In fact your body will only store fat if you miss meals .",no_emotion,inform,black,4171,Attitude_Emotion
+11,"Maybe . But if there's a blackout , probably the pubs are closed.And besides , I know you have a political science exam tomorrow . I thought you had a lot of reading to do .",no_emotion,inform,black,4251,Attitude_Emotion
+2,You are passing the buck . I'll be hanged if I ask you to go to the park with us .,anger,inform,black,4217,Attitude_Emotion
+6,But I'll miss the news.It ' s important in my business to keep up with events in China .,no_emotion,commissive,black,4171,Attitude_Emotion
+3,She kept on bothering me .,no_emotion,inform,black,4220,Attitude_Emotion
+5,I'm very sorry . But Mr . Stephen must leave for Hong Kong right away .,no_emotion,directive,black,10477,Work
+3,But our order this time is very large . To open an L / C for such a large amount at a bank is costly . Can you be a bit more flexible and bend the rule a little ?,no_emotion,directive,black,10491,Work
+1,I'm happy with that price .,no_emotion,inform,yellow,10435,Work
+2,I can ’ t thank you enough . I ’ m really touched . I don ’ t know what to say .,happiness,inform,yellow,4851,Relationship
+9,"No problem . Thank you for hiring me , I am very proud to be employed by your company and I will come in at eight o ’ clock sharp Monday . __eou__",happiness,commissive,yellow,10619,Work
+1,Can you believe I'm going to America ?,happiness,inform,yellow,4246,Attitude_Emotion
+2,"You did a good job for the company . So , this is your first day in the new position . How do you feel ?",no_emotion,question,yellow,10485,Work
+2,"That's true . However at the Fair last March , people were so interested in Chinese garments that the demand this year will surely increase .",no_emotion,directive,yellow,10487,Work
+3,"Okay , let's shake on it . __eou__",no_emotion,commissive,yellow,10435,Work
+2,"Nice meeting you , too .",happiness,inform,yellow,4852,Relationship
+3,Don ’ t make a mountain out of molehill . I am sure he will do that on his payday . __eou__,no_emotion,inform,yellow,4235,Attitude_Emotion
+1,"And he himself is very diligent . Considering all these , I think he has the ball at his feet .",no_emotion,inform,yellow,4174,Attitude_Emotion
+8,"Oh , I think I should try to read one . __eou__",happiness,inform,yellow,4835,Relationship
+7,That will be fine . __eou__,no_emotion,commissive,yellow,10477,Work
+4,I'm very glad to hear that .,happiness,inform,yellow,4854,Relationship
+5,I think we can still talk .,no_emotion,inform,yellow,4263,Attitude_Emotion
+3,Not at all . It ’ s a piece of cake .,happiness,inform,yellow,4853,Relationship
+3,"No , I encourage her to go her own way , but she's now having a change of heart . __eou__",no_emotion,inform,yellow,4218,Attitude_Emotion
+0,You're looking great .,happiness,inform,yellow,4254,Attitude_Emotion
+0,"What an attractive blouse , You look so pretty in this blue dress !",happiness,inform,yellow,4242,Attitude_Emotion
+0,"Sir , I am very glad to tell that we have successfully registered the trademark for our new product . It is the time to think of some effective promoting strategies . We are beginning to get more attention from overseas .",no_emotion,directive,yellow,10615,Work
+7,The color and style are consistent with the sample . Great !,happiness,inform,yellow,10476,Work
+0,"Well , it was nice meeting you .",happiness,inform,yellow,4859,Relationship
+9,"People who are honest , dedicated to their work and have integrity .",no_emotion,inform,yellow,10460,Work
+5,"I maintain that the most important thing is having good friends . A person can't live all by himself . A friend in need is a friend indeed . So the more really close friends I have , the happier I am .",no_emotion,inform,yellow,10460,Work
+12,"Oh , it's no problem.It ' s OK.You know , it only happened once .",happiness,inform,yellow,4244,Attitude_Emotion
+1,I ’ m glad you like them . Happy birthday !,happiness,inform,yellow,4851,Relationship
+1,"Yes , of course . This is a really wonderful party with interesting people and great food .",happiness,inform,yellow,4839,Relationship
+2,But that should not be the reason for you to lose heart .,no_emotion,inform,yellow,4234,Attitude_Emotion
+9,The most important is that it is very convenient . You know you can browse the website and send E-mails to your customers at any time . Even you can have e-contract with your regular customers .,no_emotion,inform,yellow,10483,Work
+4,Wish him to be healthy soon . __eou__,no_emotion,inform,yellow,4240,Attitude_Emotion
+7,Much better . I will definitely go to the airport to meet you .,no_emotion,commissive,yellow,10437,Work
+9,"Yes , I'd like to give it a try .",happiness,commissive,yellow,10620,Work
+1,"I enjoyed myself , too .",happiness,inform,yellow,4832,Relationship
+1,I'm looking forward to going to America .,happiness,inform,yellow,4828,Relationship
+0,This is our best product .,no_emotion,inform,yellow,10490,Work
+0,Look ! The girl is so beautiful and she is smiling at me . She is lovely .,happiness,inform,yellow,4221,Attitude_Emotion
+5,Yes . It ’ s easy and convenient to use a computer . But it takes a long time to really master it . __eou__,happiness,inform,yellow,4853,Relationship
+7,"Yes , I would call three of my former classmates really close friends . We often get together and talk with each other . Whenever I counter difficulties , they are always ready to give me a hand .",no_emotion,inform,yellow,10460,Work
+5,"Yes , I ’ d love another glass . You ’ re a wonderful host . Thank you for everything .",happiness,commissive,yellow,4839,Relationship
+13,I am glad we've straightened everything out . __eou__,happiness,inform,yellow,4244,Attitude_Emotion
+13,Let's rock n ' roll . __eou__,no_emotion,directive,yellow,10475,Work
+2,I ’ m glad you are enjoying yourself .,happiness,inform,yellow,4839,Relationship
+0,My granny is such a kind-hearted person . She is willing to help .,happiness,inform,yellow,4224,Attitude_Emotion
+0,"Beautiful weather , isn ’ t it ?",happiness,question,yellow,4878,Relationship
+2,I hope you like it .,happiness,inform,yellow,4265,Attitude_Emotion
+3,"Yes , I'm really excited . __eou__",happiness,inform,yellow,4246,Attitude_Emotion
+0,Your PC is so amazing . Are you doing trade on internet ?,no_emotion,question,yellow,10483,Work
+10,I was hoping to get a few new ties for my collection .,no_emotion,inform,yellow,4260,Attitude_Emotion
+1,It was exciting ! __eou__,happiness,inform,yellow,4870,Relationship
+2,It's very nice.It goes well with your skirt .,happiness,inform,yellow,4242,Attitude_Emotion
+2,"Oh , you look stunning . Your dress really goes well with your shoes .",happiness,inform,yellow,4260,Attitude_Emotion
+1,Sarah and I could see eye to eye with each other .,happiness,inform,yellow,4218,Attitude_Emotion
+1,"How do you do , Ms . Yang.You speak very good English .",happiness,inform,yellow,4245,Attitude_Emotion
+0,"Mike , these flowers are just gorgeous .",happiness,inform,yellow,4851,Relationship
+0,Don ’ t be worried . Please sit down and take it easy .,no_emotion,directive,yellow,4231,Attitude_Emotion
+3,That ’ s great . Thanks for the ride . I really appreciate 1 it . You know my car is still in the shop .,no_emotion,commissive,yellow,10479,Work
+3,You ’ ll exert all your energy and get out of it . __eou__,no_emotion,inform,yellow,4223,Attitude_Emotion
+4,Later this month . I can't wait !,happiness,inform,yellow,10482,Work
+6,It ’ s my pleasure having you here . __eou__,happiness,inform,yellow,4839,Relationship
+4,"I'm sure it will , if we are appointed your agent . Your garments are attractive , and we , a well-established importer with multiple sales channels , can boost the sales .",no_emotion,directive,yellow,10487,Work
+6,I couldn ’ t agree more .,happiness,commissive,yellow,4878,Relationship
+7,Wonderful . Thank you very much . I have been dreaming to work with your company and I am finally granted the great opportunity . I won ’ t let you down and I hope you will contact me when you have any questions .,happiness,commissive,yellow,10622,Work
+4,"I forgot to bring it , but maybe Mary has some . Let's go and ask her . __eou__",no_emotion,inform,yellow,4877,Relationship
+3,Come over and visit when you have time .,happiness,directive,yellow,4852,Relationship
+1,"Yes , I hope we meet again .",happiness,inform,yellow,4859,Relationship
+1,I am very active and energetic . I approach things enthusiastically and I don't like leaving them half done .,no_emotion,inform,yellow,10460,Work
+3,"Oh , great ! I love it ! You know I've been expecting this for a long time .",happiness,inform,yellow,4854,Relationship
+3,"I am quite outgoing , I think . I enjoy mixing and doing things with other people .",no_emotion,inform,yellow,10460,Work
+6,You certainly deserve it . Let's celebrate ! __eou__,happiness,inform,yellow,4880,Relationship
+8,Your typing and stenography are pretty good . Would you be interested in applying for the job ?,no_emotion,directive,yellow,10620,Work
+4,Don't mention it . It ’ s my pleasure .,no_emotion,inform,yellow,10479,Work
+1,"Hi , Andy . I'm Judy . It's nice meeting you .",happiness,inform,yellow,4852,Relationship
+6,I can ’ t wait to go there myself . __eou__,happiness,inform,yellow,4879,Relationship
+3,"Congratulations , I hope everything works out . __eou__",happiness,inform,yellow,4857,Relationship
+3,Do you think it will help if we appoint a local agent ?,no_emotion,question,yellow,10487,Work
+2,"That sounds like a lot of fun . Did you go swimming , too ?",happiness,question,yellow,4879,Relationship
+1,Not bad at all . __eou__,no_emotion,inform,yellow,4838,Relationship
+3,Well . I hope there won't be such things .,no_emotion,commissive,yellow,10617,Work
+3,Really ? I can't believe it . It's like a dream come true . I never expected that I would win The Nobel Prize !,surprise,inform,yellow,4880,Relationship
+2,Let's shake on it .,no_emotion,directive,yellow,10435,Work
+1,"Well done , Fred . Do you know something useful for our promotion for our I-series ?",no_emotion,question,yellow,10615,Work
+1,"Fine , thanks . How about you ? __eou__",happiness,question,yellow,4848,Relationship
+0,What a wonderful party ! I had a good time . How about you ?,happiness,question,yellow,4832,Relationship
+4,I understand that . But I think maybe it's not a date . You are taking the matter too much to heart .,no_emotion,inform,yellow,4212,Attitude_Emotion
+1,Wow ! I'm so happy for you . __eou__,happiness,inform,yellow,4865,Relationship
+17,"Listen , Carol . Don't let this bother you too much.Probably it's nothing . Just keep your eyes open when you go out.If you see him a third time , and if he follows you again , then I think we should go to the police.But for now , just try not to worry .",no_emotion,directive,yellow,4250,Attitude_Emotion
+3,Think a little . I think he means well at the bottom of his heart . __eou__,no_emotion,inform,yellow,4213,Attitude_Emotion
+1,It's too good to be true . __eou__,happiness,inform,yellow,4255,Attitude_Emotion
+3,Good . __eou__,no_emotion,inform,yellow,10490,Work
+8,"You know , we are superior to other clothes companies .",no_emotion,inform,yellow,10476,Work
+4,Our prices compare favorably with those offered by other manufactures either in Europe or anywhere else . Here are our latest price lists . You will see that our prices are very attractive .,no_emotion,inform,yellow,10488,Work
+0,Your silk garments have aroused much interest in our country ever since our first order was put on the market . We have no doubt we can do better this year if you appoint us your sales agent .,no_emotion,directive,yellow,10487,Work
+1,Oh ! What a beautiful dress ! It fits you so well.You look so charming in the dress .,happiness,inform,yellow,4249,Attitude_Emotion
+4,You did a good job . I'm extremely proud of you .,happiness,inform,yellow,4880,Relationship
+3,Of course . Mary is our most experienced member . __eou__,no_emotion,inform,yellow,10465,Work
+4,Not at all.This dress certainly shows your good taste .,happiness,inform,yellow,4242,Attitude_Emotion
+4,I can assure you that such a thing today will never happen again in future delivery . We have made the plan to improve the package of our exported goods . __eou__,no_emotion,directive,yellow,10617,Work
+2,"Sure , I'll give you a call .",happiness,inform,yellow,4859,Relationship
+2,Then stay away . No one is keeping you from doing that .,no_emotion,inform,green,4164,Attitude_Emotion
+4,She ’ s your sister.What she asked was only duck soup for you.Why can ’ t you be good to her ?,anger,question,green,4220,Attitude_Emotion
+2,Would you like to play tennis with me ?,happiness,directive,green,4847,Relationship
+9,"Well , the only thing you can do is tell the phone company and hope they fix it fast .",no_emotion,inform,green,4247,Attitude_Emotion
+9,How about recommending him to use the storage room down the hall ?,no_emotion,directive,green,10475,Work
+6,Consult your bank and see if they will reduce the required deposit to a minimum . __eou__,no_emotion,directive,green,10491,Work
+2,"The first problem is supposed to be solved after the investigation . About the second problem , I admit it's our fault , so we will exchange all merchandise that falls short of our sample .",no_emotion,directive,green,10617,Work
+5,"Deeper , softer , none of your twittering larks . I would banish nightingales from her garden before they interrupted her song .",happiness,inform,green,4258,Attitude_Emotion
+12,"Come to think of it , you may be on to something . Let ’ s go have a look .",no_emotion,directive,green,10475,Work
+8,"You know what.The theater guild is supposed to call me and discuss a contract for my play.They are supposed to call me this evening.If I don't have a phone . Oh , what can I do ?",no_emotion,inform,green,4247,Attitude_Emotion
+1,Good idea . We can finish this project the first thing tomorrow morning .,no_emotion,commissive,green,10479,Work
+1,Why don't you ask your husband to help you with it ?,no_emotion,question,green,4207,Attitude_Emotion
+5,What about Saturday ?,no_emotion,directive,green,4850,Relationship
+0,"What do you say to eating out , Maggie ?",happiness,directive,green,4831,Relationship
+1,It's no use arguing the toss .,no_emotion,inform,green,4229,Attitude_Emotion
+13,"Actually , I don't think you can call the police . Not yet at least.He hasn't done anything . And probably the police will just ignore it.But if anything happens again , then maybe you should call .",no_emotion,inform,green,4250,Attitude_Emotion
+0,"Sam , we are hard up for the everyday expenses . When can you find a job .",no_emotion,question,green,4225,Attitude_Emotion
+2,I ’ m just coming for that .,no_emotion,commissive,green,4220,Attitude_Emotion
+2,"OK , Let me see . I suppose we must strengthen our promotion , because our brand is still new to some consumers . Maybe we should start our advertising program with our local and overseas distributors simultaneously , because they stand on a better position for selecting the best ways to advertise in market places . Besides , the advertisement fund can encourage them to spend more attention on advertising our products .",no_emotion,directive,green,10615,Work
+8,I don't know . I feel like going out .,no_emotion,inform,green,4251,Attitude_Emotion
+2,I must apologize . I'll buy you a new one tomorrow .,sadness,inform,green,4266,Attitude_Emotion
+2,Sure thing . Do you want me to give you a ride home ?,no_emotion,directive,green,10479,Work
+3,"Okay , I'll speak to him . __eou__",no_emotion,inform,green,10474,Work
+3,That is a good idea to start with . I also think the mass media is also a good approach for advertising .,no_emotion,directive,green,10615,Work
+14,"Yes , I do.At Ann's house I will call the phone company and have them check my line.If they can fix it right away without coming to my house , then we'll just return here.But if not , I need to wait at Ann's house to talk with the theater guild.It ' s very important to me .",no_emotion,inform,green,4247,Attitude_Emotion
+2,But you should avoid finger-pointing when you haven ’ t got the real facts .,no_emotion,directive,green,4231,Attitude_Emotion
+7,"I was just there a couple of days ago . You know , you should go down there too . They have a lot of stylish clothes on sale .",no_emotion,inform,green,4260,Attitude_Emotion
+2,"Well , you should have thought .",no_emotion,inform,green,4259,Attitude_Emotion
+7,Did he leave when you left ?,no_emotion,question,green,4250,Attitude_Emotion
+3,Her lips ? The early morning rose would wither on the branch if it could feel envy .,happiness,inform,green,4258,Attitude_Emotion
+3,"Yes , quite a bit . How about a game sometime ?",no_emotion,directive,green,4840,Relationship
+4,"Yes , the mass media has wider influence . One of my classmates works in an advertisement company . I can get help and inspiration from him . And we can also try some less expensive approaches of advertising , such as on-line sales . Personally , I prefer to the on-line sales , for it is cheaper , faster and wider . __eou__",no_emotion,commissive,green,10615,Work
+2,"Okay , I'll ask Bob to cover it .",no_emotion,directive,green,10463,Work
+2,Why not go and see a doctor ?,no_emotion,question,green,4241,Attitude_Emotion
+1,"Yeah , why not ? We haven't been out for dinner for quite a long time . A new French restaurant has just opened in our neighborhood . We can go there .",happiness,commissive,green,4831,Relationship
+6,"If you take a 75 % position in the venture , we would take a back seat to you . __eou__",no_emotion,directive,green,10489,Work
+3,Let me handle it . __eou__,no_emotion,commissive,green,10439,Work
+1,Yes . I'd like to swap some of my peanuts for your chips .,happiness,commissive,green,4877,Relationship
+4,"You know that everybody notices how beautiful you are , don't you ?",happiness,inform,green,4264,Attitude_Emotion
+1,"Okay , let's call it a day . __eou__",no_emotion,commissive,green,10468,Work
+5,How about going for a walk instead of sitting on the sofa reading the newspaper after dinner every night ?,no_emotion,directive,green,4171,Attitude_Emotion
+0,"Mary , be calm .",no_emotion,directive,green,4257,Attitude_Emotion
+7,"I know , I know.Have you got a portable radio ? You can listen to the news and get healthy at the same time .",no_emotion,directive,green,4171,Attitude_Emotion
+11,"With the cabinets taken out , it might be bigger than it looks .",no_emotion,directive,green,10475,Work
+2,We should have a word with him .,no_emotion,directive,green,10439,Work
+3,Would you like to come and have dinner with us on Friday ?,no_emotion,directive,green,4850,Relationship
+1,"Thomas , if I could write with the beauty in her eyes , I was born to look in them and know myself .",happiness,inform,green,4258,Attitude_Emotion
+0,"Linda , it's really late . Let's call it a day .",no_emotion,directive,green,10479,Work
+0,Can you imagine a boat letting in the river ?,no_emotion,question,green,4236,Attitude_Emotion
+6,OK ... OK ... Anyway . I will treat you as my best friend . I hope you can do the same .,no_emotion,inform,green,4257,Attitude_Emotion
+5,"I've had that problem too many times . So I learned to save.When I'm writing something , I save every three sentences or so . I don't want to lose anything .",no_emotion,inform,green,4251,Attitude_Emotion
+8,"That ’ s all right . We will pay you 4 , 000 yuan a month for supporting your family . Would you like to start on next Monday ?",no_emotion,commissive,green,10619,Work
+13,"I have a flashlight in my closet . If you want to use that to read , you can . __eou__",no_emotion,inform,green,4251,Attitude_Emotion
+0,What do you think of his behaviour yesterday ?,no_emotion,question,green,4228,Attitude_Emotion
+3,"Okay , I'll get Bob to cover you . __eou__",no_emotion,commissive,green,10466,Work
+12,Can you drive me ? I will go to Ann's house . It isn't far . I can call the theater guild from there and give them her number.She will let us wait in her living room .,no_emotion,directive,green,4247,Attitude_Emotion
+2,"No , Miss Anna , you must let me say how lovely you are ! What's wrong with that ?",happiness,inform,green,4264,Attitude_Emotion
+13,"Of course , such as Alabama , which is a famous website .",no_emotion,commissive,green,10483,Work
+5,Why don ’ t we go together ? I can show you around . I think you ’ ll have a better time .,happiness,directive,green,4878,Relationship
