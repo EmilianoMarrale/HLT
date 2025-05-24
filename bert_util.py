@@ -1,5 +1,10 @@
+import random
+
+import pandas
 import pandas as pd
 import numpy as np
+from sklearn.metrics import classification_report
+from sympy.physics.units import momentum
 from transformers import BertTokenizer, PreTrainedTokenizer
 from torch.utils.data import DataLoader, TensorDataset, WeightedRandomSampler
 from sklearn.model_selection import train_test_split
@@ -9,6 +14,279 @@ from typing import Optional
 from transformers.modeling_utils import SpecificPreTrainedModelType
 import torch
 import torch.nn.functional as F
+from peft import LoraConfig, TaskType, PeftModel
+from ray import tune
+from ray.tune.schedulers import PopulationBasedTraining
+from transformers import get_linear_schedule_with_warmup
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, get_scheduler
+from peft import get_peft_model
+from peft import LoraConfig
+from torch.optim import AdamW
+from datetime import datetime
+import torch
+from torch.utils.data import DataLoader
+from typing import Union
+from torch.optim import SGD
+from transformers import Adafactor
+import random
+import numpy as np
+
+hat_map = {
+    0: "red",
+    1: "white",
+    2: "black",
+    3: "yellow",
+    4: "green",
+}
+
+def scoring_fn(model, val_dataloader, test_labels):
+    # You need to implement or import this function.
+    # It should return a scalar metric (e.g., accuracy, F1 score, etc.)
+    # Example: return accuracy_score(y_true, y_pred)
+    preds, confs = model_predict(model, val_dataloader)
+    labels_flat = test_labels.flatten()
+
+    preds_array = np.array(preds)
+    cl_rep = classification_report(labels_flat, preds_array, target_names=list(hat_map.values()), output_dict=True)
+    print(classification_report(labels_flat, preds_array, target_names=list(hat_map.values())))
+    return cl_rep["accuracy"]  # or any other metric you want to return
+
+
+def set_seed(seed: int = 42):
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+
+    # Ensure deterministic behavior (slower but more reproducible)
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+
+
+def randomized_cv_rasearch(model, tokenizer, train_data, train_labels, test_data, test_labels, num_samples=10, use_lora=True):
+    """
+    Performs a randomized search over hyperparameters with simple holdout validation.
+
+    Parameters:
+    - model_class: Callable that returns a fresh instance of your model
+    - tokenizer: HuggingFace tokenizer
+    - train_data: Training data (e.g., pandas.Series of texts)
+    - train_labels: Training labels
+    - configs: Dictionary of hyperparameter options
+    - num_samples: Number of configurations to try
+    - scoring_fn: Function to evaluate the model (takes model and val_dataloader)
+    - use_lora: Whether to apply LoRA
+
+    Returns:
+    - best_model: Model with the best score
+    - best_config: Configuration dictionary for the best model
+    - best_score: Best evaluation score
+    """
+    set_seed(seed=42)
+    configs = {
+        "epochs": [10, 15, 20, 30],
+        "model_dropout": [0.1, 0.2, 0.3],
+        "optimizer_lr": [1e-5, 2e-5, 3e-5, 5e-5],
+        "scheduler_warmup_steps": [0, 100, 200],
+        "lora_r": [4, 8, 16],
+        "lora_alpha": [16, 32, 64],
+        "lora_dropout": [0.05, 0.1, 0.2],
+        "tokenizer_max_length": [16, 32, 64, 128],
+        "dataloader_batch_size": [8, 16, 32],
+        "clip_grad_norm": [1.0, 2.0, 5.0],
+        "early_stopping_patience": [3, 5, 10],
+        "early_stopping_delta": [0.01, 0.05, 0.1],
+        "scheduler_type": ["linear", "cosine", "constant"],
+        "optimizer_type": ["AdamW", "Adafactor", "SGD"],
+        "weight_decay": [0.01, 0.001, 0.0001],
+    }
+
+    best_score = -np.inf
+    best_model = None
+    best_config = None
+
+    for i in range(num_samples):
+
+        config = sample_config(configs)
+        print(f"Trying configuration {i + 1}/{num_samples}: {config}")
+
+        model.config.hidden_dropout_prob = config["model_dropout"]
+        model.config.attention_probs_dropout_prob = config["model_dropout"]
+
+        # Train the model with current configuration
+        trained_model = train_pipeline(model, tokenizer, train_data, train_labels, config=config, use_lora=use_lora)
+
+        # Tokenize and prepare val_dataloader again to evaluate
+        tids, amids = bert_tokenize_data(tokenizer, pd.Series(test_data), max_length=config["tokenizer_max_length"])
+        val_dataloader = get_data_loader(tids, amids, batch_size=config["dataloader_batch_size"], shuffle=False)
+
+        score = scoring_fn(trained_model, val_dataloader, test_labels)
+
+        print(f"Score: {score:.4f}")
+
+        if score > best_score:
+            best_score = score
+            best_model = trained_model
+            best_config = config
+
+    return best_model, best_config, best_score
+
+
+def sample_config(config_parameters):
+    return {key: random.choice(values) for key, values in config_parameters.items()}
+
+def train_pipeline(model :SpecificPreTrainedModelType, tokenizer : PreTrainedTokenizer, train_data :pandas.Series, train_labels :pandas.Series, config=None, use_lora=True):
+
+    token_ids, attention_masks = bert_tokenize_data(tokenizer, train_data, max_length=config["tokenizer_max_length"])
+    train_dataloader, val_dataloader = tensor_train_test_split(torch.tensor(train_labels), token_ids, attention_masks, test_size=0.2)
+
+    epochs = config["epochs"]
+
+    if use_lora:
+        # Load model and apply LoRA
+        lora_config = LoraConfig(
+            task_type=TaskType.SEQ_CLS,
+            r=config["lora_r"],
+            lora_alpha=config["lora_alpha"],
+            lora_dropout=config["lora_dropout"],
+            inference_mode=False
+        )
+        model = get_peft_model(model, lora_config)
+
+    optimizer = None
+    if config["optimizer_type"] == "AdamW":
+        optimizer =  AdamW(model.parameters(), lr=config["optimizer_lr"], weight_decay=config["weight_decay"])
+    elif config["optimizer_type"] == "Adafactor":
+        optimizer = Adafactor(model.parameters(),  lr=config["optimizer_lr"], weight_decay=config["weight_decay"], scale_parameter=True, relative_step=False)
+    elif config["optimizer_type"] == "SGD":
+        optimizer = SGD(model.parameters(),  lr=config["optimizer_lr"], weight_decay=config["weight_decay"])
+
+
+    num_training_steps = epochs * len(train_dataloader)
+    scheduler = None
+    if config["scheduler_type"] == "linear":
+        scheduler = get_linear_schedule_with_warmup(optimizer, config["scheduler_warmup_steps"], num_training_steps)
+    elif config["scheduler_type"] == "cosine":
+        from transformers import get_cosine_schedule_with_warmup
+        scheduler = get_cosine_schedule_with_warmup(optimizer, config["scheduler_warmup_steps"], num_training_steps)
+    elif config["scheduler_type"] == "constant":
+        from transformers import get_constant_schedule_with_warmup
+        scheduler = get_constant_schedule_with_warmup(optimizer, config["scheduler_warmup_steps"])
+
+    model = train_bert_model(model, optimizer, scheduler, train_dataloader, val_dataloader, config)
+    return model
+
+
+def train_bert_model(model: Union[SpecificPreTrainedModelType, PeftModel],
+                    optimizer: torch.optim.Optimizer,
+                    scheduler: torch.optim.lr_scheduler._LRScheduler,
+                    train_dataloader: DataLoader,
+                    val_dataloader: DataLoader,
+                    config  # Minimum change to qualify as improvement
+                    ) -> SpecificPreTrainedModelType:
+
+    device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
+    model = model.to(device)
+
+    loss_dict = {
+        'epoch': [],
+        'average training loss': [],
+        'average validation loss': []
+    }
+
+    best_val_loss = float('inf')
+    patience_counter = 0
+
+    t0_train = datetime.now()
+
+    for epoch in range(config["epochs"]):
+        model.train()
+        training_loss = 0
+        t0_epoch = datetime.now()
+
+        print(f'\n{"-" * 20} Epoch {epoch + 1} {"-" * 20}')
+        print('Training:\n---------')
+        print(f'Start Time:       {t0_epoch}')
+
+        for batch in train_dataloader:
+            batch_token_ids = batch[0].to(device)
+            batch_attention_mask = batch[1].to(device)
+            batch_labels = batch[2].to(device)
+
+            model.zero_grad()
+            loss, logits = model(
+                batch_token_ids,
+                token_type_ids=None,
+                attention_mask=batch_attention_mask,
+                labels=batch_labels,
+                return_dict=False
+            )
+            training_loss += loss.item()
+            loss.backward()
+            torch.nn.utils.clip_grad_norm_(model.parameters(), config["clip_grad_norm"])
+            optimizer.step()
+            scheduler.step()
+
+        average_train_loss = training_loss / len(train_dataloader)
+        time_epoch = datetime.now() - t0_epoch
+        print(f'Average Training Loss: {average_train_loss}')
+        print(f'Time Taken:            {time_epoch}')
+
+        model.eval()
+        val_loss = 0
+        val_accuracy = 0
+        t0_val = datetime.now()
+        print('\nValidation:\n-----------')
+        print(f'Start Time:       {t0_val}')
+
+        for batch in val_dataloader:
+            batch_token_ids = batch[0].to(device)
+            batch_attention_mask = batch[1].to(device)
+            batch_labels = batch[2].to(device)
+
+            with torch.no_grad():
+                loss, logits = model(
+                    batch_token_ids,
+                    attention_mask=batch_attention_mask,
+                    labels=batch_labels,
+                    token_type_ids=None,
+                    return_dict=False
+                )
+            logits = logits.detach().cpu().numpy()
+            label_ids = batch_labels.to('cpu').numpy()
+            val_loss += loss.item()
+            val_accuracy += calculate_accuracy(logits, label_ids)
+
+        average_val_loss = val_loss / len(val_dataloader)
+        average_val_accuracy = val_accuracy / len(val_dataloader)
+        time_val = datetime.now() - t0_val
+
+        print(f'Average Validation Loss:     {average_val_loss}')
+        print(f'Average Validation Accuracy: {average_val_accuracy}')
+        print(f'Time Taken:                  {time_val}')
+
+        # Store losses
+        loss_dict['epoch'].append(epoch + 1)
+        loss_dict['average training loss'].append(average_train_loss)
+        loss_dict['average validation loss'].append(average_val_loss)
+
+        # Early stopping check
+        if average_val_loss < best_val_loss - config["early_stopping_delta"]:
+            best_val_loss = average_val_loss
+            patience_counter = 0
+            best_model_state = model.state_dict()  # Save best model state
+        else:
+            patience_counter += 1
+            print(f'No improvement for {patience_counter} epoch(s).')
+            if patience_counter >= config["early_stopping_patience"]:
+                print(f'\nEarly stopping triggered after {epoch + 1} epochs.')
+                model.load_state_dict(best_model_state)  # Load best model
+                break
+
+    print(f'\nTotal training time: {datetime.now() - t0_train}')
+    return model
+
+
 
 def bert_tokenize_data(tokenizer :PreTrainedTokenizer,  series: pd.Series, max_length: int=128, truncation: bool=True, padding :str='max_length') -> (torch.Tensor, torch.Tensor):
     """
@@ -86,100 +364,6 @@ def get_data_loader(
 
     return dataloader
 
-def train_bert_model(model: SpecificPreTrainedModelType,
-                    optimizer: torch.optim,
-                    scheduler: torch.optim.lr_scheduler,
-                    train_dataloader: DataLoader,
-                    val_dataloader: DataLoader,
-                    epochs: int=4) -> SpecificPreTrainedModelType:
-
-    # Check if GPU is available for faster training time
-    device = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('cpu')
-
-    model = model.to(device)
-
-    loss_dict = {
-        'epoch': [i + 1 for i in range(epochs)],
-        'average training loss': [],
-        'average validation loss': []
-    }
-    t0_train = datetime.now()
-
-    for epoch in range(0, epochs):
-
-        model.train()
-        training_loss = 0
-        t0_epoch = datetime.now()
-
-        print(f'{"-" * 20} Epoch {epoch + 1} {"-" * 20}')
-        print('\nTraining:\n---------')
-        print(f'Start Time:       {t0_epoch}')
-
-        for batch in train_dataloader:
-            batch_token_ids = batch[0].to(device)
-            batch_attention_mask = batch[1].to(device)
-            batch_labels = batch[2].to(device)
-
-            model.zero_grad()
-
-            loss, logits = model(
-                batch_token_ids,
-                token_type_ids=None,
-                attention_mask=batch_attention_mask,
-                labels=batch_labels,
-                return_dict=False)
-
-            training_loss += loss.item()
-            loss.backward()
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
-            optimizer.step()
-            scheduler.step()
-
-        average_train_loss = training_loss / len(train_dataloader)
-        time_epoch = datetime.now() - t0_epoch
-        print(f'Average Loss:     {average_train_loss}')
-        print(f'Time Taken:       {time_epoch}')
-
-        model.eval()
-        val_loss = 0
-        val_accuracy = 0
-
-        t0_val = datetime.now()
-        print('\nValidation:\n---------')
-        print(f'Start Time:       {t0_val}')
-
-        for batch in val_dataloader:
-            batch_token_ids = batch[0].to(device)
-            batch_attention_mask = batch[1].to(device)
-            batch_labels = batch[2].to(device)
-
-            with torch.no_grad():
-                (loss, logits) = model(
-                    batch_token_ids,
-                    attention_mask=batch_attention_mask,
-                    labels=batch_labels,
-                    token_type_ids=None,
-                    return_dict=False)
-
-            logits = logits.detach().cpu().numpy()
-            label_ids = batch_labels.to('cpu').numpy()
-            val_loss += loss.item()
-            val_accuracy += calculate_accuracy(logits, label_ids)
-
-        average_val_accuracy = val_accuracy / len(val_dataloader)
-        average_val_loss = val_loss / len(val_dataloader)
-        time_val = datetime.now() - t0_val
-
-        print(f'Average Loss:     {average_val_loss}')
-        print(f'Average Accuracy: {average_val_accuracy}')
-        print(f'Time Taken:       {time_val}\n')
-
-        loss_dict['average training loss'].append(average_train_loss)
-        loss_dict['average validation loss'].append(average_val_loss)
-
-    print(f'Total training time: {datetime.now() - t0_train}')
-    return model
-
 def calculate_accuracy(preds, labels):
     """ Calculate the accuracy of model predictions against true labels.
 
@@ -235,29 +419,5 @@ def model_predict(model: SpecificPreTrainedModelType, dataloader: DataLoader) ->
                 all_confidence.extend(confidences.cpu().numpy().tolist())
 
         return all_preds, all_confidence
-
-
-def focal_loss(inputs, targets, alpha=1, gamma=2, reduction='mean'):
-    """
-    Focal Loss for multi-class classification.
-    Args:
-        inputs (torch.Tensor): Predictions from the model.
-        targets (torch.Tensor): True labels.
-        alpha (float): Weighting factor for the class.
-        gamma (float): Focusing parameter to adjust the rate at which easy examples are down-weighted.
-        reduction (str): Reduction method ('mean', 'sum', or 'none').
-    Returns:
-        torch.Tensor: Computed focal loss.
-    """
-    CE_loss = F.cross_entropy(inputs, targets, reduction='none')
-    pt = torch.exp(-CE_loss)
-    focal_loss = alpha * (1 - pt) ** gamma * CE_loss
-
-    if reduction == 'mean':
-        return focal_loss.mean()
-    elif reduction == 'sum':
-        return focal_loss.sum()
-    else:
-        return focal_loss
 
 
