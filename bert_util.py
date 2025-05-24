@@ -63,7 +63,7 @@ def set_seed(seed: int = 42):
     torch.backends.cudnn.benchmark = False
 
 
-def randomized_cv_rasearch(model, tokenizer, train_data, train_labels, test_data, test_labels, num_samples=10, use_lora=True):
+def randomized_cv_rasearch(model_fn, tokenizer, train_data, train_labels, test_data, test_labels, num_samples=10, use_lora=True):
     """
     Performs a randomized search over hyperparameters with simple holdout validation.
 
@@ -109,7 +109,7 @@ def randomized_cv_rasearch(model, tokenizer, train_data, train_labels, test_data
 
         config = sample_config(configs)
         print(f"Trying configuration {i + 1}/{num_samples}: {config}")
-
+        model = model_fn()
         model.config.hidden_dropout_prob = config["model_dropout"]
         model.config.attention_probs_dropout_prob = config["model_dropout"]
 
@@ -151,7 +151,8 @@ def train_pipeline(model :SpecificPreTrainedModelType, tokenizer : PreTrainedTok
             lora_dropout=config["lora_dropout"],
             inference_mode=False
         )
-        model = get_peft_model(model, lora_config)
+        if not isinstance(model, PeftModel):
+            model = get_peft_model(model, lora_config)
 
     optimizer = None
     if config["optimizer_type"] == "AdamW":
