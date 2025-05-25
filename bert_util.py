@@ -44,12 +44,11 @@ def scoring_fn(model, val_dataloader, test_labels):
     # It should return a scalar metric (e.g., accuracy, F1 score, etc.)
     # Example: return accuracy_score(y_true, y_pred)
     preds, confs = model_predict(model, val_dataloader)
-    labels_flat = test_labels.flatten()
 
     preds_array = np.array(preds)
-    cl_rep = classification_report(labels_flat, preds_array, target_names=list(hat_map.values()), output_dict=True)
-    print(classification_report(labels_flat, preds_array, target_names=list(hat_map.values())))
-    return cl_rep["accuracy"]  # or any other metric you want to return
+    cl_rep = classification_report(test_labels, preds_array, target_names=list(hat_map.values()), output_dict=True, zero_division=0)
+    print(classification_report(test_labels, preds_array, target_names=list(hat_map.values()), zero_division=0))
+    return cl_rep["macro avg"]["f1-score"]
 
 
 def set_seed(seed: int = 42):
@@ -63,73 +62,96 @@ def set_seed(seed: int = 42):
     torch.backends.cudnn.benchmark = False
 
 
-def randomized_cv_rasearch(model_fn, tokenizer, train_data, train_labels, test_data, test_labels, num_samples=10, use_lora=True):
+from sklearn.model_selection import KFold
+import numpy as np
+import pandas as pd
+
+def randomized_cv_search(model_fn, tokenizer, data, labels, num_samples=10, num_folds=5, use_lora=True):
     """
-    Performs a randomized search over hyperparameters with simple holdout validation.
+    Performs randomized hyperparameter search with k-fold cross-validation.
 
     Parameters:
-    - model_class: Callable that returns a fresh instance of your model
-    - tokenizer: HuggingFace tokenizer
-    - train_data: Training data (e.g., pandas.Series of texts)
-    - train_labels: Training labels
-    - configs: Dictionary of hyperparameter options
-    - num_samples: Number of configurations to try
-    - scoring_fn: Function to evaluate the model (takes model and val_dataloader)
-    - use_lora: Whether to apply LoRA
+    - model_fn: Function that returns a fresh model instance.
+    - tokenizer: HuggingFace tokenizer.
+    - data: Input text data (Pandas Series).
+    - labels: Corresponding labels.
+    - num_samples: Number of hyperparameter sets to try.
+    - num_folds: Number of folds for cross-validation.
+    - use_lora: Whether to use LoRA in training.
 
     Returns:
-    - best_model: Model with the best score
-    - best_config: Configuration dictionary for the best model
-    - best_score: Best evaluation score
+    - best_model: Best performing model (retrained on full data).
+    - best_config: Corresponding hyperparameter configuration.
+    - best_score: Best average cross-validation score.
     """
-    set_seed(seed=42)
+    set_seed(42)
+
     configs = {
         "epochs": [10, 15, 20, 30],
         "model_dropout": [0.1, 0.2, 0.3],
-        "optimizer_lr": [1e-5, 2e-5, 3e-5, 5e-5],
+        "optimizer_lr": [1e-3, 1e-4, 1e-5],
         "scheduler_warmup_steps": [0, 100, 200],
         "lora_r": [4, 8, 16],
         "lora_alpha": [16, 32, 64],
         "lora_dropout": [0.05, 0.1, 0.2],
-        "tokenizer_max_length": [16, 32, 64, 128],
+        "tokenizer_max_length": [32, 64, 128],
         "dataloader_batch_size": [8, 16, 32],
-        "clip_grad_norm": [1.0, 2.0, 5.0],
+        "clip_grad_norm": [1.0, 2.0],
         "early_stopping_patience": [3, 5, 10],
         "early_stopping_delta": [0.01, 0.05, 0.1],
         "scheduler_type": ["linear", "cosine", "constant"],
-        "optimizer_type": ["AdamW", "Adafactor", "SGD"],
+        "optimizer_type": ["AdamW", "Adafactor"],
         "weight_decay": [0.01, 0.001, 0.0001],
     }
 
     best_score = -np.inf
-    best_model = None
     best_config = None
 
     for i in range(num_samples):
-
         config = sample_config(configs)
-        print(f"Trying configuration {i + 1}/{num_samples}: {config}")
-        model = model_fn()
-        model.config.hidden_dropout_prob = config["model_dropout"]
-        model.config.attention_probs_dropout_prob = config["model_dropout"]
+        print(f"\n🔍 Trying configuration {i + 1}/{num_samples}: {config}")
 
-        # Train the model with current configuration
-        trained_model = train_pipeline(model, tokenizer, train_data, train_labels, config=config, use_lora=use_lora)
+        scores = []
+        kf = KFold(n_splits=num_folds, shuffle=True, random_state=42)
 
-        # Tokenize and prepare val_dataloader again to evaluate
-        tids, amids = bert_tokenize_data(tokenizer, pd.Series(test_data), max_length=config["tokenizer_max_length"])
-        val_dataloader = get_data_loader(tids, amids, batch_size=config["dataloader_batch_size"], shuffle=False)
+        for fold_idx, (train_idx, val_idx) in enumerate(kf.split(data)):
+            print(f"  🔁 Fold {fold_idx + 1}/{num_folds}")
+            train_texts, val_texts = data.iloc[train_idx], data.iloc[val_idx]
+            train_labels_fold, val_labels = labels[train_idx], labels[val_idx]
 
-        score = scoring_fn(trained_model, val_dataloader, test_labels)
+            model = model_fn()
+            model.config.hidden_dropout_prob = config["model_dropout"]
+            model.config.attention_probs_dropout_prob = config["model_dropout"]
 
-        print(f"Score: {score:.4f}")
+            trained_model = train_pipeline(model, tokenizer, train_texts, train_labels_fold.values, config=config, use_lora=use_lora)
 
-        if score > best_score:
-            best_score = score
-            best_model = trained_model
+            tids, amids = bert_tokenize_data(tokenizer, val_texts, max_length=config["tokenizer_max_length"])
+            val_dataloader = get_data_loader(tids, amids, batch_size=config["dataloader_batch_size"], shuffle=False)
+
+            score = scoring_fn(trained_model, val_dataloader, val_labels)
+            print(f"    ✅ Fold Score: {score:.4f}")
+            scores.append(score)
+
+        avg_score = np.mean(scores)
+        print(f"📊 Avg CV Score: {avg_score:.4f}")
+
+        if avg_score > best_score:
+            best_score = avg_score
             best_config = config
 
-    return best_model, best_config, best_score
+    print("\n🏆 Best Configuration Found:", best_config)
+    print(f"📈 Best CV Score: {best_score:.4f}")
+
+    # Final training on full dataset with best config
+    final_model = model_fn()
+    final_model.config.hidden_dropout_prob = best_config["model_dropout"]
+    final_model.config.attention_probs_dropout_prob = best_config["model_dropout"]
+
+    print("\n🚀 Training final model on full dataset...")
+    final_model = train_pipeline(final_model, tokenizer, data, labels.values, config=best_config, use_lora=use_lora)
+
+    return final_model, best_config, best_score
+
 
 
 def sample_config(config_parameters):
@@ -183,7 +205,7 @@ def train_bert_model(model: Union[SpecificPreTrainedModelType, PeftModel],
                     scheduler: torch.optim.lr_scheduler._LRScheduler,
                     train_dataloader: DataLoader,
                     val_dataloader: DataLoader,
-                    config  # Minimum change to qualify as improvement
+                    config
                     ) -> SpecificPreTrainedModelType:
 
     device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
