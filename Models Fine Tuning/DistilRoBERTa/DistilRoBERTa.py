@@ -270,12 +270,14 @@ class PBTTrainer:
         return accuracy
     
     def train(self, train_dataloader: DataLoader, val_dataloader: DataLoader,
-              num_epochs: int, device: torch.device, save_dir: str = "pbt_checkpoints"):
+              num_epochs: int, device: torch.device, save_dir: str = None):
         """Training loop principale"""
 
         import time
         start_time = time.time()
 
+        if save_dir is None:
+            save_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pbt_checkpoints")
         os.makedirs(save_dir, exist_ok=True)
 
         # Inizializza schedulers
@@ -377,6 +379,8 @@ class PBTTrainer:
         from sklearn.metrics import confusion_matrix, classification_report
         import matplotlib.pyplot as plt
         import seaborn as sns
+        import json
+        import os
 
         best_individual = max(self.population, key=lambda x: x.get_performance())
         best_individual.model.eval()
@@ -396,6 +400,12 @@ class PBTTrainer:
 
                 all_preds.extend(preds.cpu().numpy())
                 all_labels.extend(labels.cpu().numpy())
+
+        # Salva y_true e y_pred come int in un file JSON nella directory pbt_checkpoints accanto a questo file
+        save_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pbt_checkpoints", "confusion_matrix_predictions.json")
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        with open(save_path, "w") as f:
+            json.dump({"y_true": [int(x) for x in all_labels], "y_pred": [int(x) for x in all_preds]}, f)
 
         cm = confusion_matrix(all_labels, all_preds)
         print("Confusion Matrix:")
@@ -435,6 +445,8 @@ class PBTTrainer:
         best_individual = max(self.population, key=lambda x: x.get_performance())
         best_model_path = os.path.join(save_dir, 'best_model')
         best_individual.model.save_pretrained(best_model_path)
+        # Salva anche il tokenizer nella stessa cartella
+        self.tokenizer.save_pretrained(best_model_path)
         
         logger.info(f"Best performance: {max(performances):.4f}")
         logger.info(f"Best hyperparams: {best_individual.hyperparams}")
@@ -599,6 +611,8 @@ def install_requirements(directory: str):
 
 if __name__ == "__main__":
     this_file_dir = str(os.path.dirname(os.path.abspath(__file__)))
+    # from this_file_dir go to the parent directory
+    dataset_dir = os.path.dirname(this_file_dir)
     
     # Installa i requisiti se necessario
     # install_requirements(this_file_dir)
@@ -613,13 +627,13 @@ if __name__ == "__main__":
     # Carica i tuoi dataset JSON (coppie utterance-hat indipendenti)
     train_dataset = load_utterance_hat_dataset(
         # "./Models Fine Tuning/eda_train_dataset.json", 
-        this_file_dir+"/normal_train_dataset.json",
+        dataset_dir+"/eda_train_dataset.json",
         trainer.tokenizer, 
         max_length=512
     )
     test_dataset = load_utterance_hat_dataset(
         # "./Models Fine Tuning/test_dataset.json",
-        this_file_dir+"/normal_test_dataset.json", 
+        dataset_dir+"/synthetic_test_dataset.json", 
         trainer.tokenizer, 
         max_length=512
     )
@@ -653,7 +667,7 @@ if __name__ == "__main__":
     trained_population = trainer.train(
         train_dataloader=train_dataloader,
         val_dataloader=val_dataloader,
-        num_epochs=3,
+        num_epochs=5,
         device=device
     ) 
     
