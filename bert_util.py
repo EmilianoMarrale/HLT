@@ -208,6 +208,7 @@ def train_bert_model(model: Union[SpecificPreTrainedModelType, PeftModel],
                     config
                     ) -> SpecificPreTrainedModelType:
 
+    set_seed(42)
     device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
     model = model.to(device)
 
@@ -322,7 +323,7 @@ def bert_tokenize_data(tokenizer :PreTrainedTokenizer,  series: pd.Series, max_l
     :return: Tuple of tokenized data and attention masks.
     """
     #tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-
+    set_seed(42)
     token_ids = []
     attention_masks = []
 
@@ -349,6 +350,7 @@ def tensor_train_test_split(
     :param test_size: The size of the test set.
     :return: Tuple of training and testing dataloader.
     """
+    set_seed(42)
     train_ids, test_ids = train_test_split(token_ids, test_size=test_size, shuffle=False)
     train_masks, test_masks = train_test_split(attention_masks, test_size=test_size, shuffle=False)
     train_labels, test_labels = train_test_split(labels, test_size=test_size, shuffle=False)
